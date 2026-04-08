@@ -1,0 +1,325 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8556501,
+          42.9475384
+        ]
+      },
+      "properties": {
+        "name": "Em and Em's Books",
+        "url": "Em and Em's Books",
+        "Address": "1415 Hertel Ave, Buffalo, NY 14216, USA",
+        "category": "book_it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8734591,
+          42.8878511
+        ]
+      },
+      "properties": {
+        "name": "Evening House Books",
+        "url": "Evening House Books",
+        "Address": "523 Main St, Buffalo, NY 14203, USA",
+        "category": "book_it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8554133,
+          42.9475609
+        ]
+      },
+      "properties": {
+        "name": "Gutter Pop Comics",
+        "url": "Gutter Pop Comics",
+        "Address": "1421 Hertel Ave, Buffalo, NY 14216, USA",
+        "category": "book_it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8769404,
+          42.910261
+        ]
+      },
+      "properties": {
+        "name": "Inspiration Point",
+        "url": "Inspiration Point",
+        "Address": "483 Elmwood Ave, Buffalo, NY 14222, USA",
+        "category": "book_it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8859155,
+          42.9069899
+        ]
+      },
+      "properties": {
+        "name": "Burning Books",
+        "url": "Burning Books",
+        "Address": "420 Connecticut St, Buffalo, NY 14213, USA",
+        "category": "book_it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8896006,
+          42.9252363
+        ]
+      },
+      "properties": {
+        "name": "Rust Belt Books",
+        "url": "Rust Belt Books",
+        "Address": "415 Grant St, Buffalo, NY 14213, USA",
+        "category": "book_it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8655129,
+          42.9134605
+        ]
+      },
+      "properties": {
+        "name": "Fitz Books & Waffles",
+        "url": "Fitz Books & Waffles",
+        "Address": "1462 Main St, Buffalo, NY 14209, USA",
+        "category": "book_it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8706629,
+          42.964314
+        ]
+      },
+      "properties": {
+        "name": "Steward & Specter",
+        "url": "Steward & Specter",
+        "Address": "2940 Delaware Ave, Buffalo, NY 14217, USA",
+        "category": "book_it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8095662,
+          42.845474
+        ]
+      },
+      "properties": {
+        "name": "Dog Ears Bookstore & Cafe",
+        "url": "Dog Ears Bookstore & Cafe",
+        "Address": "688 Abbott Rd, Buffalo, NY 14220, USA",
+        "category": "book_it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8373556,
+          42.8976624
+        ]
+      },
+      "properties": {
+        "name": "Darul Hikmah Bookstore",
+        "url": "Darul Hikmah Bookstore",
+        "Address": "921 Sycamore St, Buffalo, NY 14212, USA",
+        "category": "book_it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8319536,
+          42.9453373
+        ]
+      },
+      "properties": {
+        "name": "Read It & Eat Bookshop - Buffalo's Culinary Bookstore",
+        "url": "Read It & Eat Bookshop - Buffalo's Culinary Bookstore",
+        "Address": "2929 Main St, Buffalo, NY 14214, USA",
+        "category": "book_it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8972892,
+          42.9664378
+        ]
+      },
+      "properties": {
+        "name": "Book Depot",
+        "url": "Book Depot",
+        "Address": "2299 Kenmore Ave, Buffalo, NY 14207, USA",
+        "category": "book_it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8262544,
+          42.9511014
+        ]
+      },
+      "properties": {
+        "name": "Queen City Book Store",
+        "url": "Queen City Book Store",
+        "Address": "3184 Main St, Buffalo, NY 14214, USA",
+        "category": "book_it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8707084,
+          42.8996103
+        ]
+      },
+      "properties": {
+        "name": "Afterglow Books",
+        "url": "Afterglow Books",
+        "Address": "19 Allen St, Buffalo, NY 14202, USA",
+        "category": "book_it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8504651,
+          42.9380919
+        ]
+      },
+      "properties": {
+        "name": "Alice Ever After Books",
+        "url": "Alice, Ever After Books",
+        "Address": "295 Parkside Ave, Buffalo, NY 14214, USA",
+        "category": "book_it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.865516,
+          42.9134689
+        ]
+      },
+      "properties": {
+        "name": "Fitz Books & Waffles",
+        "url": "Fitz Books & Waffles",
+        "Address": "1462 Main St, Buffalo, NY 14209, USA",
+        "category": "book_it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900596,
+          42.9248374
+        ]
+      },
+      "properties": {
+        "name": "Westside Stories",
+        "url": "Westside Stories",
+        "Address": "398 Grant St Unit 3, Buffalo, NY 14213, USA",
+        "category": "book_it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8988118,
+          42.917578
+        ]
+      },
+      "properties": {
+        "name": "Black Rock Books",
+        "url": "Black Rock Books",
+        "Address": "1239 Niagara St, Buffalo, NY 14213, USA",
+        "category": "book_it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8542114,
+          42.9128371
+        ]
+      },
+      "properties": {
+        "name": "Zawadi Books",
+        "url": "Zawadi Books",
+        "Address": "1382 Jefferson Ave, Buffalo, NY 14208, USA",
+        "category": "book_it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8767216,
+          42.9231453
+        ]
+      },
+      "properties": {
+        "name": "Talking Leaves...Books",
+        "url": "Talking Leaves...Books",
+        "Address": "951 Elmwood Ave, Buffalo, NY 14222, USA",
+        "category": "book_it"
+      }
+    }
+  ]
+}

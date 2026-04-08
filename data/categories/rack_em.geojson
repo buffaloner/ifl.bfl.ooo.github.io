@@ -1,0 +1,259 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8734282,
+          42.8934298
+        ]
+      },
+      "properties": {
+        "name": "Wxyz Bar+lounge",
+        "url": "Wxyz Bar+lounge",
+        "Address": "512 Pearl St, Buffalo, NY 14202, USA",
+        "category": "rack_em"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8239047,
+          42.8438407
+        ]
+      },
+      "properties": {
+        "name": "Black Dog's Tavern",
+        "url": "Black Dog's Tavern",
+        "Address": "2015 South Park Ave, Buffalo, NY 14220, USA",
+        "category": "rack_em"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8288751,
+          42.8751922
+        ]
+      },
+      "properties": {
+        "name": "Old School Tavern",
+        "url": "Old School Tavern",
+        "Address": "1263 Clinton St, Buffalo, NY 14206, USA",
+        "category": "rack_em"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8355621,
+          42.8834924
+        ]
+      },
+      "properties": {
+        "name": "Twilight Grill",
+        "url": "Twilight Grill",
+        "Address": "494 Howard St, Buffalo, NY 14206, USA",
+        "category": "rack_em"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8246213,
+          42.8643761
+        ]
+      },
+      "properties": {
+        "name": "Brandys pub",
+        "url": "Brandys pub",
+        "Address": "805 Elk St, Buffalo, NY 14210, USA",
+        "category": "rack_em"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8721644,
+          42.947606
+        ]
+      },
+      "properties": {
+        "name": "Hippodrome Billiards Inc",
+        "url": "Hippodrome Billiards Inc",
+        "Address": "975 Hertel Ave # 1, Buffalo, NY 14216, USA",
+        "category": "rack_em"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.872745,
+          42.8868693
+        ]
+      },
+      "properties": {
+        "name": "IL MULINO - Cocktail Bar - Downtown",
+        "url": "Il Mulino Cocktail Bar | Downtown Buffalo",
+        "Address": "465 Washington St, Buffalo, NY 14203, USA",
+        "category": "rack_em"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.811306,
+          42.871691
+        ]
+      },
+      "properties": {
+        "name": "The Park Lounge",
+        "url": "The Park Lounge",
+        "Address": "1761 Clinton St, Buffalo, NY 14206, USA",
+        "category": "rack_em"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7850813,
+          42.8719236
+        ]
+      },
+      "properties": {
+        "name": "Pocketeer Billiards",
+        "url": "Pocketeer Billiards",
+        "Address": "2444 Clinton St, Buffalo, NY 14224, USA",
+        "category": "rack_em"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8899909,
+          42.9241776
+        ]
+      },
+      "properties": {
+        "name": "The Gypsy Parlor",
+        "url": "The Gypsy Parlor",
+        "Address": "376 Grant St, Buffalo, NY 14213, USA",
+        "category": "rack_em"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8772817,
+          42.9274485
+        ]
+      },
+      "properties": {
+        "name": "Mr. Goodbar",
+        "url": "Mr. Goodbar",
+        "Address": "1110 Elmwood Ave, Buffalo, NY 14222, USA",
+        "category": "rack_em"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8723435,
+          42.888133
+        ]
+      },
+      "properties": {
+        "name": "House Of Charm",
+        "url": "House Of Charm",
+        "Address": "517 Washington St, Buffalo, NY 14203, USA",
+        "category": "rack_em"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8771897,
+          42.9229337
+        ]
+      },
+      "properties": {
+        "name": "McGarrets",
+        "url": "McGarrets",
+        "Address": "946 Elmwood Ave, Buffalo, NY 14222, USA",
+        "category": "rack_em"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8827403,
+          42.9132991
+        ]
+      },
+      "properties": {
+        "name": "Essex St. Pub",
+        "url": "Essex St. Pub",
+        "Address": "530 Rhode Island St, Buffalo, NY 14213, USA",
+        "category": "rack_em"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8739315,
+          42.8938759
+        ]
+      },
+      "properties": {
+        "name": "Tudor Lounge",
+        "url": "Tudor Lounge",
+        "Address": "335 Franklin St, Buffalo, NY 14202, USA",
+        "category": "rack_em"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.88283969,
+          42.91381749
+        ]
+      },
+      "properties": {
+        "name": "The Lorax",
+        "url": ""
+      }
+    }
+  ]
+}

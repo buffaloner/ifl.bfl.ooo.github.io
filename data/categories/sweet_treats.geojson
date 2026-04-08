@@ -1,0 +1,227 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.807749,
+          42.8899143
+        ]
+      },
+      "properties": {
+        "name": "Sweet Mix @1096",
+        "url": "Sweet Mix @1096",
+        "Address": "1096 E Lovejoy St, Buffalo, NY 14206, USA",
+        "category": "sweet_treats"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8430599,
+          42.873737
+        ]
+      },
+      "properties": {
+        "name": "Artigiana",
+        "url": "Artigiana",
+        "Address": "935 Seneca St, Buffalo, NY 14210, USA",
+        "category": "sweet_treats"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8772534,
+          42.9277994
+        ]
+      },
+      "properties": {
+        "name": "POPularity! Soda, Popcorn, Culture",
+        "url": "POPularity! Soda, Popcorn, Culture",
+        "Address": "1124 Elmwood Ave, Buffalo, NY 14222, USA",
+        "category": "sweet_treats"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9076934,
+          42.9577615
+        ]
+      },
+      "properties": {
+        "name": "Riverside Place",
+        "url": "Riverside Place",
+        "Address": "1083 Tonawanda St, Buffalo, NY 14207, USA",
+        "category": "sweet_treats"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8655407,
+          42.8678818
+        ]
+      },
+      "properties": {
+        "name": "Sevens",
+        "url": "Sevens",
+        "Address": "225 Louisiana St, Buffalo, NY 14204, USA",
+        "category": "sweet_treats"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.875365,
+          42.8880678
+        ]
+      },
+      "properties": {
+        "name": "The CookieJar716 LLC",
+        "url": "The CookieJar716 LLC",
+        "Address": "300 Pearl St, Buffalo, NY 14202, USA",
+        "category": "sweet_treats"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8594636,
+          42.8707217
+        ]
+      },
+      "properties": {
+        "name": "Mazurek's Bakery",
+        "url": "Mazurek's Bakery",
+        "Address": "543 South Park Ave, Buffalo, NY 14204, USA",
+        "category": "sweet_treats"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8475129,
+          42.968133
+        ]
+      },
+      "properties": {
+        "name": "The Sugar Palette",
+        "url": "The Sugar Palette Bakery & Cafe",
+        "Address": "833 Englewood Ave, Buffalo, NY 14223, USA",
+        "category": "sweet_treats"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8842844,
+          42.91109
+        ]
+      },
+      "properties": {
+        "name": "Rosie's Handcrafted Ice Cream",
+        "url": "Rosie's Handcrafted Ice Cream",
+        "Address": "488 W Utica St, Buffalo, NY 14213, USA",
+        "category": "sweet_treats"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8625851,
+          42.9123628
+        ]
+      },
+      "properties": {
+        "name": "Dipped & Designed by Mallory",
+        "url": "Dipped & Designed by Mallory",
+        "Address": "73 Glenwood Ave, Buffalo, NY 14209, USA",
+        "category": "sweet_treats"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8789088,
+          42.9133616
+        ]
+      },
+      "properties": {
+        "name": "Farm Shop",
+        "url": "Farm Shop",
+        "Address": "235 B Lexington Ave, Buffalo, NY 14222, USA",
+        "category": "sweet_treats"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.85611,
+          43.036964
+        ]
+      },
+      "properties": {
+        "name": "Anastasia's Artisan Bread Bakery & Coffee Shop",
+        "url": "Anastasia's Artisan Bread Bakery & Coffee Shop",
+        "Address": "236 Zimmerman St, North Tonawanda, NY 14120, USA",
+        "category": "sweet_treats"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.823763,
+          42.9534102
+        ]
+      },
+      "properties": {
+        "name": "Buffalo Delights",
+        "url": "Buffalo Delights",
+        "Address": "3292 Main St, Buffalo, NY 14214, USA",
+        "category": "sweet_treats"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.88283969,
+          42.91381749
+        ]
+      },
+      "properties": {
+        "name": "The Lorax",
+        "url": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,884 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8758496,
+          42.8797979
+        ]
+      },
+      "properties": {
+        "name": "Cloud Cover Coffee Cafe",
+        "url": "Cloud Cover Coffee Cafe",
+        "Address": "1 Seneca St, Buffalo, NY 14203, USA",
+        "Socials": "https://www.instagram.com/cloudcovercoffee",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8764159,
+          42.8799335
+        ]
+      },
+      "properties": {
+        "name": "Underground\u2019s Coffee Seneca One",
+        "url": "Underground\u2019s Coffee Seneca One",
+        "Address": "1 Seneca St, Buffalo, NY 14203, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8773303,
+          42.8997629
+        ]
+      },
+      "properties": {
+        "name": "The Intersection",
+        "url": "The Intersection",
+        "Address": "100 Elmwood Ave, Buffalo, NY 14201, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8768329,
+          42.9246689
+        ]
+      },
+      "properties": {
+        "name": "The Jade Turtle",
+        "url": "The Jade Turtle",
+        "Address": "1007 Elmwood Ave, Buffalo, NY 14222, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8773869,
+          42.92675
+        ]
+      },
+      "properties": {
+        "name": "Tipico Coffee & Cafe",
+        "url": "Tipico Coffee & Cafe",
+        "Address": "1084 Elmwood Ave, Buffalo, NY 14222, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8694856,
+          42.8897211
+        ]
+      },
+      "properties": {
+        "name": "Jacks Corner Cafe",
+        "url": "Jacks Corner Cafe",
+        "Address": "111 Genesee St, Buffalo, NY 14203, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8635357,
+          42.9475846
+        ]
+      },
+      "properties": {
+        "name": "Sana'a Cafe",
+        "url": "Sana'a Cafe",
+        "Address": "1207 Hertel Ave, Buffalo, NY 14216, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8625739,
+          42.9475043
+        ]
+      },
+      "properties": {
+        "name": "Cafe Bewilderment",
+        "url": "Cafe Bewilderment",
+        "Address": "1235 Hertel Ave, Buffalo, NY 14216, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8623365,
+          42.947956
+        ]
+      },
+      "properties": {
+        "name": "Caf\u00e9 On The Avenue",
+        "url": "Caf\u00e9 On The Avenue",
+        "Address": "1240 Hertel Ave, Buffalo, NY 14216, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8987656,
+          42.9183754
+        ]
+      },
+      "properties": {
+        "name": "Gold Lion Coffee House",
+        "url": "Gold Lion Coffee House",
+        "Address": "1255 Niagara St Suite 120, Buffalo, NY 14213, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8538161,
+          42.9112514
+        ]
+      },
+      "properties": {
+        "name": "Golden Cup Coffee",
+        "url": "Golden Cup Coffee",
+        "Address": "1323 Jefferson Ave, Buffalo, NY 14208, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8772159,
+          42.8880597
+        ]
+      },
+      "properties": {
+        "name": "Mesbaun's Corner cafe",
+        "url": "Mesbaun's Corner cafe",
+        "Address": "135 Delaware Ave, Buffalo, NY 14202, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8986272,
+          42.9232074
+        ]
+      },
+      "properties": {
+        "name": "Bubble Tea and Smoothie Bar",
+        "url": "Bubble Tea and Smoothie Bar",
+        "Address": "1432 Niagara St, Buffalo, NY 14213, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8474956,
+          42.9474993
+        ]
+      },
+      "properties": {
+        "name": "Rise of WNY Coffeehouse",
+        "url": "Rise of WNY Coffeehouse",
+        "Address": "1643 Hertel Ave, Buffalo, NY 14216, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8786848,
+          42.9417349
+        ]
+      },
+      "properties": {
+        "name": "Moriarty Meats",
+        "url": "Moriarty Meats",
+        "Address": "1650 Elmwood Ave, Buffalo, NY 14207, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8761813,
+          42.8824288
+        ]
+      },
+      "properties": {
+        "name": "VASILIS ORIGINAL RESTAURANT - Downtown",
+        "url": "VASILIS ORIGINAL RESTAURANT - Downtown",
+        "Address": "18 Cathedral Park, Buffalo, NY 14202, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8391934,
+          42.9477818
+        ]
+      },
+      "properties": {
+        "name": "The Bean on Hertel",
+        "url": "The Bean on Hertel",
+        "Address": "1862 Hertel Ave, Buffalo, NY 14216, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8905474,
+          42.919996
+        ]
+      },
+      "properties": {
+        "name": "The Healing Grounds Caf\u00e9",
+        "url": "The Healing Grounds Caf\u00e9",
+        "Address": "220 Grant St, Buffalo, NY 14213, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8655407,
+          42.8678818
+        ]
+      },
+      "properties": {
+        "name": "Sevens",
+        "url": "Sevens",
+        "Address": "225 Louisiana St, Buffalo, NY 14204, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8031654,
+          42.8500267
+        ]
+      },
+      "properties": {
+        "name": "Coffee & Crochet",
+        "url": "Coffee & Crochet",
+        "Address": "2342 Seneca St, Buffalo, NY 14210, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8668701,
+          42.8800451
+        ]
+      },
+      "properties": {
+        "name": "McCullagh Coffee",
+        "url": "McCullagh Coffee",
+        "Address": "245 Swan St, Buffalo, NY 14204, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8756556,
+          42.88113
+        ]
+      },
+      "properties": {
+        "name": "E Cafe at the Glenny",
+        "url": "E Cafe at the Glenny",
+        "Address": "249 Main St, Buffalo, NY 14203, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8769612,
+          42.8913096
+        ]
+      },
+      "properties": {
+        "name": "Jake's Caf\u00e9",
+        "url": "Jake's Cafe",
+        "Address": "250 Delaware Ave, Buffalo, NY 14202, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8760914,
+          42.8821918
+        ]
+      },
+      "properties": {
+        "name": "Pete\u2019s Place Food Shop",
+        "url": "Pete\u2019s Place Food Shop",
+        "Address": "290 Main St, Buffalo, NY 14202, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8319536,
+          42.9453373
+        ]
+      },
+      "properties": {
+        "name": "Seven Hearts Coffee Co",
+        "url": "Seven Hearts Coffee Co",
+        "Address": "2929 Main St, Buffalo, NY 14214, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8503977,
+          42.9382312
+        ]
+      },
+      "properties": {
+        "name": "JAM Parkside",
+        "url": "JAM Parkside",
+        "Address": "301 Parkside Ave, Buffalo, NY 14214, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8756464,
+          42.8824787
+        ]
+      },
+      "properties": {
+        "name": "LOUDBREW Cafe",
+        "url": "LOUDBREW Cafe",
+        "Address": "304 Main St, Buffalo, NY 14202, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8728668,
+          42.86859
+        ]
+      },
+      "properties": {
+        "name": "Wonder Coffeehouse",
+        "url": "Wonder Coffeehouse",
+        "Address": "323 Ganson St, Buffalo, NY 14203, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.890197,
+          42.938375
+        ]
+      },
+      "properties": {
+        "name": "Raha Coffee House",
+        "url": "Raha Coffee House",
+        "Address": "370 Amherst St, Buffalo, NY 14207, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8772823,
+          42.9090568
+        ]
+      },
+      "properties": {
+        "name": "Public Espresso",
+        "url": "Public Espresso",
+        "Address": "391 Washington St, Buffalo, NY 14203, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8742993,
+          42.8901285
+        ]
+      },
+      "properties": {
+        "name": "The Original Tea House",
+        "url": "The Original Tea House",
+        "Address": "392 Pearl St Unit 101, Buffalo, NY 14202, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8737611,
+          42.8895397
+        ]
+      },
+      "properties": {
+        "name": "Prova",
+        "url": "Prova",
+        "Address": "40 Fountain Plz #180, Buffalo, NY 14202, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8860474,
+          42.9116205
+        ]
+      },
+      "properties": {
+        "name": "Butter Block",
+        "url": "Butter Block",
+        "Address": "426 Rhode Island St, Buffalo, NY 14213, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8856747,
+          42.9114506
+        ]
+      },
+      "properties": {
+        "name": "Remedy House",
+        "url": "Remedy House",
+        "Address": "429 Rhode Island St, Buffalo, NY 14213, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8856259,
+          42.9108419
+        ]
+      },
+      "properties": {
+        "name": "Five Points Bakery",
+        "url": "Five Points Bakery",
+        "Address": "44 Brayton St, Buffalo, NY 14213, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.873251,
+          42.886494
+        ]
+      },
+      "properties": {
+        "name": "The Lunch Box Buffalo",
+        "url": "The Lunch Box Buffalo",
+        "Address": "465 Main St, Buffalo, NY 14203, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8745365,
+          42.8871248
+        ]
+      },
+      "properties": {
+        "name": "E-Cafe",
+        "url": "E-Cafe",
+        "Address": "478 Main St, Buffalo, NY 14202, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8777399,
+          43.0233849
+        ]
+      },
+      "properties": {
+        "name": "Coffee & Stone",
+        "url": "Coffee & Stone",
+        "Address": "54 Webster St, North Tonawanda, NY 14120, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8579356,
+          42.8708558
+        ]
+      },
+      "properties": {
+        "name": "Undergrounds Coffee House and Roastery",
+        "url": "Undergrounds Coffee House and Roastery",
+        "Address": "580 South Park Ave, Buffalo, NY 14210, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8389322,
+          42.8895286
+        ]
+      },
+      "properties": {
+        "name": "New York Fuska and Coffee Shop",
+        "url": "New York Fuska and Coffee Shop",
+        "Address": "595 Fillmore Ave, Buffalo, NY 14212, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8725002,
+          42.8992949
+        ]
+      },
+      "properties": {
+        "name": "Cafe 59",
+        "url": "Cafe 59",
+        "Address": "62 Allen St, Buffalo, NY 14202, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8720874,
+          42.891835
+        ]
+      },
+      "properties": {
+        "name": "Hearth + Press",
+        "url": "Hearth + Press",
+        "Address": "665 Main St, Buffalo, NY 14203, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8512196,
+          42.8761771
+        ]
+      },
+      "properties": {
+        "name": "Kornerstone Cafe & Juice Bar Larkin",
+        "url": "Kornerstone Cafe & Juice Bar Larkin",
+        "Address": "701 Seneca St, Buffalo, NY 14210, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8709826,
+          42.8950458
+        ]
+      },
+      "properties": {
+        "name": "Third Space Cafe and Entertainment",
+        "url": "Third Space Cafe and Entertainment",
+        "Address": "777 Main St, Buffalo, NY 14203, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8474799,
+          42.8754265
+        ]
+      },
+      "properties": {
+        "name": "Toasted by Buffalo Beauty Foodie",
+        "url": "Toasted by Buffalo Beauty Foodie",
+        "Address": "799 Seneca St Suite B, Buffalo, NY 14210, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8466909,
+          42.9243481
+        ]
+      },
+      "properties": {
+        "name": "EM Tea Coffee Cup Cafe",
+        "url": "EM Tea Coffee Cup Cafe",
+        "Address": "80 Oakgrove Ave, Buffalo, NY 14208, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8772196,
+          42.9193107
+        ]
+      },
+      "properties": {
+        "name": "overwinter coffee - elmwood village",
+        "url": "Overwinter Coffee - Elmwood Village",
+        "Address": "814 Elmwood Ave, Buffalo, NY 14222, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8475129,
+          42.968133
+        ]
+      },
+      "properties": {
+        "name": "The Sugar Palette",
+        "url": "The Sugar Palette Bakery & Cafe",
+        "Address": "833 Englewood Ave, Buffalo, NY 14223, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8700215,
+          42.8982627
+        ]
+      },
+      "properties": {
+        "name": "Unapologetic Coffee",
+        "url": "Unapologetic Coffee",
+        "Address": "899 Main St, Buffalo, NY 14203, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8730973,
+          42.8882856
+        ]
+      },
+      "properties": {
+        "name": "overwinter coffee - downtown buffalo",
+        "url": "Overwinter Coffee - Downtown Buffalo",
+        "Address": "9 Genesee St, Buffalo, NY 14203, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8703023,
+          42.8989109
+        ]
+      },
+      "properties": {
+        "name": "Penny's Coffee Shop",
+        "url": "Penny's Coffee Shop",
+        "Address": "916 Main St, Buffalo, NY 14202, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8430599,
+          42.873737
+        ]
+      },
+      "properties": {
+        "name": "Artigiana",
+        "url": "Artigiana",
+        "Address": "935 Seneca St, Buffalo, NY 14210, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8768527,
+          42.9231898
+        ]
+      },
+      "properties": {
+        "name": "Caffe Aroma",
+        "url": "Caffe Aroma",
+        "Address": "957 Elmwood Ave, Buffalo, NY 14222, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8623448,
+          42.9370203
+        ]
+      },
+      "properties": {
+        "name": "The Juicery",
+        "url": "The Juicery",
+        "Address": "Meadow Dr, Buffalo, NY 14214, USA",
+        "category": "coffice_space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.88283969,
+          42.91381749
+        ]
+      },
+      "properties": {
+        "name": "The Lorax",
+        "url": ""
+      }
+    }
+  ]
+}

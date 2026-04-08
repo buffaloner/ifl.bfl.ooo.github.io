@@ -1,0 +1,243 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8081666,
+          42.8544179
+        ]
+      },
+      "properties": {
+        "name": "The Blackthorn Restaurant & Pub",
+        "url": "The Blackthorn Restaurant & Pub",
+        "Address": "2134 Seneca St, Buffalo, NY 14210, USA",
+        "category": "patio_season"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8344633,
+          42.9188085
+        ]
+      },
+      "properties": {
+        "name": "Manna @ Northland",
+        "url": "Manna Culinary Group",
+        "Address": "1786 Main St, Buffalo, NY 14208, USA",
+        "category": "patio_season"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.87386,
+          42.8939996
+        ]
+      },
+      "properties": {
+        "name": "Quenelle",
+        "url": "Quenelle",
+        "Address": "341 Franklin St, Buffalo, NY 14202, USA",
+        "category": "patio_season"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8784897,
+          42.9133044
+        ]
+      },
+      "properties": {
+        "name": "The Place",
+        "url": "The Place",
+        "Address": "229 Lexington Ave, Buffalo, NY 14222, USA",
+        "category": "patio_season"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8578663,
+          42.8659282
+        ]
+      },
+      "properties": {
+        "name": "Cook's Bar & Grill",
+        "url": "Cook's Bar & Grill",
+        "Address": "222 Katherine St, Buffalo, NY 14210, USA",
+        "category": "patio_season"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8245329,
+          42.952727
+        ]
+      },
+      "properties": {
+        "name": "Shango New Orleans Bistro & Wine Bar",
+        "url": "Shango New Orleans Bistro & Wine Bar",
+        "Address": "3260 Main St, Buffalo, NY 14214, USA",
+        "category": "patio_season"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8934702,
+          42.9367525
+        ]
+      },
+      "properties": {
+        "name": "The Phoenix at 269",
+        "url": "The Phoenix at 269",
+        "Address": "269 Amherst St, Buffalo, NY 14207, USA",
+        "category": "patio_season"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8705673,
+          42.8981209
+        ]
+      },
+      "properties": {
+        "name": "Coco Bar & Bistro",
+        "url": "Coco Bar & Bistro",
+        "Address": "888 Main St, Buffalo, NY 14202, USA",
+        "category": "patio_season"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8746521,
+          42.8911609
+        ]
+      },
+      "properties": {
+        "name": "Sky Bar",
+        "url": "Sky Bar",
+        "Address": "257 Franklin St, Buffalo, NY 14202, USA",
+        "category": "patio_season"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8876225,
+          42.8788432
+        ]
+      },
+      "properties": {
+        "name": "Sully's Harbor Bar @ Harbor Walk | Erie Basin Marina",
+        "url": "Sully's Harbor Bar @ Harbor Walk | Erie Basin Marina",
+        "Address": "329 Erie St, Buffalo, NY 14202, USA",
+        "category": "patio_season"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8781961,
+          42.9131043
+        ]
+      },
+      "properties": {
+        "name": "Saint Neri",
+        "url": "Saint Neri",
+        "Address": "220 Lexington Ave, Buffalo, NY 14222, USA",
+        "category": "patio_season"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8063817,
+          42.8898875
+        ]
+      },
+      "properties": {
+        "name": "La Verdad Cafe",
+        "url": "La Verdad Cafe Smok\u2019n Soul food bbq",
+        "Address": "Benzinger and lovejoy, 1132 E Lovejoy St, Buffalo, NY 14206, USA",
+        "category": "patio_season"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9076934,
+          42.9577615
+        ]
+      },
+      "properties": {
+        "name": "Riverside Place",
+        "url": "Riverside Place",
+        "Address": "1083 Tonawanda St, Buffalo, NY 14207, USA",
+        "category": "patio_season"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9097251,
+          42.9602455
+        ]
+      },
+      "properties": {
+        "name": "Flavors of Jean",
+        "url": "Flavors of Jean",
+        "Address": "1187 Tonawanda St, Tonawanda Town, NY 14207, USA",
+        "category": "patio_season"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.88283969,
+          42.91381749
+        ]
+      },
+      "properties": {
+        "name": "The Lorax",
+        "url": ""
+      }
+    }
+  ]
+}

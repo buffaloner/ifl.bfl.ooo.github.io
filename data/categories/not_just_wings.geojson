@@ -1,0 +1,771 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8315175,
+          42.9456728
+        ]
+      },
+      "properties": {
+        "name": "Lou Lou",
+        "url": "Lou Lou",
+        "Address": "2939 Main St, Buffalo, NY 14214, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8348955,
+          42.9188155
+        ]
+      },
+      "properties": {
+        "name": "Buffalo Trade center",
+        "url": "Buffalo Trade center",
+        "Address": "171 Walden Ave, Buffalo, NY 14211, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8250986,
+          42.9513306
+        ]
+      },
+      "properties": {
+        "name": "Kalypso Restaurant",
+        "url": "Kalypso Restaurant",
+        "Address": "12 Winspear Ave, Buffalo, NY 14214, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.889798,
+          42.9154504
+        ]
+      },
+      "properties": {
+        "name": "Ph\u1edf Dollar",
+        "url": "Ph\u1edf Dollar",
+        "Address": "322 W Ferry St, Buffalo, NY 14213, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8286374,
+          42.9579571
+        ]
+      },
+      "properties": {
+        "name": "Yalleys African Restaurant",
+        "url": "Yalleys African Restaurant",
+        "Address": "290 Kenmore Ave, Buffalo, NY 14223, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8681819,
+          42.9489007
+        ]
+      },
+      "properties": {
+        "name": "Mighty Taco",
+        "url": "Mighty Taco",
+        "Address": "1039 McKinley Pkwy, Buffalo, NY 14220, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8760914,
+          42.8821918
+        ]
+      },
+      "properties": {
+        "name": "Pete\u2019s Place Food Shop",
+        "url": "Pete\u2019s Place Food Shop",
+        "Address": "290 Main St, Buffalo, NY 14202, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8790159,
+          42.8993775
+        ]
+      },
+      "properties": {
+        "name": "Chef BigWayne Jamaican Cuisine",
+        "url": "Chef BigWayne Jamaican Cuisine",
+        "Address": "242 Allen St, Buffalo, NY 14201, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8870662,
+          42.9107504
+        ]
+      },
+      "properties": {
+        "name": "Las Puertas Buffalo",
+        "url": "Las Puertas Buffalo",
+        "Address": "385 Rhode Island St, Buffalo, NY 14213, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8581255,
+          42.878276
+        ]
+      },
+      "properties": {
+        "name": "314 Myrtle Ave",
+        "url": "314 Myrtle Ave",
+        "Address": "314 Myrtle Ave, Buffalo, NY 14204, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7384184,
+          42.9636496
+        ]
+      },
+      "properties": {
+        "name": "Sun Cuisines",
+        "url": "Sun Cuisines",
+        "Address": "1989 Niagara St, Buffalo, NY 14207, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8442158,
+          42.9587405
+        ]
+      },
+      "properties": {
+        "name": "Frank Gourmet Hot Dogs",
+        "url": "Frank Gourmet Hot Dogs",
+        "Address": "707 Kenmore Ave Buffalo, TN OF TONA, NY 14223, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8719156,
+          42.8907379
+        ]
+      },
+      "properties": {
+        "name": "Pinoy Boi",
+        "url": "Pinoy Boi",
+        "Address": "617 Main St, Buffalo, NY 14203, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8838456,
+          42.9405515
+        ]
+      },
+      "properties": {
+        "name": "Fresh Arabic Sweets \u0628\u0644\u0627\u062f \u0627\u0644\u0634\u0627\u0645",
+        "url": "Fresh Arabic Sweets",
+        "Address": "560 Amherst St, Buffalo, NY 14207, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8890378,
+          42.8984042
+        ]
+      },
+      "properties": {
+        "name": "Niagara Cafe",
+        "url": "Niagara Cafe",
+        "Address": "525 Niagara St, Buffalo, NY 14201, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8985959,
+          42.9231818
+        ]
+      },
+      "properties": {
+        "name": "Soul Boxx",
+        "url": "Soul Boxx",
+        "Address": "1432 Niagara St, Buffalo, NY 14213, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8857824,
+          42.9474499
+        ]
+      },
+      "properties": {
+        "name": "Horn of Africa Habesha restaurant",
+        "url": "Horn of Africa Habesha restaurant",
+        "Address": "610 Hertel Ave, Buffalo, NY 14207, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8678147,
+          42.91876
+        ]
+      },
+      "properties": {
+        "name": "Juicy Burger Bar",
+        "url": "Juicy Burger Bar",
+        "Address": "1275 Delaware Ave, Buffalo, NY 14209, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8476352,
+          42.9474198
+        ]
+      },
+      "properties": {
+        "name": "Heavens Countertop",
+        "url": "Heavens Countertop",
+        "Address": "1641 Hertel Ave, Buffalo, NY 14216, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8905153,
+          42.9430592
+        ]
+      },
+      "properties": {
+        "name": "Pacific Cloud Seafoods",
+        "url": "Pacific Cloud Seafoods",
+        "Address": "27 Chandler St suite 302 a, Buffalo, NY 14207, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8772534,
+          42.9277994
+        ]
+      },
+      "properties": {
+        "name": "POPularity! Soda, Popcorn, Culture",
+        "url": "POPularity! Soda, Popcorn, Culture",
+        "Address": "1124 Elmwood Ave, Buffalo, NY 14222, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9131166,
+          42.9577105
+        ]
+      },
+      "properties": {
+        "name": "The Fire Spot Restaurant",
+        "url": "The Fire Spot Restaurant",
+        "Address": "2829 River Rd, Tonawanda Town, NY 14207, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8700511,
+          42.8912087
+        ]
+      },
+      "properties": {
+        "name": "Brothers Restaurant and Bar",
+        "url": "Brothers Restaurant and Bar",
+        "Address": "475 Ellicott St, Buffalo, NY 14203, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8702662,
+          42.9678627
+        ]
+      },
+      "properties": {
+        "name": "Black Iron",
+        "url": "Black Iron",
+        "Address": "3067 Delaware Ave, Buffalo, NY 14217, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8535877,
+          42.8858203
+        ]
+      },
+      "properties": {
+        "name": "Afghan kabab house & NY style pizza",
+        "url": "Afghan Kabab House & NY Style Pizza",
+        "Address": "397 Jefferson Ave, Buffalo, NY 14206, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.827038,
+          42.9499323
+        ]
+      },
+      "properties": {
+        "name": "The Steer Restaurant & Saloon",
+        "url": "The Steer Restaurant & Saloon",
+        "Address": "3151 Main St, Buffalo, NY 14214, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8244386,
+          42.9528066
+        ]
+      },
+      "properties": {
+        "name": "Halal Feast \u00d3",
+        "url": "HALAL FEAST \u00d3 - BUFFALO",
+        "Address": "3264 Main St, Buffalo, NY 14214, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8772424,
+          42.9277513
+        ]
+      },
+      "properties": {
+        "name": "Mr. Greek of Buffalo",
+        "url": "Mr. Greek of Buffalo",
+        "Address": "1122 Elmwood Ave, Buffalo, NY 14222, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8768329,
+          42.9246689
+        ]
+      },
+      "properties": {
+        "name": "The Jade Turtle",
+        "url": "The Jade Turtle",
+        "Address": "1007 Elmwood Ave, Buffalo, NY 14222, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.881503,
+          42.8946992
+        ]
+      },
+      "properties": {
+        "name": "El Encanto Restaurant",
+        "url": "El Encanto Restaurant",
+        "Address": "257 Virginia St, Buffalo, NY 14201, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8773873,
+          42.9249637
+        ]
+      },
+      "properties": {
+        "name": "Poke Thai Kitchen",
+        "url": "Poke Thai Kitchen",
+        "Address": "1020 Elmwood Ave, Buffalo, NY 14222, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8196878,
+          42.9351402
+        ]
+      },
+      "properties": {
+        "name": "Soul Ty\u201ds",
+        "url": "Soul Ty\u201ds",
+        "Address": "927 Kensington Ave, Buffalo, NY 14215, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8905153,
+          42.9430592
+        ]
+      },
+      "properties": {
+        "name": "Bloom & Rose Deli",
+        "url": "Bloom & Rose Deli",
+        "Address": "27 Chandler St #204a, Buffalo, NY 14207, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8768754,
+          42.9086584
+        ]
+      },
+      "properties": {
+        "name": "A Taste of Soul \"The Hashery\"",
+        "url": "A Taste of Soul \"The Hashery\"",
+        "Address": "423 Elmwood Ave, Buffalo, NY 14222, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8986272,
+          42.9232074
+        ]
+      },
+      "properties": {
+        "name": "MalkiaandCo.Gourmets",
+        "url": "Malkia & Co.Gourmets",
+        "Address": "1432 Niagara St, Buffalo, NY 14213, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8389943,
+          42.9387298
+        ]
+      },
+      "properties": {
+        "name": "Buffalo suya",
+        "url": "Buffalo Suya",
+        "Address": "2383 Fillmore Ave, Buffalo, NY 14214, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8537091,
+          42.8989772
+        ]
+      },
+      "properties": {
+        "name": "SuggaDs",
+        "url": "SuggaDs",
+        "Address": "883 Jefferson Ave Suite D, Buffalo, NY 14204, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8535859,
+          42.899187
+        ]
+      },
+      "properties": {
+        "name": "Island Mix",
+        "url": "Island Mix",
+        "Address": "883 Jefferson Ave, Buffalo, NY 14204, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8191783,
+          42.8959788
+        ]
+      },
+      "properties": {
+        "name": "Al Shahba Shawarma \u0634\u0627\u0648\u0631\u0645\u0627 \u0627\u0644\u0634\u0647\u0628\u0627\u0621",
+        "url": "ALKHAYMA RESTAURANT",
+        "Address": "1505 Broadway, Buffalo, NY 14212, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8964873,
+          42.9062381
+        ]
+      },
+      "properties": {
+        "name": "Pho Lantern Restaurant",
+        "url": "Pho Lantern Restaurant",
+        "Address": "837 Niagara St, Buffalo, NY 14213, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8986273,
+          42.9231985
+        ]
+      },
+      "properties": {
+        "name": "Egyptian Bites",
+        "url": "Egyptian Bites",
+        "Address": "1432 Niagara St, Buffalo, NY 14213, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8790367,
+          42.9725182
+        ]
+      },
+      "properties": {
+        "name": "Chin Hills Restaurant",
+        "url": "Chin Hills Restaurant",
+        "Address": "2756 Elmwood Ave, Kenmore, NY 14217, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9045166,
+          42.9505358
+        ]
+      },
+      "properties": {
+        "name": "House Of Sandwich LLC",
+        "url": "House Of Sandwich LLC",
+        "Address": "800 Tonawanda St, Buffalo, NY 14207, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8655561,
+          42.9479692
+        ]
+      },
+      "properties": {
+        "name": "Falafel House Bakery & Grill",
+        "url": "Falafel House Bakery & Grill",
+        "Address": "1150 Hertel Ave, Buffalo, NY 14216, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8094572,
+          42.8547253
+        ]
+      },
+      "properties": {
+        "name": "Yummy\u2019s Deli & Restaurant",
+        "url": "Yummy\u2019s Deli & Restaurant",
+        "Address": "2097 Seneca St, Buffalo, NY 14210, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8604316,
+          42.8790284
+        ]
+      },
+      "properties": {
+        "name": "Montes Grocery Deli",
+        "url": "Montes Grocery Deli",
+        "Address": "413 Swan St, Buffalo, NY 14204, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8790643,
+          42.8993333
+        ]
+      },
+      "properties": {
+        "name": "El Coquito",
+        "url": "El Coquito",
+        "Address": "242 Allen St, Buffalo, NY 14201, USA",
+        "category": "not_just_wings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.88283969,
+          42.91381749
+        ]
+      },
+      "properties": {
+        "name": "The Lorax",
+        "url": ""
+      }
+    }
+  ]
+}

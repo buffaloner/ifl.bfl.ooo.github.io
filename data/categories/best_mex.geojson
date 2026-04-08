@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8772388,
+          42.9243433
+        ]
+      },
+      "properties": {
+        "name": "Breezy Burrito Bar",
+        "url": "Breezy Burrito Bar",
+        "Address": "1000 Elmwood Ave, Buffalo, NY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8698959,
+          42.8807487
+        ]
+      },
+      "properties": {
+        "name": "Hombre y Lobo | Tacos + Tequila",
+        "url": "Hombre y Lobo | Tacos + Tequila"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8451433,
+          42.8749159
+        ]
+      },
+      "properties": {
+        "name": "D.A.Taste",
+        "url": "D.A.Taste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.877384,
+          42.91012
+        ]
+      },
+      "properties": {
+        "name": "Taqueria El Dorado",
+        "url": "No Way Jose"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8728718,
+          42.8995389
+        ]
+      },
+      "properties": {
+        "name": "La Fiesta Mexican Cantina",
+        "url": "La Fiesta Cantina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8768603,
+          42.9178299
+        ]
+      },
+      "properties": {
+        "name": "Aguacates Mexican Bar & Grill",
+        "url": "Aguacates Mexican Bar & Grill"
+      }
+    }
+  ]
+}

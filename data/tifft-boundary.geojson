@@ -1,0 +1,284 @@
+{
+    "type": "FeatureCollection",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "place_id": 323896262,
+                "osm_type": "way",
+                "osm_id": 682855390,
+                "place_rank": 26,
+                "category": "highway",
+                "type": "tertiary",
+                "importance": 0.05340562676432437,
+                "addresstype": "road",
+                "name": "Tifft Street",
+                "display_name": "Tifft Street, South Buffalo, Buffalo, Erie County, New York, 14220, United States"
+            },
+            "bbox": [
+                -78.8450706,
+                42.8433132,
+                -78.8410596,
+                42.8457222
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -78.8410596,
+                        42.8457222
+                    ],
+                    [
+                        -78.8450706,
+                        42.8433132
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "place_id": 323729066,
+                "osm_type": "way",
+                "osm_id": 649201029,
+                "place_rank": 26,
+                "category": "highway",
+                "type": "tertiary",
+                "importance": 0.05340562676432437,
+                "addresstype": "road",
+                "name": "Tifft Street",
+                "display_name": "Tifft Street, Buffalo, Erie County, New York, 14220, United States"
+            },
+            "bbox": [
+                -78.8539799,
+                42.8400586,
+                -78.8494261,
+                42.841306
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -78.8494261,
+                        42.841306
+                    ],
+                    [
+                        -78.8496276,
+                        42.8412508
+                    ],
+                    [
+                        -78.8539799,
+                        42.8400586
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "place_id": 323726168,
+                "osm_type": "way",
+                "osm_id": 118671448,
+                "place_rank": 26,
+                "category": "highway",
+                "type": "track",
+                "importance": 0.05340562676432437,
+                "addresstype": "road",
+                "name": "Tifft service road",
+                "display_name": "Tifft service road, Buffalo, Erie County, New York, 14210, United States"
+            },
+            "bbox": [
+                -78.8554636,
+                42.846857,
+                -78.8551964,
+                42.8478004
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -78.8554636,
+                        42.846857
+                    ],
+                    [
+                        -78.8553967,
+                        42.8468859
+                    ],
+                    [
+                        -78.8553169,
+                        42.8469836
+                    ],
+                    [
+                        -78.8552481,
+                        42.847081
+                    ],
+                    [
+                        -78.8552393,
+                        42.8471652
+                    ],
+                    [
+                        -78.8551964,
+                        42.8474365
+                    ],
+                    [
+                        -78.8552076,
+                        42.8478004
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "place_id": 324138315,
+                "osm_type": "way",
+                "osm_id": 626031458,
+                "place_rank": 27,
+                "category": "highway",
+                "type": "footway",
+                "importance": 0.040072293430991064,
+                "addresstype": "road",
+                "name": "Old Tifft Street trail",
+                "display_name": "Old Tifft Street trail, Buffalo, Erie County, New York, 14220, United States"
+            },
+            "bbox": [
+                -78.854058,
+                42.8424895,
+                -78.8517099,
+                42.8430371
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -78.854058,
+                        42.8425742
+                    ],
+                    [
+                        -78.8539545,
+                        42.8425345
+                    ],
+                    [
+                        -78.8536252,
+                        42.8424895
+                    ],
+                    [
+                        -78.8534391,
+                        42.8425451
+                    ],
+                    [
+                        -78.8531686,
+                        42.8426025
+                    ],
+                    [
+                        -78.8522888,
+                        42.8428463
+                    ],
+                    [
+                        -78.8517099,
+                        42.8430371
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "place_id": 324900212,
+                "osm_type": "way",
+                "osm_id": 301452811,
+                "place_rank": 27,
+                "category": "highway",
+                "type": "footway",
+                "importance": 0.040072293430991064,
+                "addresstype": "road",
+                "name": "Tifft St Pier",
+                "display_name": "Tifft St Pier, Buffalo, Erie County, New York, 14220, United States"
+            },
+            "bbox": [
+                -78.8582924,
+                42.8391687,
+                -78.8578193,
+                42.8397795
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -78.8580666,
+                        42.8397795
+                    ],
+                    [
+                        -78.8581221,
+                        42.8397378
+                    ],
+                    [
+                        -78.8582257,
+                        42.8396682
+                    ],
+                    [
+                        -78.858277,
+                        42.8396205
+                    ],
+                    [
+                        -78.8582924,
+                        42.8395599
+                    ],
+                    [
+                        -78.8582836,
+                        42.8395183
+                    ],
+                    [
+                        -78.8582573,
+                        42.8394784
+                    ],
+                    [
+                        -78.8582343,
+                        42.8394538
+                    ],
+                    [
+                        -78.8582177,
+                        42.8394365
+                    ],
+                    [
+                        -78.8581879,
+                        42.8393962
+                    ],
+                    [
+                        -78.8581836,
+                        42.8393596
+                    ],
+                    [
+                        -78.8581876,
+                        42.8393329
+                    ],
+                    [
+                        -78.8582014,
+                        42.8392999
+                    ],
+                    [
+                        -78.8581985,
+                        42.8392555
+                    ],
+                    [
+                        -78.8581724,
+                        42.8392116
+                    ],
+                    [
+                        -78.8581213,
+                        42.8391794
+                    ],
+                    [
+                        -78.8580591,
+                        42.8391687
+                    ],
+                    [
+                        -78.8578193,
+                        42.8391783
+                    ]
+                ]
+            }
+        }
+    ]
+}

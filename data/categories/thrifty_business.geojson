@@ -1,0 +1,307 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8707221,
+          42.8995222
+        ]
+      },
+      "properties": {
+        "name": "Roaring Spring Home",
+        "url": "Roaring Spring Home",
+        "Address": "927 Elmwood Ave, Buffalo, NY 14222, USA",
+        "category": "thrifty_business"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8531256,
+          42.915624
+        ]
+      },
+      "properties": {
+        "name": "Buffalo ReUse",
+        "url": "Buffalo ReUse",
+        "Address": "980 Northampton St, Buffalo, NY 14211, USA",
+        "category": "thrifty_business"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8768837,
+          42.9167565
+        ]
+      },
+      "properties": {
+        "name": "Thin Ice",
+        "url": "Thin Ice",
+        "Address": "719 Elmwood Ave, Buffalo, NY 14222, USA",
+        "category": "thrifty_business"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8774632,
+          42.9191462
+        ]
+      },
+      "properties": {
+        "name": "Second Chic",
+        "url": "Second Chic",
+        "Address": "810 Elmwood Ave, Buffalo, NY 14222, USA",
+        "category": "thrifty_business"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8773075,
+          42.9015867
+        ]
+      },
+      "properties": {
+        "name": "My Cuzin Vintage",
+        "url": "My Cuzin Vintage",
+        "Address": "168 Elmwood Ave, Buffalo, NY 14201, USA",
+        "category": "thrifty_business"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8534288,
+          42.9478497
+        ]
+      },
+      "properties": {
+        "name": "Queen City Vintage",
+        "url": "Queen City Vintage",
+        "Address": "746 Elmwood Ave, Buffalo, NY 14222, USA",
+        "category": "thrifty_business"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8715141,
+          42.8995092
+        ]
+      },
+      "properties": {
+        "name": "White Dog Vintage",
+        "url": "White Dog Vintage",
+        "Address": "43 1/2 Allen St, Buffalo, NY 14202, USA",
+        "category": "thrifty_business"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9080394,
+          42.958481
+        ]
+      },
+      "properties": {
+        "name": "Via Princessa",
+        "url": "Via Princessa",
+        "Address": "1111 Tonawanda St, Buffalo, NY 14207, USA",
+        "category": "thrifty_business"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8947789,
+          42.9553883
+        ]
+      },
+      "properties": {
+        "name": "The MadHouse",
+        "url": "The MadHouse",
+        "Address": "155 Isabelle St, Buffalo, NY 14207, USA",
+        "category": "thrifty_business"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8778981,
+          42.9480881
+        ]
+      },
+      "properties": {
+        "name": "Second Chic Outlet",
+        "url": "Second Chic Outlet",
+        "Address": "1871 Elmwood Ave, Buffalo, NY 14216, USA",
+        "category": "thrifty_business"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8619683,
+          42.9476123
+        ]
+      },
+      "properties": {
+        "name": "Clean Collective Refillery",
+        "url": "Clean Collective Refillery",
+        "Address": "1251 Hertel Ave, Buffalo, NY 14216, USA",
+        "category": "thrifty_business"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8768286,
+          42.911137
+        ]
+      },
+      "properties": {
+        "name": "Flip it & Reverse it Apparel",
+        "url": "Flip it & Reverse it Apparel",
+        "Address": "515 Elmwood Ave, Buffalo, NY 14222, USA",
+        "category": "thrifty_business"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8700425,
+          42.9641075
+        ]
+      },
+      "properties": {
+        "name": "The Vintage Raider 716",
+        "url": "The Vintage Raider 716",
+        "Address": "2935 Delaware Ave, Kenmore, NY 14217, USA",
+        "category": "thrifty_business"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.856372,
+          42.8754882
+        ]
+      },
+      "properties": {
+        "name": "Boring Girls",
+        "url": "Boring Girls",
+        "Address": "567 Exchange St Unit 309a, Buffalo, NY 14210, USA",
+        "category": "thrifty_business"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8767853,
+          42.9188464
+        ]
+      },
+      "properties": {
+        "name": "Save The Rags",
+        "url": "Save The Rags",
+        "Address": "795 Elmwood Ave, Buffalo, NY 14222, USA",
+        "category": "thrifty_business"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8720781,
+          42.899576
+        ]
+      },
+      "properties": {
+        "name": "Backroomvintage",
+        "url": "Backroomvintage",
+        "Address": "495 Franklin St, Buffalo, NY 14202, USA",
+        "category": "thrifty_business"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8489918,
+          42.947863
+        ]
+      },
+      "properties": {
+        "name": "Everything Vintage Apparel",
+        "url": "Everything Vintage Apparel",
+        "Address": "1592 Hertel Ave, Buffalo, NY 14216, USA",
+        "category": "thrifty_business"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.89963,
+          42.9183652
+        ]
+      },
+      "properties": {
+        "name": "Niagara Street Vintage Collective",
+        "url": "Niagara Street Vintage Collective",
+        "Address": "1250 Niagara St, Buffalo, NY 14213, USA",
+        "category": "thrifty_business"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.88283969,
+          42.91381749
+        ]
+      },
+      "properties": {
+        "name": "The Lorax",
+        "url": ""
+      }
+    }
+  ]
+}

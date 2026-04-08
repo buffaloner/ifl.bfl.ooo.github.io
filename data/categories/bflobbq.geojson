@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8873215,
+          42.905878
+        ]
+      },
+      "properties": {
+        "name": "Southern Junction",
+        "url": "Southern Junction",
+        "Address": "365 Connecticut St, Buffalo, NY 14213, USA",
+        "category": "BFLOBBQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.832172,
+          42.9204907
+        ]
+      },
+      "properties": {
+        "name": "Big Dan's Smokin' Barbecue LLC",
+        "url": "Big Dan's Smokin' Barbecue LLC",
+        "Address": "220 Sheridan Ave, Buffalo, NY 14211, USA",
+        "category": "BFLOBBQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8063817,
+          42.8898875
+        ]
+      },
+      "properties": {
+        "name": "La Verdad Cafe",
+        "url": "La Verdad Cafe Smok\u2019n Soul food bbq",
+        "Address": "Benzinger and lovejoy, 1132 E Lovejoy St, Buffalo, NY 14206, USA",
+        "category": "BFLOBBQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9083362,
+          42.9589384
+        ]
+      },
+      "properties": {
+        "name": "Nephew\u2019s BBQ LLC.",
+        "url": "Nephew\u2019s BBQ",
+        "Address": "1125 Tonawanda St, Buffalo, NY 14207, USA",
+        "category": "BFLOBBQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.827038,
+          42.9499323
+        ]
+      },
+      "properties": {
+        "name": "The Steer Restaurant & Saloon",
+        "url": "The Steer Restaurant & Saloon",
+        "Address": "3151 Main St, Buffalo, NY 14214, USA",
+        "category": "BFLOBBQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8812942,
+          42.9479581
+        ]
+      },
+      "properties": {
+        "name": "Roaming Bison Tavern",
+        "url": "Roaming Bison Tavern",
+        "Address": "732 Hertel Ave, Buffalo, NY 14207, USA",
+        "category": "BFLOBBQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8580833,
+          42.8782543
+        ]
+      },
+      "properties": {
+        "name": "Buffalo Brewing Company Taproom & BBQ",
+        "url": "Buffalo Brewing Company Taproom",
+        "Address": "314 Myrtle Ave, Buffalo, NY 14204, USA",
+        "category": "BFLOBBQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8734433,
+          42.8979319
+        ]
+      },
+      "properties": {
+        "name": "Fat Bob's Smokehouse",
+        "url": "Fat Bob's Smokehouse",
+        "Address": "41 Virginia Pl, Buffalo, NY 14202, USA",
+        "category": "BFLOBBQ"
+      }
+    }
+  ]
+}

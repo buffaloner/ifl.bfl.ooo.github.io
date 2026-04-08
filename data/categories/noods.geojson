@@ -1,0 +1,355 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8986272,
+          42.9232074
+        ]
+      },
+      "properties": {
+        "name": "William's Kitchen",
+        "url": "William's Kitchen",
+        "Address": "1432 Niagara St, Buffalo, NY 14213, USA",
+        "category": "noods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8986273,
+          42.9231985
+        ]
+      },
+      "properties": {
+        "name": "Phyu Thein",
+        "url": "Phyu Thein",
+        "Address": "1432 Niagara St, Buffalo, NY 14213, USA",
+        "category": "noods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8773873,
+          42.9249637
+        ]
+      },
+      "properties": {
+        "name": "Poke Thai Kitchen",
+        "url": "Poke Thai Kitchen",
+        "Address": "1020 Elmwood Ave, Buffalo, NY 14222, USA",
+        "category": "noods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8535373,
+          42.9478896
+        ]
+      },
+      "properties": {
+        "name": "Taste of Siam",
+        "url": "Taste of Siam",
+        "Address": "1472 Hertel Ave, Buffalo, NY 14216, USA",
+        "category": "noods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8790367,
+          42.9725182
+        ]
+      },
+      "properties": {
+        "name": "Chin Hills Restaurant",
+        "url": "Chin Hills Restaurant",
+        "Address": "2756 Elmwood Ave, Kenmore, NY 14217, USA",
+        "category": "noods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.868851,
+          42.9432035
+        ]
+      },
+      "properties": {
+        "name": "JBC Rice Noodles & Ramen",
+        "url": "Asia Hibachi & Rice Bowls",
+        "Address": "2166 Delaware Ave, Buffalo, NY 14216, USA",
+        "category": "noods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8773826,
+          42.9249603
+        ]
+      },
+      "properties": {
+        "name": "Rin Citi",
+        "url": "Rin Citi",
+        "Address": "1020 Elmwood Ave, Buffalo, NY 14222, USA",
+        "category": "noods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8069335,
+          42.8534939
+        ]
+      },
+      "properties": {
+        "name": "D.A. Eatz",
+        "url": "D.A. Eatz",
+        "Address": "2178 Seneca St, Buffalo, NY 14210, USA",
+        "category": "noods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8887061,
+          42.9388772
+        ]
+      },
+      "properties": {
+        "name": "Nine & Night Thai Cuisine",
+        "url": "Nine & Night Thai Cuisine",
+        "Address": "414 Amherst St, Buffalo, NY 14207, USA",
+        "category": "noods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.854766,
+          42.9475115
+        ]
+      },
+      "properties": {
+        "name": "Taisho Hertel",
+        "url": "Taisho on Hertel",
+        "Address": "1435 Hertel Ave, Buffalo, NY 14216, USA",
+        "category": "noods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.877186,
+          42.9176139
+        ]
+      },
+      "properties": {
+        "name": "Wasabi Japanese Restaurant",
+        "url": "Wasabi Japanese Restaurant",
+        "Address": "752 Elmwood Ave, Buffalo, NY 14222, USA",
+        "category": "noods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8774082,
+          42.91051
+        ]
+      },
+      "properties": {
+        "name": "Taste of Asia",
+        "url": "Taste of Asia",
+        "Address": "494 Elmwood Ave, Buffalo, NY 14222, USA",
+        "category": "noods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8766782,
+          42.9011459
+        ]
+      },
+      "properties": {
+        "name": "Teton Kitchen Elmwood: Asian, Tapas, Bar & Sushi",
+        "url": "Teton Kitchen Elmwood . Asian Tapas , Bar & Sushi",
+        "Address": "153 Elmwood Ave, Buffalo, NY 14201, USA",
+        "category": "noods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.889798,
+          42.9154504
+        ]
+      },
+      "properties": {
+        "name": "Ph\u1edf Dollar",
+        "url": "Ph\u1edf Dollar",
+        "Address": "322 W Ferry St, Buffalo, NY 14213, USA",
+        "category": "noods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8517862,
+          42.958385
+        ]
+      },
+      "properties": {
+        "name": "Yummy Thai",
+        "url": "Yummy Thai",
+        "Address": "914 Kenmore Ave, Buffalo, NY 14216, USA",
+        "category": "noods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7384184,
+          42.9636496
+        ]
+      },
+      "properties": {
+        "name": "Sun Cuisines",
+        "url": "Sun Cuisines",
+        "Address": "1989 Niagara St, Buffalo, NY 14207, USA",
+        "category": "noods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.879135,
+          42.89938
+        ]
+      },
+      "properties": {
+        "name": "Bamboo Ridge",
+        "url": "Bamboo Ridge",
+        "Address": "244 Allen St, Buffalo, NY 14201, USA",
+        "category": "noods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7851992,
+          42.9638402
+        ]
+      },
+      "properties": {
+        "name": "Rin Thai Bistro",
+        "url": "Rin Thai Bistro",
+        "Address": "4446 Main St, Snyder, NY 14226, USA",
+        "category": "noods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.876854,
+          42.9172777
+        ]
+      },
+      "properties": {
+        "name": "SATO",
+        "url": "SATO",
+        "Address": "3268 Main St, Buffalo, NY 14214, USA",
+        "category": "noods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8769268,
+          42.8819402
+        ]
+      },
+      "properties": {
+        "name": "K:Dara Noodle Bar",
+        "url": "K:Dara Noodle Bar",
+        "Address": "110 Pearl St, Buffalo, NY 14202, USA",
+        "category": "noods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8243074,
+          42.9528537
+        ]
+      },
+      "properties": {
+        "name": "SATO Ramen",
+        "url": "SATO Ramen",
+        "Address": "3268 Main St, Buffalo, NY 14214, USA",
+        "category": "noods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.88283969,
+          42.91381749
+        ]
+      },
+      "properties": {
+        "name": "The Lorax",
+        "url": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,1139 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8081666,
+          42.8544179
+        ]
+      },
+      "properties": {
+        "name": "The Blackthorn Restaurant & Pub",
+        "url": "The Blackthorn Restaurant & Pub",
+        "Address": "2134 Seneca St, Buffalo, NY 14210, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.855957,
+          42.8837707
+        ]
+      },
+      "properties": {
+        "name": "Curry's",
+        "url": "Curry's",
+        "Address": "864 Kenmore Ave, Buffalo, NY 14216, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8997308,
+          42.9179564
+        ]
+      },
+      "properties": {
+        "name": "Britesmith Brewing",
+        "url": "Britesmith Brewing - Buffalo",
+        "Address": "1250 Niagara St Suite 400, Buffalo, NY 14213, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8633202,
+          42.8620942
+        ]
+      },
+      "properties": {
+        "name": "Silo City",
+        "url": "Silo City",
+        "Address": "85 Silo City Row, Buffalo, NY 14203, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8636138,
+          42.8611987
+        ]
+      },
+      "properties": {
+        "name": "Duende at Silo City",
+        "url": "duende at Silo City",
+        "Address": "85 Silo City Row, Buffalo, NY 14203, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8746668,
+          42.8751887
+        ]
+      },
+      "properties": {
+        "name": "The Draft Room Buffalo",
+        "url": "The Draft Room",
+        "Address": "79 Perry St, Buffalo, NY 14203, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8917412,
+          42.898599
+        ]
+      },
+      "properties": {
+        "name": "Community Beer Works",
+        "url": "Community Beer Works",
+        "Address": "520 Seventh St, Buffalo, NY 14201, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8746874,
+          42.8818578
+        ]
+      },
+      "properties": {
+        "name": "Union Pub",
+        "url": "Union Pub",
+        "Address": "295 Main St, Buffalo, NY 14203, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.841498,
+          42.947459
+        ]
+      },
+      "properties": {
+        "name": "Colonie Lounge",
+        "url": "Colonie Lounge",
+        "Address": "1795 Hertel Ave, Buffalo, NY 14216, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.873498,
+          42.8748438
+        ]
+      },
+      "properties": {
+        "name": "Cobblestone",
+        "url": "Cobblestone",
+        "Address": "Cobblestone Ln, Amherst, NY 14221, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8771897,
+          42.9229337
+        ]
+      },
+      "properties": {
+        "name": "McGarrets",
+        "url": "McGarrets",
+        "Address": "946 Elmwood Ave, Buffalo, NY 14222, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8739315,
+          42.8938759
+        ]
+      },
+      "properties": {
+        "name": "Tudor Lounge",
+        "url": "Tudor Lounge",
+        "Address": "335 Franklin St, Buffalo, NY 14202, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8793501,
+          42.8993841
+        ]
+      },
+      "properties": {
+        "name": "Nietzsche's",
+        "url": "Nietzsche's",
+        "Address": "248 Allen St, Buffalo, NY 14201, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8512864,
+          42.9474254
+        ]
+      },
+      "properties": {
+        "name": "Moor Room",
+        "url": "Moor Room",
+        "Address": "1535 Hertel Ave, Buffalo, NY 14216, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8607209,
+          42.866235
+        ]
+      },
+      "properties": {
+        "name": "The Barrel Factory",
+        "url": "The Barrel Factory",
+        "Address": "65 Vandalia St, Buffalo, NY 14204, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8529407,
+          42.9475341
+        ]
+      },
+      "properties": {
+        "name": "Sterling Tap & Wurst",
+        "url": "Sterling Tap & Wurst",
+        "Address": "1487 Hertel Ave, Buffalo, NY 14216, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8692192,
+          42.9530456
+        ]
+      },
+      "properties": {
+        "name": "Kelly's Korner",
+        "url": "Kelly's Korner",
+        "Address": "2526 Delaware Ave, Buffalo, NY 14216, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8515534,
+          42.8697314
+        ]
+      },
+      "properties": {
+        "name": "BriarBrothers Brewing Company",
+        "url": "BriarBrothers Brewing Company",
+        "Address": "50 Elk St, Buffalo, NY 14210, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8773617,
+          42.9247083
+        ]
+      },
+      "properties": {
+        "name": "Jack Rabbit",
+        "url": "Jack Rabbit",
+        "Address": "1010 Elmwood Ave, Buffalo, NY 14222, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8652332,
+          42.9126086
+        ]
+      },
+      "properties": {
+        "name": "Oakk Room",
+        "url": "Oakk Room",
+        "Address": "1435 Main St, Buffalo, NY 14209, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.873657,
+          42.8995361
+        ]
+      },
+      "properties": {
+        "name": "Colter Bay",
+        "url": "Colter Bay",
+        "Address": "561 Delaware Ave, Buffalo, NY 14202, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.850445,
+          42.9385536
+        ]
+      },
+      "properties": {
+        "name": "Parkside Meadow",
+        "url": "Parkside Meadow",
+        "Address": "2 Russell St, Buffalo, NY 14214, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8709352,
+          42.888031
+        ]
+      },
+      "properties": {
+        "name": "Big Ditch Brewing Company",
+        "url": "Big Ditch Brewing Company",
+        "Address": "55 E Huron St, Buffalo, NY 14203, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8774103,
+          42.8810808
+        ]
+      },
+      "properties": {
+        "name": "Pearl Street Grill & Brewery",
+        "url": "Pearl Street Grill & Brewery",
+        "Address": "76 Pearl St, Buffalo, NY 14202, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.877453,
+          42.9273256
+        ]
+      },
+      "properties": {
+        "name": "Cole's",
+        "url": "Cole's",
+        "Address": "1104 Elmwood Ave, Buffalo, NY 14222, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8705824,
+          42.9691191
+        ]
+      },
+      "properties": {
+        "name": "Nowhere Lounge",
+        "url": "Nowhere Lounge",
+        "Address": "3115 Delaware Ave, Buffalo, NY 14217, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8235061,
+          42.8427691
+        ]
+      },
+      "properties": {
+        "name": "Talty's Tavern",
+        "url": "Talty's Tavern",
+        "Address": "2056 South Park Ave Suite 1, Buffalo, NY 14220, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8849907,
+          42.9187428
+        ]
+      },
+      "properties": {
+        "name": "Autark Brewhouse",
+        "url": "Autark Brewhouse",
+        "Address": "420 Auburn Ave, Buffalo, NY 14213, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8771916,
+          42.9244539
+        ]
+      },
+      "properties": {
+        "name": "The Beer Keep",
+        "url": "The Beer Keep",
+        "Address": "1002 Elmwood Ave, Buffalo, NY 14222, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8993433,
+          42.9180942
+        ]
+      },
+      "properties": {
+        "name": "Mortalis Brewing Company Buffalo",
+        "url": "Mortalis Brewing Company Buffalo",
+        "Address": "1250 Niagara St Suite 130, Buffalo, NY 14213, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8729661,
+          42.8955075
+        ]
+      },
+      "properties": {
+        "name": "Spotted Octopus Brewing Co.",
+        "url": "Spotted Octopus Brewing Co. - Buffalo",
+        "Address": "41 Edward St, Buffalo, NY 14202, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.845524,
+          42.8749884
+        ]
+      },
+      "properties": {
+        "name": "Buffalo Distilling Company",
+        "url": "Buffalo Distilling Company",
+        "Address": "860 Seneca St, Buffalo, NY 14210, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8597659,
+          42.8658381
+        ]
+      },
+      "properties": {
+        "name": "Gene McCarthy's Old First Ward Brewing Company",
+        "url": "Gene McCarthy's Old First Ward Brewing Company",
+        "Address": "73 Hamburg St, Buffalo, NY 14204, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8823434,
+          42.87128
+        ]
+      },
+      "properties": {
+        "name": "Perro and Poni",
+        "url": "Perro and Poni",
+        "Address": "225 Fuhrmann Boulevard, Buffalo, NY 14203, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8288751,
+          42.8751922
+        ]
+      },
+      "properties": {
+        "name": "Old School Tavern",
+        "url": "Old School Tavern",
+        "Address": "1263 Clinton St, Buffalo, NY 14206, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8153931,
+          42.8781092
+        ]
+      },
+      "properties": {
+        "name": "The Safe House Restaurant & Bar",
+        "url": "The Safe House Restaurant & Bar",
+        "Address": "875 Bailey Ave, Buffalo, NY 14206, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8348033,
+          42.8835328
+        ]
+      },
+      "properties": {
+        "name": "Daren's Tavern",
+        "url": "Daren's Tavern",
+        "Address": "514 Howard St, Buffalo, NY 14206, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8369276,
+          42.8864576
+        ]
+      },
+      "properties": {
+        "name": "G & T Inn",
+        "url": "G & T Inn",
+        "Address": "68 Memorial Dr, Buffalo, NY 14206, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.836293,
+          42.887735
+        ]
+      },
+      "properties": {
+        "name": "Eugene V. Debs Hall",
+        "url": "Eugene V. Debs Hall",
+        "Address": "483 Peckham St, Buffalo, NY 14206, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8458104,
+          42.8774044
+        ]
+      },
+      "properties": {
+        "name": "Smokey's Tavern",
+        "url": "Smokey's Tavern",
+        "Address": "805 S Division St, Buffalo, NY 14210, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8876225,
+          42.8788432
+        ]
+      },
+      "properties": {
+        "name": "Sully's Harbor Bar @ Harbor Walk | Erie Basin Marina",
+        "url": "Sully's Harbor Bar @ Harbor Walk | Erie Basin Marina",
+        "Address": "329 Erie St, Buffalo, NY 14202, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8048654,
+          42.8871451
+        ]
+      },
+      "properties": {
+        "name": "Willie's",
+        "url": "Willie's",
+        "Address": "247 Ludington St Suite 1, Buffalo, NY 14206, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8015568,
+          42.871879
+        ]
+      },
+      "properties": {
+        "name": "Porky's",
+        "url": "Porky's",
+        "Address": "2028 Clinton St, Buffalo, NY 14206, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8700511,
+          42.8912087
+        ]
+      },
+      "properties": {
+        "name": "Brothers Restaurant and Bar",
+        "url": "Brothers Restaurant and Bar",
+        "Address": "475 Ellicott St, Buffalo, NY 14203, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8246213,
+          42.8643761
+        ]
+      },
+      "properties": {
+        "name": "Brandys pub",
+        "url": "Brandys pub",
+        "Address": "805 Elk St, Buffalo, NY 14210, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8685403,
+          42.8966978
+        ]
+      },
+      "properties": {
+        "name": "Ulrich's 1868 Tavern",
+        "url": "Ulrich's 1868 Tavern",
+        "Address": "674 Ellicott St, Buffalo, NY 14203, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.870317,
+          42.889329
+        ]
+      },
+      "properties": {
+        "name": "Eddie Brady's",
+        "url": "Eddie Brady's",
+        "Address": "97 Genesee St, Buffalo, NY 14203, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8718363,
+          42.8867326
+        ]
+      },
+      "properties": {
+        "name": "Electric Avenue Cafe",
+        "url": "Electric Avenue Cafe",
+        "Address": "300 Ellicott St, Buffalo, NY 14203, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.876689,
+          42.889622
+        ]
+      },
+      "properties": {
+        "name": "Sidelines Sports Bar and Grill",
+        "url": "Sidelines Sports Bar and Grill",
+        "Address": "189 Delaware Ave, Buffalo, NY 14202, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8725692,
+          42.8923289
+        ]
+      },
+      "properties": {
+        "name": "42 North Brewing Company",
+        "url": "42 North Brewing Company",
+        "Address": "674 Main St, Buffalo, NY 14202, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8756086,
+          42.8899798
+        ]
+      },
+      "properties": {
+        "name": "Greatest Of All Time",
+        "url": "Greatest Of All Time",
+        "Address": "228 Franklin St, Buffalo, NY 14202, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8141276,
+          42.8988005
+        ]
+      },
+      "properties": {
+        "name": "Macky's Shamrock Room",
+        "url": "Macky's Shamrock Room",
+        "Address": "1634 Bailey Ave, Buffalo, NY 14212, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8870649,
+          42.9114425
+        ]
+      },
+      "properties": {
+        "name": "Extra Extra Pizza",
+        "url": "Extra Extra Pizza",
+        "Address": "549 W Utica St, Buffalo, NY 14213, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8209807,
+          42.8730179
+        ]
+      },
+      "properties": {
+        "name": "Wildflower Meadery",
+        "url": "Wildflower Meadery",
+        "Address": "1500 Clinton St Bay 167, Buffalo, NY 14206, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8578663,
+          42.8659282
+        ]
+      },
+      "properties": {
+        "name": "Cook's Bar & Grill",
+        "url": "Cook's Bar & Grill",
+        "Address": "222 Katherine St, Buffalo, NY 14210, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8425472,
+          42.8665074
+        ]
+      },
+      "properties": {
+        "name": "The Powerhouse by The Rich Entertainment Group",
+        "url": "The Powerhouse by The Rich Entertainment Group",
+        "Address": "140 Lee St, Buffalo, NY 14210, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8652709,
+          42.8668792
+        ]
+      },
+      "properties": {
+        "name": "Frequentem Brewing Co. Buffalo",
+        "url": "Frequentem Brewing Co. Buffalo",
+        "Address": "225 Louisiana St Suite 107, Buffalo, NY 14204, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8707596,
+          42.9665408
+        ]
+      },
+      "properties": {
+        "name": "Mike & Pop's Bistro & Tavern",
+        "url": "Mike & Pop's Bistro & Tavern",
+        "Address": "3020 Delaware Ave, Buffalo, NY 14217, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8072571,
+          42.8533705
+        ]
+      },
+      "properties": {
+        "name": "Bottle Rocket Beer Reserve",
+        "url": "Bottle Rocket Beer Reserve",
+        "Address": "2182 Seneca St, Buffalo, NY 14210, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8394026,
+          42.9477078
+        ]
+      },
+      "properties": {
+        "name": "JP\u2019s Checkers",
+        "url": "JP\u2019s Checkers",
+        "Address": "1854 Hertel Ave, Buffalo, NY 14216, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8528412,
+          42.9479917
+        ]
+      },
+      "properties": {
+        "name": "Steel Leaf Brewing Co.",
+        "url": "Steel Leaf Brewing Co.",
+        "Address": "1488 Hertel Ave, Buffalo, NY 14216, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8726597,
+          42.8883086
+        ]
+      },
+      "properties": {
+        "name": "Streetlight Brasserie",
+        "url": "Streetlight Brasserie",
+        "Address": "5 E Huron St, Buffalo, NY 14203, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8733541,
+          42.8881913
+        ]
+      },
+      "properties": {
+        "name": "Graylynn",
+        "url": "Graylynn",
+        "Address": "537 Main St, Buffalo, NY 14203, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8755354,
+          42.8802357
+        ]
+      },
+      "properties": {
+        "name": "Other Half Brewing - Buffalo Taproom",
+        "url": "Other Half Brewing - Buffalo Taproom",
+        "Address": "1 Seneca St, Buffalo, NY 14203, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8029316,
+          42.8895572
+        ]
+      },
+      "properties": {
+        "name": "Buffalo Olde Brewery",
+        "url": "Buffalo Olde Brewery",
+        "Address": "1221 E Lovejoy St, Buffalo, NY 14206, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8555918,
+          42.8781292
+        ]
+      },
+      "properties": {
+        "name": "Belt Line Brewery & Kitchen",
+        "url": "Belt Line Brewery & Kitchen",
+        "Address": "545 Swan St, Buffalo, NY 14204, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8762482,
+          42.8783736
+        ]
+      },
+      "properties": {
+        "name": "Pod City Beer Labs",
+        "url": "Pod City Beer Labs",
+        "Address": "125 Main St #110, Buffalo, NY 14203, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8475799,
+          42.8754577
+        ]
+      },
+      "properties": {
+        "name": "Magic Bear Beer Cellar",
+        "url": "Magic Bear Beer Cellar",
+        "Address": "799 Seneca St Suite B, Buffalo, NY 14210, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8736051,
+          42.89262
+        ]
+      },
+      "properties": {
+        "name": "Pour Taproom Buffalo",
+        "url": "Pour Taproom Buffalo",
+        "Address": "490 Pearl St, Buffalo, NY 14202, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8580833,
+          42.8782543
+        ]
+      },
+      "properties": {
+        "name": "Buffalo Brewing Company & Buffalo Deep Dish",
+        "url": "Buffalo Brewing Company Taproom",
+        "Address": "314 Myrtle Ave, Buffalo, NY 14204, USA",
+        "category": "ride_refresh_repeat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.88283969,
+          42.91381749
+        ]
+      },
+      "properties": {
+        "name": "The Lorax",
+        "url": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8401239,
+          42.9473954
+        ]
+      },
+      "properties": {
+        "name": "Shickluna Bikes",
+        "url": "Shickluna Bikes",
+        "Address": "1835 Hertel Ave, Buffalo, NY 14216, USA",
+        "category": "Bike Me"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8720469,
+          42.8995376
+        ]
+      },
+      "properties": {
+        "name": "Rick Cycle Shop",
+        "url": "Rick Cycle Shop",
+        "Address": "55 Allen St, Buffalo, NY 14202, USA",
+        "category": "Bike Me"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8989003,
+          42.920248
+        ]
+      },
+      "properties": {
+        "name": "Campus WheelWorks",
+        "url": "Campus WheelWorks",
+        "Address": "1330 Niagara St, Buffalo, NY 14213, USA",
+        "category": "Bike Me"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8617782,
+          42.8878107
+        ]
+      },
+      "properties": {
+        "name": "GObike Community Workshop & Headquarters",
+        "url": "GObike Community Workshop & Headquarters",
+        "Address": "313 Broadway, Buffalo, NY 14204, USA",
+        "category": "Bike Me"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8537247,
+          42.9120378
+        ]
+      },
+      "properties": {
+        "name": "Holistic Cycles & Mobility Bank",
+        "url": "Holistic Cycles",
+        "Address": "1353 Jefferson Ave, Buffalo, NY 14208, USA",
+        "category": "Bike Me"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.823711,
+          42.846924
+        ]
+      },
+      "properties": {
+        "name": "Ray's Radical Rides",
+        "url": "Ray's Radical Rides",
+        "Address": "South Park and, Tifft St, Buffalo, NY 14220, USA",
+        "category": "Bike Me"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9069142,
+          43.0098966
+        ]
+      },
+      "properties": {
+        "name": "Dick's Bicycle Shop",
+        "url": "Dick's Bicycle Shop",
+        "Address": "781 Niagara St, Tonawanda, NY 14150, USA",
+        "category": "Bike Me"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.843828,
+          42.9651481
+        ]
+      },
+      "properties": {
+        "name": "Handlebars Cycle Company",
+        "url": "Handlebars Cycle Company",
+        "Address": "685 Englewood Ave, Buffalo, NY 14223, USA",
+        "category": "Bike Me"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8573401,
+          42.9441055
+        ]
+      },
+      "properties": {
+        "name": "GObike Community Workshop @ Colvin",
+        "url": "GObike Community Workshop",
+        "Address": "98 Colvin Ave, Buffalo, NY 14216, USA",
+        "category": "Bike Me"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8149251,
+          42.8597691
+        ]
+      },
+      "properties": {
+        "name": "South Buffalo Wheelhouse",
+        "url": "South Buffalo Wheelhouse",
+        "Address": "1872 Seneca St, Buffalo, NY 14210, USA",
+        "category": "Bike Me"
+      }
+    }
+  ]
+}

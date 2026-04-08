@@ -1,0 +1,339 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8734282,
+          42.8934298
+        ]
+      },
+      "properties": {
+        "name": "Wxyz Bar+lounge",
+        "url": "Wxyz Bar+lounge",
+        "Address": "512 Pearl St, Buffalo, NY 14202, USA",
+        "category": "KarUFFALoke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8537524,
+          42.9118242
+        ]
+      },
+      "properties": {
+        "name": "Mike's Lounge (Fuzion Kitchen)",
+        "url": "Mike's Lounge (Fuzion Kitchen)",
+        "Address": "1343 Jefferson Ave, Buffalo, NY 14208, USA",
+        "category": "KarUFFALoke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8451433,
+          42.8749159
+        ]
+      },
+      "properties": {
+        "name": "D.A.Taste",
+        "url": "D.A.Taste",
+        "Address": "864 Seneca St, Buffalo, NY 14210, USA",
+        "category": "KarUFFALoke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8743255,
+          42.8901265
+        ]
+      },
+      "properties": {
+        "name": "Velvet Stone",
+        "url": "Velvet Stone",
+        "Address": "128 Genesee St, Buffalo, NY 14203",
+        "category": "KarUFFALoke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9052796,
+          42.9410375
+        ]
+      },
+      "properties": {
+        "name": "Poize Restaurant & Lounge",
+        "url": "Poize Restaurant & Lounge",
+        "Address": "2081 Niagara St, Buffalo, NY 14207, USA",
+        "category": "KarUFFALoke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8752317,
+          42.8993159
+        ]
+      },
+      "properties": {
+        "name": "Frizzy's Bar & Grill",
+        "url": "Frizzy's Bar & Grill",
+        "Address": "140 Allen St, Buffalo, NY 14201, USA",
+        "category": "KarUFFALoke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8764274,
+          42.8904797
+        ]
+      },
+      "properties": {
+        "name": "Vintage Room",
+        "url": "Vintage Room",
+        "Address": "88 W Chippewa St, Buffalo, NY 14202, USA",
+        "category": "KarUFFALoke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7889404,
+          42.77779
+        ]
+      },
+      "properties": {
+        "name": "Prohibition 2020",
+        "url": "Prohibition 2020",
+        "Address": "3847 Southwestern Blvd, Orchard Park, NY 14127, USA",
+        "category": "KarUFFALoke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9631469,
+          43.0229312
+        ]
+      },
+      "properties": {
+        "name": "2241 Grand Island Blvd",
+        "url": "2241 Grand Island Blvd",
+        "Address": "2241 Grand Island Blvd, Grand Island, NY 14072, USA",
+        "category": "KarUFFALoke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8345626,
+          42.8586718
+        ]
+      },
+      "properties": {
+        "name": "South City Tavern",
+        "url": "South City Tavern",
+        "Address": "1345 South Park Ave, Buffalo, NY 14220, USA",
+        "category": "KarUFFALoke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8251291,
+          42.8256692
+        ]
+      },
+      "properties": {
+        "name": "Ice House Pub",
+        "url": "Ice House Pub",
+        "Address": "715 Ridge Rd, Lackawanna, NY 14218, USA",
+        "category": "KarUFFALoke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8792397,
+          42.8995737
+        ]
+      },
+      "properties": {
+        "name": "Allen St Hardware Cafe",
+        "url": "Allen St Hardware Cafe",
+        "Address": "245 Allen St, Buffalo, NY 14201, USA",
+        "category": "KarUFFALoke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8734812,
+          42.8877388
+        ]
+      },
+      "properties": {
+        "name": "OSB Buffalo/OSB Ciderworks",
+        "url": "OSB Buffalo/OSB Ciderworks",
+        "Address": "517 Main St, Buffalo, NY 14203, USA",
+        "category": "KarUFFALoke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8899909,
+          42.9241776
+        ]
+      },
+      "properties": {
+        "name": "The Gypsy Parlor",
+        "url": "The Gypsy Parlor",
+        "Address": "376 Grant St, Buffalo, NY 14213, USA",
+        "category": "KarUFFALoke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8864674,
+          42.9396927
+        ]
+      },
+      "properties": {
+        "name": "Casey's Black Rock",
+        "url": "Casey's Black Rock",
+        "Address": "484 Amherst St, Buffalo, NY 14207, USA",
+        "category": "KarUFFALoke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8537799,
+          42.91184
+        ]
+      },
+      "properties": {
+        "name": "1343 Jefferson Ave",
+        "url": "1343 Jefferson Ave",
+        "Address": "1343 Jefferson Ave, Buffalo, NY 14208, USA",
+        "category": "KarUFFALoke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8739315,
+          42.8938759
+        ]
+      },
+      "properties": {
+        "name": "Tudor Lounge",
+        "url": "Tudor Lounge",
+        "Address": "335 Franklin St, Buffalo, NY 14202, USA",
+        "category": "KarUFFALoke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8827403,
+          42.9132991
+        ]
+      },
+      "properties": {
+        "name": "Essex St. Pub",
+        "url": "Essex St. Pub",
+        "Address": "530 Rhode Island St, Buffalo, NY 14213, USA",
+        "category": "KarUFFALoke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8935147,
+          42.9373668
+        ]
+      },
+      "properties": {
+        "name": "Hot Mama's Canteen",
+        "url": "Hot Mama's Canteen",
+        "Address": "12 Military Rd, Buffalo, NY 14207, USA",
+        "category": "KarUFFALoke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8772817,
+          42.9274485
+        ]
+      },
+      "properties": {
+        "name": "Mr. Goodbar",
+        "url": "Mr. Goodbar",
+        "Address": "1110 Elmwood Ave, Buffalo, NY 14222, USA",
+        "category": "KarUFFALoke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.88283969,
+          42.91381749
+        ]
+      },
+      "properties": {
+        "name": "The Lorax",
+        "url": ""
+      }
+    }
+  ]
+}

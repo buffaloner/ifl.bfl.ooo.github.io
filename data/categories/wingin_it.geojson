@@ -1,0 +1,275 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8746874,
+          42.8818578
+        ]
+      },
+      "properties": {
+        "name": "Union Pub",
+        "url": "Union Pub",
+        "Address": "295 Main St, Buffalo, NY 14203, USA",
+        "category": "wingin_it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6982406,
+          42.9381838
+        ]
+      },
+      "properties": {
+        "name": "Just Pizza & Wing Co.",
+        "url": "Just Pizza & Wing Co.",
+        "Address": "Buffalo, NY, USA",
+        "category": "wingin_it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8652332,
+          42.9126086
+        ]
+      },
+      "properties": {
+        "name": "Oakk Room",
+        "url": "Oakk Room",
+        "Address": "1435 Main St, Buffalo, NY 14209, USA",
+        "category": "wingin_it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8881741,
+          42.9151289
+        ]
+      },
+      "properties": {
+        "name": "La Nova",
+        "url": "La Nova",
+        "Address": "371 W Ferry St, Buffalo, NY 14213, USA",
+        "category": "wingin_it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8692192,
+          42.9530456
+        ]
+      },
+      "properties": {
+        "name": "Kelly's Korner",
+        "url": "Kelly's Korner",
+        "Address": "2526 Delaware Ave, Buffalo, NY 14216, USA",
+        "category": "wingin_it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.877453,
+          42.9273256
+        ]
+      },
+      "properties": {
+        "name": "Cole's",
+        "url": "Cole's",
+        "Address": "1104 Elmwood Ave, Buffalo, NY 14222, USA",
+        "category": "wingin_it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8981497,
+          42.9223445
+        ]
+      },
+      "properties": {
+        "name": "Sports City Pizza Pub",
+        "url": "Sports City Pizza Pub",
+        "Address": "1407 Niagara St, Buffalo, NY 14213, USA",
+        "category": "wingin_it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8935147,
+          42.9373668
+        ]
+      },
+      "properties": {
+        "name": "Hot Mama's Canteen",
+        "url": "Hot Mama's Canteen",
+        "Address": "12 Military Rd, Buffalo, NY 14207, USA",
+        "category": "wingin_it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8684945,
+          42.9023914
+        ]
+      },
+      "properties": {
+        "name": "Anchor Bar",
+        "url": "Anchor Bar",
+        "Address": "Buffalo, NY, USA",
+        "category": "wingin_it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8517816,
+          42.9475207
+        ]
+      },
+      "properties": {
+        "name": "M.T. Pockets Bar & Grill",
+        "url": "M.T. Pockets Bar & Grill",
+        "Address": "1519 Hertel Ave, Buffalo, NY 14216, USA",
+        "category": "wingin_it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.859043,
+          42.870478
+        ]
+      },
+      "properties": {
+        "name": "Adolf's Old First Ward Tavern",
+        "url": "Adolf's Old First Ward Tavern",
+        "Address": "555 South Park Ave, Buffalo, NY 14204, USA",
+        "category": "wingin_it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.876689,
+          42.889622
+        ]
+      },
+      "properties": {
+        "name": "Sidelines Sports Bar and Grill",
+        "url": "Sidelines Sports Bar and Grill",
+        "Address": "189 Delaware Ave, Buffalo, NY 14202, USA",
+        "category": "wingin_it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8612606,
+          42.9181503
+        ]
+      },
+      "properties": {
+        "name": "Imperial Pizza - Main Street",
+        "url": "Imperial Pizza - Main Street",
+        "Address": "1665 Main St, Buffalo, NY 14209, USA",
+        "category": "wingin_it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8578663,
+          42.8659282
+        ]
+      },
+      "properties": {
+        "name": "Cook's Bar & Grill",
+        "url": "Cook's Bar & Grill",
+        "Address": "222 Katherine St, Buffalo, NY 14210, USA",
+        "category": "wingin_it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8899909,
+          42.9241776
+        ]
+      },
+      "properties": {
+        "name": "The Gypsy Parlor",
+        "url": "The Gypsy Parlor",
+        "Address": "376 Grant St, Buffalo, NY 14213, USA",
+        "category": "wingin_it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.853604,
+          42.898553
+        ]
+      },
+      "properties": {
+        "name": "King of Wings Mural",
+        "url": "King of Wings Mural",
+        "Address": "853 Jefferson Ave, Buffalo, NY 14204, USA",
+        "category": "wingin_it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.88283969,
+          42.91381749
+        ]
+      },
+      "properties": {
+        "name": "The Lorax",
+        "url": ""
+      }
+    }
+  ]
+}

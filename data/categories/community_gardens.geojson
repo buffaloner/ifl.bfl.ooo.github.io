@@ -1,0 +1,179 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.825286,
+          42.922724
+        ]
+      },
+      "properties": {
+        "name": "Community Garden Party",
+        "url": "Community Garden Party",
+        "Address": "852 E Delavan Ave, Buffalo, NY 14215, USA",
+        "category": "community_gardens"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.813326,
+          42.94356
+        ]
+      },
+      "properties": {
+        "name": "Bailey-Dartmouth Community Garden",
+        "url": "Bailey-Dartmouth Community Garden",
+        "Address": "3259 Bailey Ave, Buffalo, NY 14215, USA",
+        "category": "community_gardens"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8419309,
+          42.9565213
+        ]
+      },
+      "properties": {
+        "name": "CCI Community Garden",
+        "url": "CCI Community Garden",
+        "Address": "756 St Lawrence Ave, Buffalo, NY 14216, USA",
+        "category": "community_gardens"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8324853,
+          42.9431838
+        ]
+      },
+      "properties": {
+        "name": "Bennett Campus Community Garden",
+        "url": "Bennett Campus Community Garden",
+        "Address": "2885 Main St, Buffalo, NY 14214, USA",
+        "category": "community_gardens"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8457159,
+          42.8887174
+        ]
+      },
+      "properties": {
+        "name": "Harriet's Garden",
+        "url": "Harriet's Garden",
+        "Address": "212 Stanton St, Buffalo, NY 14212, USA",
+        "category": "community_gardens"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.884057,
+          42.919229
+        ]
+      },
+      "properties": {
+        "name": "Putnam Street Community Garden",
+        "url": "Putnam Street Community Garden",
+        "Address": "83 Putnam St, Buffalo, NY 14213, USA",
+        "category": "community_gardens"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8194593,
+          42.9034126
+        ]
+      },
+      "properties": {
+        "name": "Harvey Austin Garden",
+        "url": "Harvey Austin Garden",
+        "Address": "1403 Sycamore St, Buffalo, NY 14211, USA",
+        "category": "community_gardens"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8290535,
+          42.9529045
+        ]
+      },
+      "properties": {
+        "name": "Tyler Street Community Garden",
+        "url": "Tyler Street Community Garden",
+        "Address": "73 Tyler St, Buffalo, NY 14214, USA",
+        "category": "community_gardens"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.860004,
+          42.9208563
+        ]
+      },
+      "properties": {
+        "name": "East-West Community Garden",
+        "url": "East-West Community Garden",
+        "Address": "1032 Lafayette Ave, Buffalo, NY 14209, USA",
+        "category": "community_gardens"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8307065,
+          42.8817969
+        ]
+      },
+      "properties": {
+        "name": "FeedMore WNY Community Garden",
+        "url": "FeedMore WNY Community Garden",
+        "Address": "88 Holt St, Buffalo, NY 14206, USA",
+        "category": "community_gardens"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.88283969,
+          42.91381749
+        ]
+      },
+      "properties": {
+        "name": "The Lorax",
+        "url": ""
+      }
+    }
+  ]
+}

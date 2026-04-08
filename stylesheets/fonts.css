@@ -1,0 +1,23 @@
+/* ADD FONT FACES HERE */
+@font-face {
+    font-family: 'Emilio';
+    src: url('fonts/emilio.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+    font-family: 'HighSchool';
+    src: url('fonts/highschool.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'OdeErik';
+    src: url('fonts/ode-erik.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: block;
+}

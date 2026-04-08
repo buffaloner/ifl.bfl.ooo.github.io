@@ -1,0 +1,257 @@
+/* Sources: https://squidfunk.github.io/mkdocs-material/customization/ */
+/* filename: docs/stylesheets/extra.css */
+/* Imports */
+/* REMOTE FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+/* CUSTOM FONTS */
+@import url('fonts.css');
+/* PLUGIN CSS */
+@import url('neoteroi/cards.css');
+/* SPLASH PAGE */
+/* Dark, semi-transparent background over the whole site */
+.splash-backdrop {
+    position: fixed;
+    top: 0; 
+    left: 0; 
+    width: 100%; 
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    /* Increase this to be absolutely sure it's on top */
+    z-index: 2000; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    backdrop-filter: blur(5px);
+}
+/* The popup box */
+.splash-modal {
+    background-color: var(--md-default-bg-color);
+    color: var(--md-default-fg-color);
+    padding: 40px;
+    border-radius: 8px;
+    max-width: 450px;
+    width: 90%;
+    position: relative;
+    text-align: center;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+    border-top: 5px solid var(--md-primary-fg-color);
+}
+/* Close 'X' button */
+.splash-close-btn {
+    position: absolute;
+    top: 10px; right: 15px;
+    background: none; border: none;
+    font-size: 24px; cursor: pointer;
+    color: var(--md-default-fg-color--light);
+}
+.splash-close-btn:hover { color: var(--md-primary-fg-color); }
+.splash-modal h2 { margin-top: 0; font-family: 'MyBuffaloFont', sans-serif; font-size: 2rem;}
+.splash-modal p { font-size: 0.95rem; line-height: 1.5; margin-bottom: 25px; }
+/* The Email Input */
+.splash-input {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 15px;
+    border: 1px solid var(--md-default-fg-color--lightest);
+    border-radius: 4px;
+    font-size: 1rem;
+    background-color: var(--md-default-bg-color);
+    color: var(--md-default-fg-color);
+    box-sizing: border-box;
+}
+.splash-input:focus {
+    outline: none;
+    border-color: var(--md-primary-fg-color);
+}
+/* The Submit Button */
+.splash-submit {
+    width: 100%;
+    padding: 12px;
+    background-color: var(--md-primary-fg-color);
+    color: var(--md-primary-bg-color);
+    border: none;
+    border-radius: 4px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: filter 0.2s;
+}
+.splash-submit:hover { filter: brightness(1.1); }
+/* Example use of Fonts CSS for site title */
+/* Target the exact inner wrapper MkDocs uses for the text */
+.md-header__title .md-header__topic {
+    font-family: 'HighSchool', sans-serif !important;
+    /* 1. FORCE normal weight to stop the smearing */
+    font-weight: 400 !important;
+    /* 2. Absolutely forbid the browser from faking bold/italics */
+    font-synthesis: none !important;    
+    /* 3. Keep the size reasonable so it doesn't trigger the scroll truncation */
+    font-size: 1.4rem !important; 
+}
+/* Ensure the baseline is locked so it doesn't clip on the top/bottom */
+.md-header__title .md-ellipsis {
+    line-height: normal !important;
+    padding-top: 10px; /* Highschool font needs the padding from the top */
+    padding-bottom: 2px; /* Gives the bottom of the letters room to breathe */
+}
+/* Example Secondary Font for Page Titles */
+.md-typeset h1 {
+    color: var(--md-default-fg-color--light);
+    font-size: 2em;
+    line-height: 1.3;
+    font-family: OdeErik;
+}
+.md-typeset h2 {
+    color: var(--md-default-fg-color--light);
+    font-size: 2em;
+    line-height: 1.3;
+    font-family: Emilio;
+}
+/* ICONS and EMOJIs https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/#with-colors-docsstylesheetsextracss */
+@keyframes heart {
+  0%, 40%, 80%, 100% {
+      transform: scale(1);
+    }
+    20%, 60% {
+        transform: scale(1.15);
+    }
+}
+.heart {
+    animation: heart 1000ms infinite;
+    color: #EE0F0F;
+}
+.youtube {
+  color: #EE0F0F;
+}
+
+/* If using Google Maps, force the iframe to scale dynamically based on screen size, 
+  preventing horizontal scrolling and broken layouts on mobile devices.
+*/
+.map-responsive {
+    position: relative;
+    width: 100%;
+    /* Creates a 4:3 aspect ratio */
+    padding-bottom: 75%; 
+    height: 0;
+    overflow: hidden;
+    border-radius: 4px; /* Optional: matches Material for MkDocs styling */
+}
+.map-responsive iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+}
+/* OpenStreetMaps CSS for use with leaflet.js */
+/* Sources: https://squidfunk.github.io/mkdocs-material/setup/setting-up-site-colors/ */
+/* 1. DYNAMIC DARK MODE: Inverts the OpenStreetMap tiles when MkDocs is in 'slate' dark mode */
+[data-md-color-scheme="slate"] .leaflet-layer,
+[data-md-color-scheme="slate"] .leaflet-control-zoom-in,
+[data-md-color-scheme="slate"] .leaflet-control-zoom-out,
+[data-md-color-scheme="slate"] .leaflet-control-attribution {
+    filter: invert(100%) hue-rotate(180deg) brightness(95%) contrast(90%);
+}
+/* 2. CUSTOM MAP MARKER: Replaces the default blue pin with a Material-styled circular badge */
+.custom-map-marker {
+    background-color: var(--md-primary-fg-color); 
+    color: var(--md-primary-bg-color); 
+    border-radius: 50%;
+    border: 2px solid var(--md-primary-bg-color);
+    box-shadow: 0 2px 5px rgba(0,0,0,0.5);
+    box-sizing: border-box; 
+    /* Flexbox and hover transforms removed to stop Leaflet conflicts */
+}
+/* Target the raw SVG inside the map pin */
+.custom-map-marker svg {
+    /* BULLETPROOF CENTERING */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);   
+    width: 18px;
+    height: 18px;
+    margin: 0 !important;
+    padding: 0 !important;
+    fill: currentColor;
+    transition: transform 0.2s ease; /* Added smooth hover transition here */
+}
+/* Move the scale effect to the inner SVG so we don't break Leaflet's map coordinates */
+.custom-map-marker:hover svg {
+    transform: translate(-50%, -50%) scale(1.25);
+}
+
+body {
+    text-align: center
+}
+/* Center the footer social icons */
+.md-social {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.md-copyright {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+/* Contain the map's z-index so it doesn't punch through the mobile sidebar */
+.buffalo-map {
+    position: relative;
+    z-index: 1; 
+    isolation: isolate; 
+}
+
+/* 1. Default mobile/tablet behavior (Clean & Standard) */
+.md-header__title {
+    flex-grow: 1;
+}
+
+/* 2. Desktop behavior (The "Dead Center" logic) */
+@media screen and (min-width: 76.25em) { /* 1220px */
+    
+    .md-header__title {
+        flex: 0 0 0% !important;
+        margin: 0 !important;
+        overflow: visible !important;
+    }
+
+    .md-header__topic {
+        position: fixed !important;
+        left: 50% !important;
+        top: 0;
+        height: 3rem; /* Standard Material header height */
+        transform: translateX(-50%);
+        display: flex !important;
+        align-items: center;
+        justify-content: center;
+        width: auto;
+        white-space: nowrap;
+        z-index: 100;
+        pointer-events: none;
+        font-weight: 700;
+        /* Ensure the title doesn't hit the search bar */
+        max-width: 30vw; 
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    /* Keep the active title visible and the background one hidden */
+    .md-header__topic[data-md-state="hidden"] {
+        display: none !important;
+    }
+}
+/* Target the attribution container in the bottom right corner */
+.leaflet-control-attribution, 
+.leaflet-control-attribution a {
+    font-size: 8px !important; /* Tiny, but still technically present */
+    color: rgba(0, 0, 0, 0.4) !important; /* Faded out so it blends in */
+    line-height: 1;
+}
+
+/* Optional: Hide it even more by removing the white background box */
+.leaflet-control-attribution {
+    background: transparent !important;
+    box-shadow: none !important;
+}

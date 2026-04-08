@@ -1,0 +1,659 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8578663,
+          42.8659282
+        ]
+      },
+      "properties": {
+        "name": "Cook's Bar & Grill",
+        "url": "Cook's Bar & Grill",
+        "Address": "222 Katherine St, Buffalo, NY 14210, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8033084,
+          42.8500463
+        ]
+      },
+      "properties": {
+        "name": "Mr. Sports All Star Bar",
+        "url": "Mr. Sports All Star Bar",
+        "Address": "2340 Seneca St, Buffalo, NY 14210, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7981988,
+          42.8714596
+        ]
+      },
+      "properties": {
+        "name": "SC Lounge",
+        "url": "SC Lounge",
+        "Address": "2115 Clinton St, Buffalo, NY 14206, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8090133,
+          42.8549766
+        ]
+      },
+      "properties": {
+        "name": "Hopper's Rush Inn",
+        "url": "Hopper's Rush Inn",
+        "Address": "2104 Seneca St, Buffalo, NY 14210, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8063822,
+          42.8716688
+        ]
+      },
+      "properties": {
+        "name": "The Clinton Lounge",
+        "url": "The Clinton Lounge",
+        "Address": "1895 Clinton St, Buffalo, NY 14206, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7942247,
+          42.8906185
+        ]
+      },
+      "properties": {
+        "name": "Nowaks Tavern",
+        "url": "Nowaks Tavern",
+        "Address": "1458 Lovejoy St, Buffalo, NY 14212, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8083762,
+          42.8416518
+        ]
+      },
+      "properties": {
+        "name": "Molly Maguires",
+        "url": "Molly Maguires",
+        "Address": "834 Abbott Rd, Buffalo, NY 14220, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8239047,
+          42.8438407
+        ]
+      },
+      "properties": {
+        "name": "Black Dog's Tavern",
+        "url": "Black Dog's Tavern",
+        "Address": "2015 South Park Ave, Buffalo, NY 14220, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8493389,
+          42.9072377
+        ]
+      },
+      "properties": {
+        "name": "Bird Cage",
+        "url": "Bird Cage",
+        "Address": "475 Northampton St Suite 1, Buffalo, NY 14208, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7754832,
+          42.86803
+        ]
+      },
+      "properties": {
+        "name": "Vinny's",
+        "url": "Vinny's",
+        "Address": "2704 Clinton St, West Seneca, NY 14224",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8354731,
+          42.8880922
+        ]
+      },
+      "properties": {
+        "name": "Arty's",
+        "url": "Arty's",
+        "Address": "508 Peckham St, Buffalo, NY 14206, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8288751,
+          42.8751922
+        ]
+      },
+      "properties": {
+        "name": "Old School Tavern",
+        "url": "Old School Tavern",
+        "Address": "1263 Clinton St, Buffalo, NY 14206, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8355621,
+          42.8834924
+        ]
+      },
+      "properties": {
+        "name": "Twilight Grill",
+        "url": "Twilight Grill",
+        "Address": "494 Howard St, Buffalo, NY 14206, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8348033,
+          42.8835328
+        ]
+      },
+      "properties": {
+        "name": "Daren's Tavern",
+        "url": "Daren's Tavern",
+        "Address": "514 Howard St, Buffalo, NY 14206, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8458104,
+          42.8774044
+        ]
+      },
+      "properties": {
+        "name": "Smokey's Tavern",
+        "url": "Smokey's Tavern",
+        "Address": "805 S Division St, Buffalo, NY 14210, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8048654,
+          42.8871451
+        ]
+      },
+      "properties": {
+        "name": "Willie's",
+        "url": "Willie's",
+        "Address": "247 Ludington St Suite 1, Buffalo, NY 14206, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8015568,
+          42.871879
+        ]
+      },
+      "properties": {
+        "name": "Porky's",
+        "url": "Porky's",
+        "Address": "2028 Clinton St, Buffalo, NY 14206, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.811306,
+          42.871691
+        ]
+      },
+      "properties": {
+        "name": "The Park Lounge",
+        "url": "The Park Lounge",
+        "Address": "1761 Clinton St, Buffalo, NY 14206, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.859043,
+          42.870478
+        ]
+      },
+      "properties": {
+        "name": "Adolf's Old First Ward Tavern",
+        "url": "Adolf's Old First Ward Tavern",
+        "Address": "555 South Park Ave, Buffalo, NY 14204, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8718363,
+          42.8867326
+        ]
+      },
+      "properties": {
+        "name": "Electric Avenue Cafe",
+        "url": "Electric Avenue Cafe",
+        "Address": "300 Ellicott St, Buffalo, NY 14203, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8685678,
+          42.950973
+        ]
+      },
+      "properties": {
+        "name": "Murrays Tavern",
+        "url": "Murrays Tavern",
+        "Address": "2455 Delaware Ave, Buffalo, NY 14216, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8246213,
+          42.8643761
+        ]
+      },
+      "properties": {
+        "name": "Mr A's Village Corner Pub",
+        "url": "Mr A's Village Corner Pub",
+        "Address": "805 Elk St, Buffalo, NY 14210, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8246213,
+          42.8643761
+        ]
+      },
+      "properties": {
+        "name": "Brandys pub",
+        "url": "Brandys pub",
+        "Address": "805 Elk St, Buffalo, NY 14210, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8394026,
+          42.9477078
+        ]
+      },
+      "properties": {
+        "name": "JP\u2019s Checkers",
+        "url": "JP\u2019s Checkers",
+        "Address": "1854 Hertel Ave, Buffalo, NY 14216, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8765311,
+          42.920963
+        ]
+      },
+      "properties": {
+        "name": "Kitchen Little Buffalo LLC",
+        "url": "Kitchen Little Buffalo LLC",
+        "Address": "875 Elmwood Ave, Buffalo, NY 14222, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8718196,
+          42.872294
+        ]
+      },
+      "properties": {
+        "name": "Swannie House",
+        "url": "Swannie House",
+        "Address": "170 Ohio St, Buffalo, NY 14203, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8792397,
+          42.8995737
+        ]
+      },
+      "properties": {
+        "name": "Allen St Hardware Cafe",
+        "url": "Allen St Hardware Cafe",
+        "Address": "245 Allen St, Buffalo, NY 14201, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8979187,
+          42.9240795
+        ]
+      },
+      "properties": {
+        "name": "Free Street Tavern",
+        "url": "Free Street Tavern",
+        "Address": "1469 Niagara St, Buffalo, NY 14213, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8899909,
+          42.9241776
+        ]
+      },
+      "properties": {
+        "name": "The Gypsy Parlor",
+        "url": "The Gypsy Parlor",
+        "Address": "376 Grant St, Buffalo, NY 14213, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.78439,
+          42.9438246
+        ]
+      },
+      "properties": {
+        "name": "Gordy's Inn",
+        "url": "Gordy's Inn",
+        "Address": "3676 Harlem Rd, Buffalo, NY 14215, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8912214,
+          42.9468676
+        ]
+      },
+      "properties": {
+        "name": "Dill's Tavern",
+        "url": "Dill's Tavern",
+        "Address": "362 Military Rd Suite 1, Buffalo, NY 14207, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8540676,
+          42.9474962
+        ]
+      },
+      "properties": {
+        "name": "Sidebar",
+        "url": "Sidebar",
+        "Address": "1459 Hertel Ave, Buffalo, NY 14216, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.884579,
+          42.9402809
+        ]
+      },
+      "properties": {
+        "name": "Rohall's Corner",
+        "url": "Rohall's Corner",
+        "Address": "540 Amherst St, Buffalo, NY 14207, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8916156,
+          42.9425884
+        ]
+      },
+      "properties": {
+        "name": "Ukrainian American Civic Center",
+        "url": "Ukrainian American Civic Center",
+        "Address": "205 Military Rd, Buffalo, NY 14207, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8581255,
+          42.878276
+        ]
+      },
+      "properties": {
+        "name": "314 Myrtle Ave",
+        "url": "314 Myrtle Ave",
+        "Address": "314 Myrtle Ave, Buffalo, NY 14204, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8827403,
+          42.9132991
+        ]
+      },
+      "properties": {
+        "name": "Essex St. Pub",
+        "url": "Essex St. Pub",
+        "Address": "530 Rhode Island St, Buffalo, NY 14213, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8414564,
+          42.9366881
+        ]
+      },
+      "properties": {
+        "name": "Central Park Grill",
+        "url": "Central Park Grill",
+        "Address": "2519 Main St, Buffalo, NY 14214, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8716602,
+          42.8728345
+        ]
+      },
+      "properties": {
+        "name": "Ballyhoo",
+        "url": "Ballyhoo",
+        "Address": "211 South Park Ave, Buffalo, NY 14204, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8793942,
+          42.8995948
+        ]
+      },
+      "properties": {
+        "name": "Days Park Tavern",
+        "url": "Days Park Tavern",
+        "Address": "253 Allen St, Buffalo, NY 14201, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8739315,
+          42.8938759
+        ]
+      },
+      "properties": {
+        "name": "Tudor Lounge",
+        "url": "Tudor Lounge",
+        "Address": "335 Franklin St, Buffalo, NY 14202, USA",
+        "category": "dank_dives"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.88283969,
+          42.91381749
+        ]
+      },
+      "properties": {
+        "name": "The Lorax",
+        "url": ""
+      }
+    }
+  ]
+}

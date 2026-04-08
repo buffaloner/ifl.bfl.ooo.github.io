@@ -1,0 +1,515 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8784897,
+          42.9133044
+        ]
+      },
+      "properties": {
+        "name": "The Place",
+        "url": "The Place",
+        "Address": "229 Lexington Ave, Buffalo, NY 14222, USA",
+        "category": "cozy_cocktails"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8750005,
+          42.8881955
+        ]
+      },
+      "properties": {
+        "name": "Lucky Day Whiskey Bar",
+        "url": "Lucky Day Whiskey Bar",
+        "Address": "320 Pearl St, Buffalo, NY 14202, USA",
+        "category": "cozy_cocktails"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8756415,
+          42.9318143
+        ]
+      },
+      "properties": {
+        "name": "Cornelia",
+        "url": "Cornelia",
+        "Address": "1285 Elmwood Ave, Buffalo, NY 14222, USA",
+        "category": "cozy_cocktails"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8731697,
+          42.932215
+        ]
+      },
+      "properties": {
+        "name": "The Terrace at Delaware Park",
+        "url": "The Terrace at Delaware Park",
+        "Address": "199 Lincoln Pkwy, Buffalo, NY 14222, USA",
+        "category": "cozy_cocktails"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8725002,
+          42.8992949
+        ]
+      },
+      "properties": {
+        "name": "Cafe 59",
+        "url": "Cafe 59",
+        "Address": "62 Allen St, Buffalo, NY 14202, USA",
+        "category": "cozy_cocktails"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.845524,
+          42.8749884
+        ]
+      },
+      "properties": {
+        "name": "Buffalo Distilling Company",
+        "url": "Buffalo Distilling Company",
+        "Address": "860 Seneca St, Buffalo, NY 14210, USA",
+        "category": "cozy_cocktails"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8686605,
+          42.8698848
+        ]
+      },
+      "properties": {
+        "name": "Hartman's Distilling Co.",
+        "url": "Hartman's Distilling Co.",
+        "Address": "55 Chicago St, Buffalo, NY 14204, USA",
+        "category": "cozy_cocktails"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8873215,
+          42.905878
+        ]
+      },
+      "properties": {
+        "name": "Southern Junction",
+        "url": "Southern Junction",
+        "Address": "365 Connecticut St, Buffalo, NY 14213, USA",
+        "category": "cozy_cocktails"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8770321,
+          42.9010307
+        ]
+      },
+      "properties": {
+        "name": "Equal Parts",
+        "url": "Equal Parts",
+        "Address": "21 St Johns Pl, Buffalo, NY 14201, USA",
+        "category": "cozy_cocktails"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8496682,
+          42.8765682
+        ]
+      },
+      "properties": {
+        "name": "Hydraulic Hearth",
+        "url": "Hydraulic Hearth",
+        "Address": "716 Swan St, Buffalo, NY 14210, USA",
+        "category": "cozy_cocktails"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8770074,
+          42.8996459
+        ]
+      },
+      "properties": {
+        "name": "Casa Azul",
+        "url": "Casa Azul",
+        "Address": "191 Allen St, Buffalo, NY 14201, USA",
+        "category": "cozy_cocktails"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8716602,
+          42.8728345
+        ]
+      },
+      "properties": {
+        "name": "Ballyhoo",
+        "url": "Ballyhoo",
+        "Address": "211 South Park Ave, Buffalo, NY 14204, USA",
+        "category": "cozy_cocktails"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8705824,
+          42.9691191
+        ]
+      },
+      "properties": {
+        "name": "Nowhere Lounge",
+        "url": "Nowhere Lounge",
+        "Address": "3115 Delaware Ave, Buffalo, NY 14217, USA",
+        "category": "cozy_cocktails"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.87386,
+          42.8939996
+        ]
+      },
+      "properties": {
+        "name": "Quenelle",
+        "url": "Quenelle",
+        "Address": "341 Franklin St, Buffalo, NY 14202, USA",
+        "category": "cozy_cocktails"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8734282,
+          42.8934298
+        ]
+      },
+      "properties": {
+        "name": "Wxyz Bar+lounge",
+        "url": "Wxyz Bar+lounge",
+        "Address": "512 Pearl St, Buffalo, NY 14202, USA",
+        "category": "cozy_cocktails"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8770412,
+          42.9010216
+        ]
+      },
+      "properties": {
+        "name": "Equal Parts",
+        "url": "Equal Parts",
+        "Address": "149 Elmwood Ave, Buffalo, NY 14201, USA",
+        "category": "cozy_cocktails"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8468818,
+          42.9804907
+        ]
+      },
+      "properties": {
+        "name": "Candyman Pizza",
+        "url": "Candyman Pizza",
+        "Address": "2347 Sheridan Dr, Tonawanda, NY 14150, USA",
+        "category": "cozy_cocktails"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8700511,
+          42.8912087
+        ]
+      },
+      "properties": {
+        "name": "Brothers Restaurant and Bar",
+        "url": "Brothers Restaurant and Bar",
+        "Address": "475 Ellicott St, Buffalo, NY 14203, USA",
+        "category": "cozy_cocktails"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8781157,
+          42.8853919
+        ]
+      },
+      "properties": {
+        "name": "Deco Lounge",
+        "url": "Deco Lounge",
+        "Address": "69 Delaware Ave, Buffalo, NY 14202, USA",
+        "category": "cozy_cocktails"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8708885,
+          42.8969023
+        ]
+      },
+      "properties": {
+        "name": "The Winesmith",
+        "url": "The Winesmith",
+        "Address": "846 Main St, Buffalo, NY 14202, USA",
+        "category": "cozy_cocktails"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.872745,
+          42.8868693
+        ]
+      },
+      "properties": {
+        "name": "IL MULINO - Cocktail Bar - Downtown",
+        "url": "Il Mulino Cocktail Bar | Downtown Buffalo",
+        "Address": "465 Washington St, Buffalo, NY 14203, USA",
+        "category": "cozy_cocktails"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8698959,
+          42.8807487
+        ]
+      },
+      "properties": {
+        "name": "Hombre y Lobo | Tacos + Tequila",
+        "url": "Hombre y Lobo | Tacos + Tequila",
+        "Address": "149 Swan St Suite 1, Buffalo, NY 14203, USA",
+        "category": "cozy_cocktails"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8245329,
+          42.952727
+        ]
+      },
+      "properties": {
+        "name": "Shango New Orleans Bistro & Wine Bar",
+        "url": "Shango New Orleans Bistro & Wine Bar",
+        "Address": "3260 Main St, Buffalo, NY 14214, USA",
+        "category": "cozy_cocktails"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8760373,
+          42.8893619
+        ]
+      },
+      "properties": {
+        "name": "Chez Ami Restaurant",
+        "url": "Chez Ami Restaurant",
+        "Address": "210 Franklin St, Buffalo, NY 14202, USA",
+        "category": "cozy_cocktails"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8785144,
+          42.9091488
+        ]
+      },
+      "properties": {
+        "name": "Aroma on Bryant",
+        "url": "Aroma on Bryant",
+        "Address": "307 Bryant St, Buffalo, NY 14222, USA",
+        "category": "cozy_cocktails"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8726597,
+          42.8883086
+        ]
+      },
+      "properties": {
+        "name": "Streetlight Brasserie",
+        "url": "Streetlight Brasserie",
+        "Address": "5 E Huron St, Buffalo, NY 14203, USA",
+        "category": "cozy_cocktails"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8733541,
+          42.8881913
+        ]
+      },
+      "properties": {
+        "name": "Graylynn",
+        "url": "Graylynn",
+        "Address": "537 Main St, Buffalo, NY 14203, USA",
+        "category": "cozy_cocktails"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8987999,
+          42.9171985
+        ]
+      },
+      "properties": {
+        "name": "Mint Mojito Bar",
+        "url": "Mint Mojito Bar",
+        "Address": "1225 Niagara St, Buffalo, NY 14213, USA",
+        "category": "cozy_cocktails"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8917083,
+          42.9385414
+        ]
+      },
+      "properties": {
+        "name": "The Cave",
+        "url": "The Cave",
+        "Address": "71 Military Rd, Buffalo, NY 14207, USA",
+        "category": "cozy_cocktails"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8786178,
+          42.8993798
+        ]
+      },
+      "properties": {
+        "name": "Billy Club",
+        "url": "Billy Club",
+        "Address": "228 Allen St, Buffalo, NY 14201, USA",
+        "category": "cozy_cocktails"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.872637,
+          42.8734299
+        ]
+      },
+      "properties": {
+        "name": "Lockhouse Distillery and Bar",
+        "url": "Lockhouse Distillery and Bar",
+        "Address": "41 Columbia St, Buffalo, NY 14204, USA",
+        "category": "cozy_cocktails"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.88283969,
+          42.91381749
+        ]
+      },
+      "properties": {
+        "name": "The Lorax",
+        "url": ""
+      }
+    }
+  ]
+}
