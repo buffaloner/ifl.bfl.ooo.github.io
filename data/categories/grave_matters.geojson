@@ -12,7 +12,7 @@
       },
       "properties": {
         "name": "Holy Cross Cemetery",
-        "url": "Holy Cross Cemetery",
+        "url": "https://www.google.com/maps/place/Holy+Cross+Cemetery/data=!4m2!3m1!1s0x89d30e3661614ba7:0xc35dd5b724c2e4b",
         "Address": "861-929 Fr. Baker Blvd, Lackawanna, NY 14218, USA",
         "category": "grave_matters"
       }
@@ -28,7 +28,7 @@
       },
       "properties": {
         "name": "Elmlawn Memorial Park",
-        "url": "Elmlawn Memorial Park",
+        "url": "https://www.google.com/maps/place/Elmlawn+Memorial+Park/data=!4m2!3m1!1s0x89d36dbc3b761c9f:0xe3cc7fc0254a3ef5",
         "Address": "3939 Delaware Ave, Kenmore, NY 14217, USA",
         "category": "grave_matters"
       }
@@ -44,7 +44,7 @@
       },
       "properties": {
         "name": "St Stanislaus Cemetery",
-        "url": "St Stanislaus Cemetery",
+        "url": "https://www.google.com/maps/place/St+Stanislaus+Cemetery/data=!4m2!3m1!1s0x89d30cd4e92ef077:0xeefbd5adf0ac3715",
         "Address": "700 Pine Ridge Heritage Blvd, Buffalo, NY 14225, USA",
         "category": "grave_matters"
       }
@@ -60,7 +60,7 @@
       },
       "properties": {
         "name": "Mount Carmel Lodge Cemetery",
-        "url": "Mount Carmel Lodge Cemetery",
+        "url": "https://www.google.com/maps/place/Mount+Carmel+Lodge+Cemetery/data=!4m2!3m1!1s0x89d30d5384f9a3b3:0x3c12927553a80c75",
         "Address": "540 Pine Ridge Heritage Blvd, Cheektowaga, NY 14225, USA",
         "category": "grave_matters"
       }
@@ -76,7 +76,7 @@
       },
       "properties": {
         "name": "Buffalo Cemetery",
-        "url": "Buffalo Cemetery",
+        "url": "https://www.google.com/maps/place/Buffalo+Cemetery/data=!4m2!3m1!1s0x89d30cd9dce1cdcd:0x18cb986223831748",
         "Address": "2843 Harlem Rd, Cheektowaga, NY 14225, USA",
         "category": "grave_matters"
       }
@@ -92,7 +92,7 @@
       },
       "properties": {
         "name": "North Bush Cemetery",
-        "url": "North Bush Cemetery",
+        "url": "https://www.google.com/maps/place/North+Bush+Cemetery/data=!4m2!3m1!1s0x89d36d98c71847a9:0x1e666a51f9f845b6",
         "Address": "1083 Englewood Ave, Buffalo, NY 14223, USA",
         "category": "grave_matters"
       }
@@ -124,7 +124,7 @@
       },
       "properties": {
         "name": "Forest Lawn",
-        "url": "Forest Lawn",
+        "url": "https://www.google.com/maps/place/Forest+Lawn/data=!4m2!3m1!1s0x89d312c77fe46789:0xf4e2bbfe92a69165",
         "Address": "1990 Main St, Buffalo, NY 14208, USA",
         "category": "grave_matters"
       }
@@ -140,7 +140,7 @@
       },
       "properties": {
         "name": "Concordia Cemetery",
-        "url": "Concordia Cemetery",
+        "url": "https://www.google.com/maps/place/Concordia+Cemetery/data=!4m2!3m1!1s0x89d30d727250f24d:0x53bc4afd551400b",
         "Address": "438 Walden Ave, Buffalo, NY 14211, USA",
         "category": "grave_matters"
       }

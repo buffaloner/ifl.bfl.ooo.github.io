@@ -90,7 +90,7 @@ document.addEventListener("DOMContentLoaded", function() {
                                         }
                                     }
                                 }
-
+                                // Popup content for destination on the map
                                 popupContent += "<div style='margin-top: 12px; font-size: 0.9em; display: flex; flex-direction: column; gap: 6px; border-top: 1px solid var(--md-default-fg-color--lightest); padding-top: 8px;'>";
                                 if (feature.properties.internal_link) {
                                     popupContent += "<a href='" + feature.properties.internal_link + "' style='font-weight: bold;'>📖 Read our Buffalo Profile</a>";

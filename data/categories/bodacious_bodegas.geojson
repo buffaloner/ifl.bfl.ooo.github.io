@@ -12,7 +12,7 @@
       },
       "properties": {
         "name": "Buffalo Fresh lamb",
-        "url": "Buffalo Fresh",
+        "url": "https://www.google.com/maps/place/Buffalo+Fresh+lamb/data=!4m2!3m1!1s0x89d36dc8d1a5b73d:0xcc8ef1b80fcfb98e",
         "Address": "284 Ontario St, Buffalo, NY 14207, USA",
         "category": "bodacious_bodegas"
       }
@@ -28,7 +28,7 @@
       },
       "properties": {
         "name": "Ray's Convenient Shop",
-        "url": "Ray's Convenient Shop",
+        "url": "https://www.google.com/maps/place/Ray's+Convenient+Shop/data=!4m2!3m1!1s0x89d36cc49b404c13:0x6dc742560e7e8644",
         "Address": "514 Ontario St Apartment 1, Buffalo, NY 14207, USA",
         "category": "bodacious_bodegas"
       }
@@ -44,7 +44,7 @@
       },
       "properties": {
         "name": "Siri Asian Market",
-        "url": "Siri Asian Market",
+        "url": "https://www.google.com/maps/place/Siri+Asian+Market/data=!4m2!3m1!1s0x89d36cc5f083fc23:0x4e627ae828206865",
         "Address": "357 Ontario St, Buffalo, NY 14207, USA",
         "category": "bodacious_bodegas"
       }
@@ -60,7 +60,7 @@
       },
       "properties": {
         "name": "Mega Eatz",
-        "url": "Mega Eatz",
+        "url": "https://www.google.com/maps/place/Mega+Eatz/data=!4m2!3m1!1s0x89d36d0067c2db29:0xe640f8fe0babb459",
         "Address": "778 Tonawanda St, Buffalo, NY 14207, USA",
         "category": "bodacious_bodegas"
       }
@@ -76,7 +76,7 @@
       },
       "properties": {
         "name": "Vulcan Express Mart & KITCHEN",
-        "url": "Vulcan Express Mart & KITCHEN",
+        "url": "https://www.google.com/maps/place/Vulcan+Express+Mart+%26+KITCHEN/data=!4m2!3m1!1s0x89d36cb8d518746d:0x66d5d8a0744aa681",
         "Address": "132 Vulcan St, Buffalo, NY 14207, USA",
         "category": "bodacious_bodegas"
       }
@@ -92,7 +92,7 @@
       },
       "properties": {
         "name": "Good Guys Deli & Grill",
-        "url": "Good Guys Deli & Grill",
+        "url": "https://www.google.com/maps/place/Good+Guys+Deli+%26+Grill/data=!4m2!3m1!1s0x89d313aafaf08a1d:0x36f6c5e30e1b6618",
         "Address": "315 Jersey St, Buffalo, NY 14201, USA",
         "category": "bodacious_bodegas"
       }
@@ -108,7 +108,7 @@
       },
       "properties": {
         "name": "Lasalle Market",
-        "url": "Lasalle Market",
+        "url": "https://www.google.com/maps/place/Lasalle+Market/data=!4m2!3m1!1s0x89d373007c46a131:0x2f881494985ef315",
         "Address": "3063 Main St, Buffalo, NY 14214, USA",
         "category": "bodacious_bodegas"
       }
@@ -124,7 +124,7 @@
       },
       "properties": {
         "name": "G & B Fish Shrimp and Chicken",
-        "url": "G & B Fish, Shrimp and Chicken",
+        "url": "https://www.google.com/maps/place/G+%26+B+Fish,+Shrimp+and+Chicken/data=!4m2!3m1!1s0x89d30df14b37b171:0x522ed91828e0c76b",
         "Address": "1532 Genesee St, Buffalo, NY 14211, USA",
         "category": "bodacious_bodegas"
       }
@@ -140,7 +140,7 @@
       },
       "properties": {
         "name": "Main Mini Market",
-        "url": "Main Mini Market",
+        "url": "https://www.google.com/maps/place/Main+Mini+Market/data=!4m2!3m1!1s0x89d36d553f2dea3b:0x8602edc3b71c4453",
         "Address": "2608 Main St, Buffalo, NY 14214, USA",
         "category": "bodacious_bodegas"
       }
@@ -156,7 +156,7 @@
       },
       "properties": {
         "name": "Grider Discount Mart",
-        "url": "Grider Discount Mart",
+        "url": "https://www.google.com/maps/place/Grider+Discount+Mart/data=!4m2!3m1!1s0x89d30d5ae5ea1b8b:0x98d88832e86770da",
         "Address": "389 Grider St #3018, Buffalo, NY 14215, USA",
         "category": "bodacious_bodegas"
       }
@@ -172,7 +172,7 @@
       },
       "properties": {
         "name": "Genesee Mini Mart Express",
-        "url": "Genesee Mini Mart Express",
+        "url": "https://www.google.com/maps/place/Genesee+Mini+Mart+Express/data=!4m2!3m1!1s0x89d30d6e35339cc3:0x167ea216f7d9e49a",
         "Address": "1522 Genesee St, Buffalo, NY 14211, USA",
         "category": "bodacious_bodegas"
       }
@@ -188,7 +188,7 @@
       },
       "properties": {
         "name": "Vermont Mini Mart",
-        "url": "Vermont Mini Mart",
+        "url": "https://www.google.com/maps/place/Vermont+Mini+Mart/data=!4m2!3m1!1s0x89d3130144001f7d:0x6010b9fefcae7d39",
         "Address": "294 Vermont St A, Buffalo, NY 14213, USA",
         "category": "bodacious_bodegas"
       }
@@ -204,7 +204,7 @@
       },
       "properties": {
         "name": "Unlimited Minimart",
-        "url": "Unlimited Minimart",
+        "url": "https://www.google.com/maps/place/Unlimited+Minimart/data=!4m2!3m1!1s0x89d37291b5030829:0xda7e30e2b098f35a",
         "Address": "354 Niagara Falls Blvd, Buffalo, NY 14223, USA",
         "category": "bodacious_bodegas"
       }
@@ -220,7 +220,7 @@
       },
       "properties": {
         "name": "Best Deal Mini Mart",
-        "url": "Best Deal Mini Mart",
+        "url": "https://www.google.com/maps/place/Best+Deal+Mini+Mart/data=!4m2!3m1!1s0x89d3132e3e127779:0x64ff2b26e436f59d",
         "Address": "268 Amherst St, Buffalo, NY 14207, USA",
         "category": "bodacious_bodegas"
       }
@@ -236,7 +236,7 @@
       },
       "properties": {
         "name": "Limit Spot Inc",
-        "url": "Limit Spot Inc",
+        "url": "https://www.google.com/maps/place/Limit+Spot+Inc/data=!4m2!3m1!1s0x89d31335e354f47b:0x5cb315c43b10da5f",
         "Address": "2050 Niagara St, Buffalo, NY 14207, USA",
         "category": "bodacious_bodegas"
       }
@@ -252,7 +252,7 @@
       },
       "properties": {
         "name": "Munchie Mike's",
-        "url": "Munchie Mike's",
+        "url": "https://www.google.com/maps/place/Munchie+Mike's/data=!4m2!3m1!1s0x89d31327d5b6eccb:0x2ac418dda061b109",
         "Address": "92 Franklin St, Buffalo, NY 14202, USA",
         "category": "bodacious_bodegas"
       }
@@ -268,7 +268,7 @@
       },
       "properties": {
         "name": "Fillmore Mini Mart",
-        "url": "Fillmore Mini Mart",
+        "url": "https://www.google.com/maps/place/Fillmore+Mini+Mart/data=!4m2!3m1!1s0x89d312aa10e845d1:0xfd9a94c212ae180e",
         "Address": "2187 Fillmore Ave, Buffalo, NY 14214, USA",
         "category": "bodacious_bodegas"
       }
@@ -284,7 +284,7 @@
       },
       "properties": {
         "name": "Us Mini Mart Inc",
-        "url": "Us Mini Mart, Inc",
+        "url": "https://www.google.com/maps/place/Us+Mini+Mart,+Inc/data=!4m2!3m1!1s0x89d3132ce09510eb:0xacaea05a9df987bb",
         "Address": "179 Military Rd, Buffalo, NY 14207, USA",
         "category": "bodacious_bodegas"
       }
@@ -300,7 +300,7 @@
       },
       "properties": {
         "name": "Hunt Mini Mart",
-        "url": "Hunt Mini Mart",
+        "url": "https://www.google.com/maps/place/Hunt+Mini+Mart/data=!4m2!3m1!1s0x89d36ccbd3d0e563:0x2df1414f67f40893",
         "Address": "721 Tonawanda St, Buffalo, NY 14207, USA",
         "category": "bodacious_bodegas"
       }
@@ -316,7 +316,7 @@
       },
       "properties": {
         "name": "Grant Mini Mart And Deli. LLC",
-        "url": "Grant Mini Mart And Deli. LLC",
+        "url": "https://www.google.com/maps/place/Grant+Mini+Mart+And+Deli.+LLC/data=!4m2!3m1!1s0x89d31335c318ce9d:0x60b8acb5d6fb56aa",
         "Address": "91 Grant St, Buffalo, NY 14213, USA",
         "category": "bodacious_bodegas"
       }
@@ -332,7 +332,7 @@
       },
       "properties": {
         "name": "Water Front Mini Mart",
-        "url": "Water Front Mini Mart",
+        "url": "https://www.google.com/maps/place/Water+Front+Mini+Mart/data=!4m2!3m1!1s0x89d3124cd79941e1:0x7e77dc35fff7656d",
         "Address": "259 Niagara St, Buffalo, NY 14201, USA",
         "category": "bodacious_bodegas"
       }
@@ -348,7 +348,7 @@
       },
       "properties": {
         "name": "716 outlet",
-        "url": "716 outlet",
+        "url": "https://www.google.com/maps/place/716+outlet/data=!4m2!3m1!1s0x89d3131edd35d303:0x293183765c695563",
         "Address": "473 Jefferson Ave, Buffalo, NY 14204, USA",
         "category": "bodacious_bodegas"
       }
@@ -364,7 +364,7 @@
       },
       "properties": {
         "name": "Mini mart",
-        "url": "Mini mart",
+        "url": "https://www.google.com/maps/place/Mini+mart/data=!4m2!3m1!1s0x89d30d001654ba8f:0x4bfc3e73fcbe773d",
         "Address": "1096 Clinton St, Buffalo, NY 14206, USA",
         "category": "bodacious_bodegas"
       }
@@ -380,7 +380,7 @@
       },
       "properties": {
         "name": "Mini Mart",
-        "url": "Fashion City Mini Mart",
+        "url": "https://www.google.com/maps/place/Mini+Mart/data=!4m2!3m1!1s0x89d372ca232c1649:0x3fdb8c8b0913dbab",
         "Address": "3112 Bailey Ave, Buffalo, NY 14215, USA",
         "category": "bodacious_bodegas"
       }
@@ -396,7 +396,7 @@
       },
       "properties": {
         "name": "Elmwood Express Minimart",
-        "url": "Elmwood Express Minimart",
+        "url": "https://www.google.com/maps/place/Elmwood+Express+Minimart/data=!4m2!3m1!1s0x89d312fb8def4f6b:0xe9aac94f501a2503",
         "Address": "454 Elmwood Ave, Buffalo, NY 14222, USA",
         "category": "bodacious_bodegas"
       }
@@ -412,7 +412,7 @@
       },
       "properties": {
         "name": "Clinton Mini Mart",
-        "url": "Clinton Mini Mart",
+        "url": "https://www.google.com/maps/place/Clinton+Mini+Mart/data=!4m2!3m1!1s0x89d30dc5d49166af:0xa01cb794f0bdabb2",
         "Address": "1880 Clinton St, Buffalo, NY 14206, USA",
         "category": "bodacious_bodegas"
       }
@@ -428,7 +428,7 @@
       },
       "properties": {
         "name": "Food Mart",
-        "url": "Food Mart",
+        "url": "https://www.google.com/maps/place/Food+Mart/data=!4m2!3m1!1s0x89d3124ceeea857f:0x8149e8d153c7b553",
         "Address": "211 Niagara St, Buffalo, NY 14201, USA",
         "category": "bodacious_bodegas"
       }
@@ -444,7 +444,7 @@
       },
       "properties": {
         "name": "Island Mini-Mart",
-        "url": "Island Mini-Mart",
+        "url": "https://www.google.com/maps/place/Island+Mini-Mart/data=!4m2!3m1!1s0x89d3131ac22b93d1:0xd3a7f5e13be504ee",
         "Address": "77-107 Herkimer St, Buffalo, NY 14213, USA",
         "category": "bodacious_bodegas"
       }
@@ -460,7 +460,7 @@
       },
       "properties": {
         "name": "Nickel City Mini-Mart LLC.",
-        "url": "Nickel City Mini-Mart LLC.",
+        "url": "https://www.google.com/maps/place/Nickel+City+Mini-Mart+LLC./data=!4m2!3m1!1s0x89d313e924aa4307:0xf8a1be8e307c7619",
         "Address": "568 Niagara St, Buffalo, NY 14201, USA",
         "category": "bodacious_bodegas"
       }
