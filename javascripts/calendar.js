@@ -4,12 +4,13 @@ document.addEventListener("DOMContentLoaded", function() {
     
     if (calendarEl) {
         var calendar = new FullCalendar.Calendar(calendarEl, {
-            initialView: 'dayGridMonth',
+            initialView: 'listWeek', // Shows events of current day/week by default
             headerToolbar: {
                 left: 'prev,next today',
                 center: 'title',
                 right: 'dayGridMonth,listWeek'
             },
+            navLinks: true, // Allows clicking day/week names to navigate views
             events: '/data/events.json',
             eventContent: function(arg) {
                 var icon = arg.event.extendedProps.icon || '📍';
@@ -20,6 +21,35 @@ document.addEventListener("DOMContentLoaded", function() {
                 el.style.cursor = 'pointer';
                 el.innerHTML = icon + ' <b>' + arg.event.title + '</b>';
                 return { domNodes: [el] };
+            },
+            eventDidMount: function(info) {
+                // Task 5: Inject detailed popups via Tippy.js
+                var props = info.event.extendedProps;
+                var timeString = info.event.start ? info.event.start.toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'}) : 'All Day';
+                
+                var tooltipContent = `
+                    <div style="text-align: left; padding: 5px; font-family: sans-serif;">
+                        <h4 style="margin: 0 0 5px 0; border-bottom: 1px solid #ccc; padding-bottom: 3px;">${info.event.title}</h4>
+                        <p style="margin: 0 0 5px 0; font-size: 0.9em;"><strong>Time:</strong> ${timeString}</p>
+                `;
+
+                if (props.location) {
+                    tooltipContent += `<p style="margin: 0 0 5px 0; font-size: 0.9em;"><strong>Where:</strong> ${props.location}</p>`;
+                }
+                if (props.description) {
+                    // Truncate long descriptions
+                    var desc = props.description.length > 150 ? props.description.substring(0, 147) + '...' : props.description;
+                    tooltipContent += `<p style="margin: 0; font-size: 0.85em; color: #eee;">${desc}</p>`;
+                }
+                tooltipContent += `</div>`;
+
+                tippy(info.el, {
+                    content: tooltipContent,
+                    allowHTML: true,
+                    placement: 'top',
+                    interactive: true,
+                    theme: 'material'
+                });
             }
         });
         calendar.render();
