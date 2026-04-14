@@ -243,6 +243,24 @@
         
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    And 🫵 You Should F#@%$ng L❤️ve 🦬 Too 😠!
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="." class="md-nav__link md-nav__link--active">
         
   
@@ -259,6 +277,36 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#upcoming-events" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        UPCOMING EVENTS
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -1392,6 +1440,25 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#upcoming-events" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        UPCOMING EVENTS
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -1430,7 +1497,13 @@
 <!-- BUFFALO unbound map no pins but we'll never use it-->
 <!-- <div class="buffalo-map" style="height: 500px; width: 100%; border-radius: 4px; z-index: 1; border: 1px solid var(--md-default-fg-color--lightest);"></div> -->
 
-<div id="front-page-map" style="height: 600px; width: 100%; border-radius: 8px; z-index: 1; border: 1px solid var(--md-default-fg-color--lightest);"></div>
+<div id="front-page-map" style="height: 600px; width: 100%; border-radius: 8px; z-index: 1; border: 1px solid var(--md-default-fg-color--lightest); margin-bottom: 40px;"></div>
+
+<h2 id="upcoming-events">UPCOMING EVENTS</h2>
+<div id="calendar-filters" style="margin-bottom: 15px; display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    </div>
+
+<div id="front-page-calendar" style="max-width: 1000px; margin: 0 auto; background-color: var(--md-default-bg-color); padding: 15px; border-radius: 8px; border: 1px solid var(--md-default-fg-color--lightest);"></div>
 
 
 
@@ -1601,7 +1674,11 @@
       
         <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
       
+        <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.20/index.global.min.js"></script>
+      
         <script src="javascripts/map.js"></script>
+      
+        <script src="javascripts/calendar.js"></script>
       
         <script src="js/open_in_new_tab.js"></script>
       
