@@ -1,6 +1,23 @@
-document.addEventListener("DOMContentLoaded", function() {
+let activeCalendar = null;
+
+// MkDocs Material SPA lifecycle hook
+if (typeof document$ !== "undefined") {
+    document$.subscribe(function() {
+        initCalendar();
+    });
+} else {
+    document.addEventListener("DOMContentLoaded", initCalendar);
+}
+
+function initCalendar() {
     var calendarEl = document.getElementById('front-page-calendar');
     var filterEl = document.getElementById('calendar-filters');
+
+    // Prevent memory leaks during Ajax navigations
+    if (activeCalendar) {
+        activeCalendar.destroy();
+        activeCalendar = null;
+    }
     
     if (calendarEl) {
         var calendar = new FullCalendar.Calendar(calendarEl, {
@@ -54,54 +71,25 @@ document.addEventListener("DOMContentLoaded", function() {
         });
         calendar.render();
 
-        // Dynamically parse the fetched payload to construct the category tab filters
-        fetch('/data/events.json')
-            .then(response => response.json())
-            .then(data => {
-                if(!filterEl) return;
+        activeCalendar = calendar;
+
+        // Task 3: Bind FullCalendar to the Alpine.js Reactive Store
+        if (typeof Alpine !== 'undefined') {
+            Alpine.effect(() => {
+                var currentCategory = Alpine.store('filters').category;
                 
-                var categories = {};
-                data.forEach(function(evt) {
-                    var props = evt.extendedProps;
-                    if (props && props.category) {
-                        categories[props.category] = props.icon || '';
-                    }
-                });
-
-                var allBtn = document.createElement('button');
-                allBtn.className = 'md-button md-button--primary filter-btn active';
-                allBtn.innerText = 'All Events';
-                allBtn.onclick = function() {
-                    setActiveFilter('all', allBtn);
-                };
-                filterEl.appendChild(allBtn);
-
-                Object.keys(categories).forEach(function(cat) {
-                    var btn = document.createElement('button');
-                    btn.className = 'md-button filter-btn';
-                    btn.innerText = categories[cat] + ' ' + cat.replace(/_/g, ' ').toUpperCase();
-                    btn.onclick = function() {
-                        setActiveFilter(cat, btn);
-                    };
-                    filterEl.appendChild(btn);
-                });
-            })
-            .catch(err => console.error("Could not load events.json for filters", err));
-
-        function setActiveFilter(category, clickedBtn) {
-            var btns = filterEl.querySelectorAll('.filter-btn');
-            btns.forEach(b => b.classList.remove('md-button--primary'));
-            clickedBtn.classList.add('md-button--primary');
-
-            calendar.batchRendering(function() {
-                calendar.getEvents().forEach(function(evt) {
-                    if (category === 'all' || evt.extendedProps.category === category) {
-                        evt.setProp('display', 'auto');
-                    } else {
-                        evt.setProp('display', 'none');
-                    }
-                });
+                if (activeCalendar) {
+                    activeCalendar.batchRendering(function() {
+                        activeCalendar.getEvents().forEach(function(evt) {
+                            if (currentCategory === 'all' || evt.extendedProps.category === currentCategory) {
+                                evt.setProp('display', 'auto');
+                            } else {
+                                evt.setProp('display', 'none');
+                            }
+                        });
+                    });
+                }
             });
         }
     }
-});
+}

@@ -13,8 +13,7 @@
       "properties": {
         "name": "SHACK in Allentown",
         "url": "https://www.google.com/maps/place/SHACK+in+Allentown/data=!4m2!3m1!1s0x89d3137d9b8cd18b:0x9170b65da3afb75d",
-        "Address": "125 Elmwood Ave, Buffalo, NY 14201, USA",
-        "category": "heathy_options"
+        "Address": "125 Elmwood Ave, Buffalo, NY 14201, USA"
       }
     },
     {
@@ -29,8 +28,7 @@
       "properties": {
         "name": "Bloom & Rose Deli",
         "url": "https://www.google.com/maps/place/Bloom+%26+Rose+Deli/data=!4m2!3m1!1s0x89d36de77c89a26b:0xf1a64dd8455b9bea",
-        "Address": "27 Chandler St #204a, Buffalo, NY 14207, USA",
-        "category": "heathy_options"
+        "Address": "27 Chandler St #204a, Buffalo, NY 14207, USA"
       }
     },
     {
@@ -45,8 +43,7 @@
       "properties": {
         "name": "Snowy Owl Arts & Tea House",
         "url": "https://www.google.com/maps/place/Snowy+Owl+Arts+%26+Tea+House/data=!4m2!3m1!1s0x89d3121f617257b3:0x20e5337dc67b27a8",
-        "Address": "1500 Clinton St Unit 156, Buffalo, NY 14206, USA",
-        "category": "heathy_options"
+        "Address": "1500 Clinton St Unit 156, Buffalo, NY 14206, USA"
       }
     },
     {
@@ -61,8 +58,7 @@
       "properties": {
         "name": "Bicycle Bottle Shop",
         "url": "https://www.google.com/maps/place/Bicycle+Bottle+Shop/data=!4m2!3m1!1s0x89d313804374e25d:0xec3d0cb0d6a1f8a8",
-        "Address": "230 Lexington Ave, Buffalo, NY 14222, USA",
-        "category": "heathy_options"
+        "Address": "230 Lexington Ave, Buffalo, NY 14222, USA"
       }
     },
     {
@@ -77,8 +73,7 @@
       "properties": {
         "name": "HER Kitchen",
         "url": "https://www.google.com/maps/place/HER+Kitchen/data=!4m2!3m1!1s0x89d36d4de44ffced:0xec1635d3e1b08816",
-        "Address": "1442 Hertel Ave, Buffalo, NY 14216, USA",
-        "category": "heathy_options"
+        "Address": "1442 Hertel Ave, Buffalo, NY 14216, USA"
       }
     },
     {
@@ -93,8 +88,7 @@
       "properties": {
         "name": "Farm Shop",
         "url": "https://www.google.com/maps/place/Farm+Shop/data=!4m2!3m1!1s0x89d312e34f722c4f:0x5968e25dce91dd20",
-        "Address": "235 B Lexington Ave, Buffalo, NY 14222, USA",
-        "category": "heathy_options"
+        "Address": "235 B Lexington Ave, Buffalo, NY 14222, USA"
       }
     },
     {
@@ -109,8 +103,7 @@
       "properties": {
         "name": "Salud Market",
         "url": "https://www.google.com/maps/place/Salud+Market/data=!4m2!3m1!1s0x89d313470e893605:0x4482d683560c6cef",
-        "Address": "1832 Main St, Buffalo, NY 14208, USA",
-        "category": "heathy_options"
+        "Address": "1832 Main St, Buffalo, NY 14208, USA"
       }
     },
     {
@@ -125,8 +118,7 @@
       "properties": {
         "name": "The Juicery",
         "url": "https://www.google.com/maps/place/The+Juicery/data=!4m2!3m1!1s0x89d313a3d4a4e4a1:0x79781bc8a281360e",
-        "Address": "Meadow Dr, Buffalo, NY 14214, USA",
-        "category": "heathy_options"
+        "Address": "Meadow Dr, Buffalo, NY 14214, USA"
       }
     },
     {
@@ -141,22 +133,7 @@
       "properties": {
         "name": "Sunshine Vegan Eats",
         "url": "https://www.google.com/maps/place/Sunshine+Vegan+Eats/data=!4m2!3m1!1s0x89d313f30421f2f3:0xff36e221d87749c7",
-        "Address": "893 Jefferson Ave, Buffalo, NY 14204, USA",
-        "category": "heathy_options"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.88283969,
-          42.91381749
-        ]
-      },
-      "properties": {
-        "name": "The Lorax",
-        "url": ""
+        "Address": "893 Jefferson Ave, Buffalo, NY 14204, USA"
       }
     }
   ]

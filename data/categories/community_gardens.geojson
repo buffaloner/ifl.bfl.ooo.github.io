@@ -13,8 +13,7 @@
       "properties": {
         "name": "Community Garden Party",
         "url": "https://www.google.com/maps/place/Community+Garden+Party/data=!4m2!3m1!1s0x89d30d9c0d0d0027:0xf92d57ac1f6c3946",
-        "Address": "852 E Delavan Ave, Buffalo, NY 14215, USA",
-        "category": "community_gardens"
+        "Address": "852 E Delavan Ave, Buffalo, NY 14215, USA"
       }
     },
     {
@@ -29,8 +28,7 @@
       "properties": {
         "name": "Bailey-Dartmouth Community Garden",
         "url": "https://www.google.com/maps/place/Bailey-Dartmouth+Community+Garden/data=!4m2!3m1!1s0x89d3739fc832e28d:0x498b3d4ccabd957f",
-        "Address": "3259 Bailey Ave, Buffalo, NY 14215, USA",
-        "category": "community_gardens"
+        "Address": "3259 Bailey Ave, Buffalo, NY 14215, USA"
       }
     },
     {
@@ -45,8 +43,7 @@
       "properties": {
         "name": "CCI Community Garden",
         "url": "https://www.google.com/maps/place/CCI+Community+Garden/data=!4m2!3m1!1s0x89d36ddce8188b23:0x883a5fd0f2f261c4",
-        "Address": "756 St Lawrence Ave, Buffalo, NY 14216, USA",
-        "category": "community_gardens"
+        "Address": "756 St Lawrence Ave, Buffalo, NY 14216, USA"
       }
     },
     {
@@ -61,8 +58,7 @@
       "properties": {
         "name": "Bennett Campus Community Garden",
         "url": "https://www.google.com/maps/place/Bennett+Campus+Community+Garden/data=!4m2!3m1!1s0x89d373bcbbc3ec3f:0xe9b41d7768075893",
-        "Address": "2885 Main St, Buffalo, NY 14214, USA",
-        "category": "community_gardens"
+        "Address": "2885 Main St, Buffalo, NY 14214, USA"
       }
     },
     {
@@ -77,8 +73,7 @@
       "properties": {
         "name": "Harriet's Garden",
         "url": "https://www.google.com/maps/place/Harriet's+Garden/data=!4m2!3m1!1s0x89d31381b829cc4f:0x3a3ff9c521dcab1e",
-        "Address": "212 Stanton St, Buffalo, NY 14212, USA",
-        "category": "community_gardens"
+        "Address": "212 Stanton St, Buffalo, NY 14212, USA"
       }
     },
     {
@@ -93,8 +88,7 @@
       "properties": {
         "name": "Putnam Street Community Garden",
         "url": "https://www.google.com/maps/place/Putnam+Street+Community+Garden/data=!4m2!3m1!1s0x89d3134392a32083:0x24e41a2f45355d17",
-        "Address": "83 Putnam St, Buffalo, NY 14213, USA",
-        "category": "community_gardens"
+        "Address": "83 Putnam St, Buffalo, NY 14213, USA"
       }
     },
     {
@@ -109,8 +103,7 @@
       "properties": {
         "name": "Harvey Austin Garden",
         "url": "https://www.google.com/maps/place/Harvey+Austin+Garden/data=!4m2!3m1!1s0x89d30d4201f40983:0x685c274300cb501",
-        "Address": "1403 Sycamore St, Buffalo, NY 14211, USA",
-        "category": "community_gardens"
+        "Address": "1403 Sycamore St, Buffalo, NY 14211, USA"
       }
     },
     {
@@ -125,8 +118,7 @@
       "properties": {
         "name": "Tyler Street Community Garden",
         "url": "https://www.google.com/maps/place/Tyler+Street+Community+Garden/data=!4m2!3m1!1s0x89d3737204773985:0xf07476bc32a6c5d8",
-        "Address": "73 Tyler St, Buffalo, NY 14214, USA",
-        "category": "community_gardens"
+        "Address": "73 Tyler St, Buffalo, NY 14214, USA"
       }
     },
     {
@@ -141,8 +133,7 @@
       "properties": {
         "name": "East-West Community Garden",
         "url": "https://www.google.com/maps/place/East-West+Community+Garden/data=!4m2!3m1!1s0x89d3139d49a19509:0xe4c0b44342f6db",
-        "Address": "1032 Lafayette Ave, Buffalo, NY 14209, USA",
-        "category": "community_gardens"
+        "Address": "1032 Lafayette Ave, Buffalo, NY 14209, USA"
       }
     },
     {
@@ -157,22 +148,7 @@
       "properties": {
         "name": "FeedMore WNY Community Garden",
         "url": "https://www.google.com/maps/place/FeedMore+WNY+Community+Garden/data=!4m2!3m1!1s0x89d30d0888a2a381:0x2b0d30fa7829ef4",
-        "Address": "88 Holt St, Buffalo, NY 14206, USA",
-        "category": "community_gardens"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.88283969,
-          42.91381749
-        ]
-      },
-      "properties": {
-        "name": "The Lorax",
-        "url": ""
+        "Address": "88 Holt St, Buffalo, NY 14206, USA"
       }
     }
   ]

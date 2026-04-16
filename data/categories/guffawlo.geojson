@@ -15,8 +15,7 @@
         "url": "https://www.google.com/maps/place/Tudor+Lounge/data=!4m2!3m1!1s0x89d312503c59af59:0x558a9ae33f8aa4f",
         "Address": "335 Franklin St, Buffalo, NY 14202, USA",
         "Socials": "https://www.instagram.com/bucketdrawcomedy",
-        "Showtimes": "Monday 9pm",
-        "category": "gUFFAwLO"
+        "Showtimes": "Monday 9pm"
       }
     },
     {
@@ -32,8 +31,7 @@
         "name": "Helium Comedy Club",
         "url": "https://www.google.com/maps/place/Helium+Comedy+Club/data=!4m2!3m1!1s0x89d31230292d18b9:0xe14f162b5aa2f273",
         "Address": "30 Mississippi St, Buffalo, NY 14203, USA",
-        "Showtimes": "Varies",
-        "category": "gUFFAwLO"
+        "Showtimes": "Varies"
       }
     },
     {
@@ -48,8 +46,7 @@
       "properties": {
         "name": "The Gypsy Parlor",
         "url": "https://www.google.com/maps/place/The+Gypsy+Parlor/data=!4m2!3m1!1s0x89d313220fdb3d49:0xe9cec42ee4702e4",
-        "Address": "376 Grant St, Buffalo, NY 14213, USA",
-        "category": "gUFFAwLO"
+        "Address": "376 Grant St, Buffalo, NY 14213, USA"
       }
     },
     {
@@ -64,8 +61,7 @@
       "properties": {
         "name": "Buffalo Improv House",
         "url": "https://www.google.com/maps/place/Buffalo+Improv+House/data=!4m2!3m1!1s0x8a072a5704a2a217:0xeeaa24ff99aad46e",
-        "Address": "255 Great Arrow Ave Suite 207, Buffalo, NY 14207, USA",
-        "category": "gUFFAwLO"
+        "Address": "255 Great Arrow Ave Suite 207, Buffalo, NY 14207, USA"
       }
     },
     {
@@ -80,8 +76,7 @@
       "properties": {
         "name": "Rob's Comedy Playhouse",
         "url": "https://www.google.com/maps/place/Rob's+Comedy+Playhouse/data=!4m2!3m1!1s0x89d373ee078eda0d:0x40874775866d76e7",
-        "Address": "3200 Elmwood Ave, Buffalo, NY 14217, USA",
-        "category": "gUFFAwLO"
+        "Address": "3200 Elmwood Ave, Buffalo, NY 14217, USA"
       }
     },
     {
@@ -96,22 +91,7 @@
       "properties": {
         "name": "Rohall's Corner",
         "url": "https://maps.app.goo.gl/ZNphazx5gUT7YD6M9",
-        "Address": "98 Howell St, Buffalo, NY 14207, USA",
-        "category": "gUFFAwLO"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.88283969,
-          42.91381749
-        ]
-      },
-      "properties": {
-        "name": "The Lorax",
-        "url": ""
+        "Address": "98 Howell St, Buffalo, NY 14207, USA"
       }
     }
   ]

@@ -1,208 +1,5 @@
 [
     {
-        "title": "Sober One Sing",
-        "start": "2026-05-13T18:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Third Space Cafe and Entertainment, 777 Main St, Buffalo, NY 14203, USA"
-        },
-        "end": "2026-05-13T21:00:00-04:00"
-    },
-    {
-        "title": "Sober One Sing",
-        "start": "2026-06-10T18:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Third Space Cafe and Entertainment, 777 Main St, Buffalo, NY 14203, USA"
-        },
-        "end": "2026-06-10T21:00:00-04:00"
-    },
-    {
-        "title": "Sober One Sing",
-        "start": "2026-07-08T18:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Third Space Cafe and Entertainment, 777 Main St, Buffalo, NY 14203, USA"
-        },
-        "end": "2026-07-08T21:00:00-04:00"
-    },
-    {
-        "title": "Sober One Sing",
-        "start": "2026-04-22T18:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Third Space Cafe and Entertainment, 777 Main St, Buffalo, NY 14203, USA"
-        },
-        "end": "2026-04-22T21:00:00-04:00"
-    },
-    {
-        "title": "Sober One Sing",
-        "start": "2026-05-27T18:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Third Space Cafe and Entertainment, 777 Main St, Buffalo, NY 14203, USA"
-        },
-        "end": "2026-05-27T21:00:00-04:00"
-    },
-    {
-        "title": "Sober One Sing",
-        "start": "2026-06-24T18:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Third Space Cafe and Entertainment, 777 Main St, Buffalo, NY 14203, USA"
-        },
-        "end": "2026-06-24T21:00:00-04:00"
-    },
-    {
-        "title": "Live Band Karaoke",
-        "start": "2026-04-17T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://recroombuffalo.com/livebandkaraoke/\">https://recroombuffalo.com/livebandkaraoke/</a><br><br>Requires purchase of a ticket, see site for details",
-            "location": "Rec Room, 79 W Chippewa St, Buffalo, NY 14202, USA"
-        },
-        "end": "2026-04-18T02:00:00-04:00"
-    },
-    {
-        "title": "Live Band Karaoke",
-        "start": "2026-04-24T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://recroombuffalo.com/livebandkaraoke/\">https://recroombuffalo.com/livebandkaraoke/</a><br><br>Requires purchase of a ticket, see site for details",
-            "location": "Rec Room, 79 W Chippewa St, Buffalo, NY 14202, USA"
-        },
-        "end": "2026-04-25T02:00:00-04:00"
-    },
-    {
-        "title": "Live Band Karaoke",
-        "start": "2026-05-01T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://recroombuffalo.com/livebandkaraoke/\">https://recroombuffalo.com/livebandkaraoke/</a><br><br>Requires purchase of a ticket, see site for details",
-            "location": "Rec Room, 79 W Chippewa St, Buffalo, NY 14202, USA"
-        },
-        "end": "2026-05-02T02:00:00-04:00"
-    },
-    {
-        "title": "Live Band Karaoke",
-        "start": "2026-05-08T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://recroombuffalo.com/livebandkaraoke/\">https://recroombuffalo.com/livebandkaraoke/</a><br><br>Requires purchase of a ticket, see site for details",
-            "location": "Rec Room, 79 W Chippewa St, Buffalo, NY 14202, USA"
-        },
-        "end": "2026-05-09T02:00:00-04:00"
-    },
-    {
-        "title": "Live Band Karaoke",
-        "start": "2026-05-15T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://recroombuffalo.com/livebandkaraoke/\">https://recroombuffalo.com/livebandkaraoke/</a><br><br>Requires purchase of a ticket, see site for details",
-            "location": "Rec Room, 79 W Chippewa St, Buffalo, NY 14202, USA"
-        },
-        "end": "2026-05-16T02:00:00-04:00"
-    },
-    {
-        "title": "Live Band Karaoke",
-        "start": "2026-05-22T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://recroombuffalo.com/livebandkaraoke/\">https://recroombuffalo.com/livebandkaraoke/</a><br><br>Requires purchase of a ticket, see site for details",
-            "location": "Rec Room, 79 W Chippewa St, Buffalo, NY 14202, USA"
-        },
-        "end": "2026-05-23T02:00:00-04:00"
-    },
-    {
-        "title": "Live Band Karaoke",
-        "start": "2026-05-29T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://recroombuffalo.com/livebandkaraoke/\">https://recroombuffalo.com/livebandkaraoke/</a><br><br>Requires purchase of a ticket, see site for details",
-            "location": "Rec Room, 79 W Chippewa St, Buffalo, NY 14202, USA"
-        },
-        "end": "2026-05-30T02:00:00-04:00"
-    },
-    {
-        "title": "Live Band Karaoke",
-        "start": "2026-06-05T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://recroombuffalo.com/livebandkaraoke/\">https://recroombuffalo.com/livebandkaraoke/</a><br><br>Requires purchase of a ticket, see site for details",
-            "location": "Rec Room, 79 W Chippewa St, Buffalo, NY 14202, USA"
-        },
-        "end": "2026-06-06T02:00:00-04:00"
-    },
-    {
-        "title": "Live Band Karaoke",
-        "start": "2026-06-12T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://recroombuffalo.com/livebandkaraoke/\">https://recroombuffalo.com/livebandkaraoke/</a><br><br>Requires purchase of a ticket, see site for details",
-            "location": "Rec Room, 79 W Chippewa St, Buffalo, NY 14202, USA"
-        },
-        "end": "2026-06-13T02:00:00-04:00"
-    },
-    {
-        "title": "Live Band Karaoke",
-        "start": "2026-06-19T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://recroombuffalo.com/livebandkaraoke/\">https://recroombuffalo.com/livebandkaraoke/</a><br><br>Requires purchase of a ticket, see site for details",
-            "location": "Rec Room, 79 W Chippewa St, Buffalo, NY 14202, USA"
-        },
-        "end": "2026-06-20T02:00:00-04:00"
-    },
-    {
-        "title": "Live Band Karaoke",
-        "start": "2026-06-26T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://recroombuffalo.com/livebandkaraoke/\">https://recroombuffalo.com/livebandkaraoke/</a><br><br>Requires purchase of a ticket, see site for details",
-            "location": "Rec Room, 79 W Chippewa St, Buffalo, NY 14202, USA"
-        },
-        "end": "2026-06-27T02:00:00-04:00"
-    },
-    {
-        "title": "Live Band Karaoke",
-        "start": "2026-07-03T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://recroombuffalo.com/livebandkaraoke/\">https://recroombuffalo.com/livebandkaraoke/</a><br><br>Requires purchase of a ticket, see site for details",
-            "location": "Rec Room, 79 W Chippewa St, Buffalo, NY 14202, USA"
-        },
-        "end": "2026-07-04T02:00:00-04:00"
-    },
-    {
-        "title": "Live Band Karaoke",
-        "start": "2026-07-10T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://recroombuffalo.com/livebandkaraoke/\">https://recroombuffalo.com/livebandkaraoke/</a><br><br>Requires purchase of a ticket, see site for details",
-            "location": "Rec Room, 79 W Chippewa St, Buffalo, NY 14202, USA"
-        },
-        "end": "2026-07-11T02:00:00-04:00"
-    },
-    {
         "title": "Dobson @ Gypsy Parlor",
         "start": "2026-04-16T21:00:00-04:00",
         "extendedProps": {
@@ -346,422 +143,6 @@
         "end": "2026-07-10T01:00:00-04:00"
     },
     {
-        "title": "KJ Sarge @ Casey's Black Rock",
-        "start": "2026-04-18T21:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "Resurrecting the Vortex of Love, moving from Hot Mamma's Canteen to Main street Black Rock, between Grant and Wegmans on Amherst. This makes it official, there is Karaoke EVERY NIGHT OF THE WEEK in BUFFALO!",
-            "location": "Casey's Black Rock, 484 Amherst St, Buffalo, NY 14207, USA"
-        },
-        "end": "2026-04-19T02:00:00-04:00"
-    },
-    {
-        "title": "KJ Sarge @ Casey's Black Rock",
-        "start": "2026-04-25T21:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "Resurrecting the Vortex of Love, moving from Hot Mamma's Canteen to Main street Black Rock, between Grant and Wegmans on Amherst. This makes it official, there is Karaoke EVERY NIGHT OF THE WEEK in BUFFALO!",
-            "location": "Casey's Black Rock, 484 Amherst St, Buffalo, NY 14207, USA"
-        },
-        "end": "2026-04-26T02:00:00-04:00"
-    },
-    {
-        "title": "KJ Sarge @ Casey's Black Rock",
-        "start": "2026-05-02T21:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "Resurrecting the Vortex of Love, moving from Hot Mamma's Canteen to Main street Black Rock, between Grant and Wegmans on Amherst. This makes it official, there is Karaoke EVERY NIGHT OF THE WEEK in BUFFALO!",
-            "location": "Casey's Black Rock, 484 Amherst St, Buffalo, NY 14207, USA"
-        },
-        "end": "2026-05-03T02:00:00-04:00"
-    },
-    {
-        "title": "KJ Sarge @ Casey's Black Rock",
-        "start": "2026-05-09T21:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "Resurrecting the Vortex of Love, moving from Hot Mamma's Canteen to Main street Black Rock, between Grant and Wegmans on Amherst. This makes it official, there is Karaoke EVERY NIGHT OF THE WEEK in BUFFALO!",
-            "location": "Casey's Black Rock, 484 Amherst St, Buffalo, NY 14207, USA"
-        },
-        "end": "2026-05-10T02:00:00-04:00"
-    },
-    {
-        "title": "KJ Sarge @ Casey's Black Rock",
-        "start": "2026-05-16T21:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "Resurrecting the Vortex of Love, moving from Hot Mamma's Canteen to Main street Black Rock, between Grant and Wegmans on Amherst. This makes it official, there is Karaoke EVERY NIGHT OF THE WEEK in BUFFALO!",
-            "location": "Casey's Black Rock, 484 Amherst St, Buffalo, NY 14207, USA"
-        },
-        "end": "2026-05-17T02:00:00-04:00"
-    },
-    {
-        "title": "KJ Sarge @ Casey's Black Rock",
-        "start": "2026-05-23T21:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "Resurrecting the Vortex of Love, moving from Hot Mamma's Canteen to Main street Black Rock, between Grant and Wegmans on Amherst. This makes it official, there is Karaoke EVERY NIGHT OF THE WEEK in BUFFALO!",
-            "location": "Casey's Black Rock, 484 Amherst St, Buffalo, NY 14207, USA"
-        },
-        "end": "2026-05-24T02:00:00-04:00"
-    },
-    {
-        "title": "KJ Sarge @ Casey's Black Rock",
-        "start": "2026-05-30T21:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "Resurrecting the Vortex of Love, moving from Hot Mamma's Canteen to Main street Black Rock, between Grant and Wegmans on Amherst. This makes it official, there is Karaoke EVERY NIGHT OF THE WEEK in BUFFALO!",
-            "location": "Casey's Black Rock, 484 Amherst St, Buffalo, NY 14207, USA"
-        },
-        "end": "2026-05-31T02:00:00-04:00"
-    },
-    {
-        "title": "KJ Sarge @ Casey's Black Rock",
-        "start": "2026-06-06T21:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "Resurrecting the Vortex of Love, moving from Hot Mamma's Canteen to Main street Black Rock, between Grant and Wegmans on Amherst. This makes it official, there is Karaoke EVERY NIGHT OF THE WEEK in BUFFALO!",
-            "location": "Casey's Black Rock, 484 Amherst St, Buffalo, NY 14207, USA"
-        },
-        "end": "2026-06-07T02:00:00-04:00"
-    },
-    {
-        "title": "KJ Sarge @ Casey's Black Rock",
-        "start": "2026-06-13T21:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "Resurrecting the Vortex of Love, moving from Hot Mamma's Canteen to Main street Black Rock, between Grant and Wegmans on Amherst. This makes it official, there is Karaoke EVERY NIGHT OF THE WEEK in BUFFALO!",
-            "location": "Casey's Black Rock, 484 Amherst St, Buffalo, NY 14207, USA"
-        },
-        "end": "2026-06-14T02:00:00-04:00"
-    },
-    {
-        "title": "KJ Sarge @ Casey's Black Rock",
-        "start": "2026-06-20T21:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "Resurrecting the Vortex of Love, moving from Hot Mamma's Canteen to Main street Black Rock, between Grant and Wegmans on Amherst. This makes it official, there is Karaoke EVERY NIGHT OF THE WEEK in BUFFALO!",
-            "location": "Casey's Black Rock, 484 Amherst St, Buffalo, NY 14207, USA"
-        },
-        "end": "2026-06-21T02:00:00-04:00"
-    },
-    {
-        "title": "KJ Sarge @ Casey's Black Rock",
-        "start": "2026-06-27T21:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "Resurrecting the Vortex of Love, moving from Hot Mamma's Canteen to Main street Black Rock, between Grant and Wegmans on Amherst. This makes it official, there is Karaoke EVERY NIGHT OF THE WEEK in BUFFALO!",
-            "location": "Casey's Black Rock, 484 Amherst St, Buffalo, NY 14207, USA"
-        },
-        "end": "2026-06-28T02:00:00-04:00"
-    },
-    {
-        "title": "KJ Sarge @ Casey's Black Rock",
-        "start": "2026-07-04T21:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "Resurrecting the Vortex of Love, moving from Hot Mamma's Canteen to Main street Black Rock, between Grant and Wegmans on Amherst. This makes it official, there is Karaoke EVERY NIGHT OF THE WEEK in BUFFALO!",
-            "location": "Casey's Black Rock, 484 Amherst St, Buffalo, NY 14207, USA"
-        },
-        "end": "2026-07-05T02:00:00-04:00"
-    },
-    {
-        "title": "KJ Sarge @ Casey's Black Rock",
-        "start": "2026-07-11T21:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "Resurrecting the Vortex of Love, moving from Hot Mamma's Canteen to Main street Black Rock, between Grant and Wegmans on Amherst. This makes it official, there is Karaoke EVERY NIGHT OF THE WEEK in BUFFALO!",
-            "location": "Casey's Black Rock, 484 Amherst St, Buffalo, NY 14207, USA"
-        },
-        "end": "2026-07-12T02:00:00-04:00"
-    },
-    {
-        "title": "Essex Street Pub",
-        "start": "2026-04-14T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Essex St. Pub, 530 Rhode Island St, Buffalo, NY 14213, USA"
-        },
-        "end": "2026-04-15T03:00:00-04:00"
-    },
-    {
-        "title": "Essex Street Pub",
-        "start": "2026-04-21T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Essex St. Pub, 530 Rhode Island St, Buffalo, NY 14213, USA"
-        },
-        "end": "2026-04-22T03:00:00-04:00"
-    },
-    {
-        "title": "Essex Street Pub",
-        "start": "2026-04-28T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Essex St. Pub, 530 Rhode Island St, Buffalo, NY 14213, USA"
-        },
-        "end": "2026-04-29T03:00:00-04:00"
-    },
-    {
-        "title": "Essex Street Pub",
-        "start": "2026-05-05T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Essex St. Pub, 530 Rhode Island St, Buffalo, NY 14213, USA"
-        },
-        "end": "2026-05-06T03:00:00-04:00"
-    },
-    {
-        "title": "Essex Street Pub",
-        "start": "2026-05-12T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Essex St. Pub, 530 Rhode Island St, Buffalo, NY 14213, USA"
-        },
-        "end": "2026-05-13T03:00:00-04:00"
-    },
-    {
-        "title": "Essex Street Pub",
-        "start": "2026-05-19T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Essex St. Pub, 530 Rhode Island St, Buffalo, NY 14213, USA"
-        },
-        "end": "2026-05-20T03:00:00-04:00"
-    },
-    {
-        "title": "Essex Street Pub",
-        "start": "2026-05-26T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Essex St. Pub, 530 Rhode Island St, Buffalo, NY 14213, USA"
-        },
-        "end": "2026-05-27T03:00:00-04:00"
-    },
-    {
-        "title": "Essex Street Pub",
-        "start": "2026-06-02T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Essex St. Pub, 530 Rhode Island St, Buffalo, NY 14213, USA"
-        },
-        "end": "2026-06-03T03:00:00-04:00"
-    },
-    {
-        "title": "Essex Street Pub",
-        "start": "2026-06-09T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Essex St. Pub, 530 Rhode Island St, Buffalo, NY 14213, USA"
-        },
-        "end": "2026-06-10T03:00:00-04:00"
-    },
-    {
-        "title": "Essex Street Pub",
-        "start": "2026-06-16T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Essex St. Pub, 530 Rhode Island St, Buffalo, NY 14213, USA"
-        },
-        "end": "2026-06-17T03:00:00-04:00"
-    },
-    {
-        "title": "Essex Street Pub",
-        "start": "2026-06-23T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Essex St. Pub, 530 Rhode Island St, Buffalo, NY 14213, USA"
-        },
-        "end": "2026-06-24T03:00:00-04:00"
-    },
-    {
-        "title": "Essex Street Pub",
-        "start": "2026-06-30T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Essex St. Pub, 530 Rhode Island St, Buffalo, NY 14213, USA"
-        },
-        "end": "2026-07-01T03:00:00-04:00"
-    },
-    {
-        "title": "Essex Street Pub",
-        "start": "2026-07-07T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Essex St. Pub, 530 Rhode Island St, Buffalo, NY 14213, USA"
-        },
-        "end": "2026-07-08T03:00:00-04:00"
-    },
-    {
-        "title": "Jukebox Fox @ D.A. Taste",
-        "start": "2026-04-20T18:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "Replaces Misuta Chow's Sunday Funday karaoke after they closed",
-            "location": "D.A.Taste, 864 Seneca St, Buffalo, NY 14210, USA"
-        },
-        "end": "2026-04-20T23:00:00-04:00"
-    },
-    {
-        "title": "Jukebox Fox @ D.A. Taste",
-        "start": "2026-04-27T18:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "Replaces Misuta Chow's Sunday Funday karaoke after they closed",
-            "location": "D.A.Taste, 864 Seneca St, Buffalo, NY 14210, USA"
-        },
-        "end": "2026-04-27T23:00:00-04:00"
-    },
-    {
-        "title": "Jukebox Fox @ D.A. Taste",
-        "start": "2026-05-04T18:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "Replaces Misuta Chow's Sunday Funday karaoke after they closed",
-            "location": "D.A.Taste, 864 Seneca St, Buffalo, NY 14210, USA"
-        },
-        "end": "2026-05-04T23:00:00-04:00"
-    },
-    {
-        "title": "Jukebox Fox @ D.A. Taste",
-        "start": "2026-05-11T18:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "Replaces Misuta Chow's Sunday Funday karaoke after they closed",
-            "location": "D.A.Taste, 864 Seneca St, Buffalo, NY 14210, USA"
-        },
-        "end": "2026-05-11T23:00:00-04:00"
-    },
-    {
-        "title": "Jukebox Fox @ D.A. Taste",
-        "start": "2026-05-18T18:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "Replaces Misuta Chow's Sunday Funday karaoke after they closed",
-            "location": "D.A.Taste, 864 Seneca St, Buffalo, NY 14210, USA"
-        },
-        "end": "2026-05-18T23:00:00-04:00"
-    },
-    {
-        "title": "Jukebox Fox @ D.A. Taste",
-        "start": "2026-05-25T18:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "Replaces Misuta Chow's Sunday Funday karaoke after they closed",
-            "location": "D.A.Taste, 864 Seneca St, Buffalo, NY 14210, USA"
-        },
-        "end": "2026-05-25T23:00:00-04:00"
-    },
-    {
-        "title": "Jukebox Fox @ D.A. Taste",
-        "start": "2026-06-01T18:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "Replaces Misuta Chow's Sunday Funday karaoke after they closed",
-            "location": "D.A.Taste, 864 Seneca St, Buffalo, NY 14210, USA"
-        },
-        "end": "2026-06-01T23:00:00-04:00"
-    },
-    {
-        "title": "Jukebox Fox @ D.A. Taste",
-        "start": "2026-06-08T18:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "Replaces Misuta Chow's Sunday Funday karaoke after they closed",
-            "location": "D.A.Taste, 864 Seneca St, Buffalo, NY 14210, USA"
-        },
-        "end": "2026-06-08T23:00:00-04:00"
-    },
-    {
-        "title": "Jukebox Fox @ D.A. Taste",
-        "start": "2026-06-15T18:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "Replaces Misuta Chow's Sunday Funday karaoke after they closed",
-            "location": "D.A.Taste, 864 Seneca St, Buffalo, NY 14210, USA"
-        },
-        "end": "2026-06-15T23:00:00-04:00"
-    },
-    {
-        "title": "Jukebox Fox @ D.A. Taste",
-        "start": "2026-06-22T18:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "Replaces Misuta Chow's Sunday Funday karaoke after they closed",
-            "location": "D.A.Taste, 864 Seneca St, Buffalo, NY 14210, USA"
-        },
-        "end": "2026-06-22T23:00:00-04:00"
-    },
-    {
-        "title": "Jukebox Fox @ D.A. Taste",
-        "start": "2026-06-29T18:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "Replaces Misuta Chow's Sunday Funday karaoke after they closed",
-            "location": "D.A.Taste, 864 Seneca St, Buffalo, NY 14210, USA"
-        },
-        "end": "2026-06-29T23:00:00-04:00"
-    },
-    {
-        "title": "Jukebox Fox @ D.A. Taste",
-        "start": "2026-07-06T18:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "Replaces Misuta Chow's Sunday Funday karaoke after they closed",
-            "location": "D.A.Taste, 864 Seneca St, Buffalo, NY 14210, USA"
-        },
-        "end": "2026-07-06T23:00:00-04:00"
-    },
-    {
-        "title": "The Attic @ Mr. Goodbar",
-        "start": "2026-04-15T20:30:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "The Attic, upstairs",
-            "location": "Mr. Goodbar, 1110 Elmwood Ave, Buffalo, NY 14222, USA"
-        },
-        "end": "2026-04-16T00:30:00-04:00"
-    },
-    {
         "title": "The Attic @ Mr. Goodbar",
         "start": "2026-04-22T20:30:00-04:00",
         "extendedProps": {
@@ -894,440 +275,67 @@
         "end": "2026-07-09T00:30:00-04:00"
     },
     {
-        "title": "Milkies",
-        "start": "2026-04-14T20:00:00-04:00",
+        "title": "Sober One Sing",
+        "start": "2026-04-22T18:00:00-04:00",
         "extendedProps": {
             "category": "karaoke",
             "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://www.instagram.com/sirwilliamidol\">https://www.instagram.com/sirwilliamidol</a>",
-            "location": "Milkie's, 522 Elmwood Ave, Buffalo, NY 14222, USA"
+            "location": "Third Space Cafe and Entertainment, 777 Main St, Buffalo, NY 14203, USA"
         },
-        "end": "2026-04-15T01:00:00-04:00"
+        "end": "2026-04-22T21:00:00-04:00"
     },
     {
-        "title": "Milkies",
-        "start": "2026-04-21T20:00:00-04:00",
+        "title": "Sober One Sing",
+        "start": "2026-05-27T18:00:00-04:00",
         "extendedProps": {
             "category": "karaoke",
             "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://www.instagram.com/sirwilliamidol\">https://www.instagram.com/sirwilliamidol</a>",
-            "location": "Milkie's, 522 Elmwood Ave, Buffalo, NY 14222, USA"
+            "location": "Third Space Cafe and Entertainment, 777 Main St, Buffalo, NY 14203, USA"
         },
-        "end": "2026-04-22T01:00:00-04:00"
+        "end": "2026-05-27T21:00:00-04:00"
     },
     {
-        "title": "Milkies",
-        "start": "2026-04-28T20:00:00-04:00",
+        "title": "Sober One Sing",
+        "start": "2026-06-24T18:00:00-04:00",
         "extendedProps": {
             "category": "karaoke",
             "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://www.instagram.com/sirwilliamidol\">https://www.instagram.com/sirwilliamidol</a>",
-            "location": "Milkie's, 522 Elmwood Ave, Buffalo, NY 14222, USA"
+            "location": "Third Space Cafe and Entertainment, 777 Main St, Buffalo, NY 14203, USA"
         },
-        "end": "2026-04-29T01:00:00-04:00"
+        "end": "2026-06-24T21:00:00-04:00"
     },
     {
-        "title": "Milkies",
-        "start": "2026-05-05T20:00:00-04:00",
+        "title": "Final Friday in The Attic @ Mr. Goodbar",
+        "start": "2026-04-24T21:00:00-04:00",
         "extendedProps": {
             "category": "karaoke",
             "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://www.instagram.com/sirwilliamidol\">https://www.instagram.com/sirwilliamidol</a>",
-            "location": "Milkie's, 522 Elmwood Ave, Buffalo, NY 14222, USA"
+            "description": "The Attic, upstairs, every Final Friday",
+            "location": "Mr. Goodbar, 1110 Elmwood Ave, Buffalo, NY 14222, USA"
         },
-        "end": "2026-05-06T01:00:00-04:00"
+        "end": "2026-04-25T01:00:00-04:00"
     },
     {
-        "title": "Milkies",
-        "start": "2026-05-12T20:00:00-04:00",
+        "title": "Final Friday in The Attic @ Mr. Goodbar",
+        "start": "2026-05-29T21:00:00-04:00",
         "extendedProps": {
             "category": "karaoke",
             "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://www.instagram.com/sirwilliamidol\">https://www.instagram.com/sirwilliamidol</a>",
-            "location": "Milkie's, 522 Elmwood Ave, Buffalo, NY 14222, USA"
+            "description": "The Attic, upstairs, every Final Friday",
+            "location": "Mr. Goodbar, 1110 Elmwood Ave, Buffalo, NY 14222, USA"
         },
-        "end": "2026-05-13T01:00:00-04:00"
+        "end": "2026-05-30T01:00:00-04:00"
     },
     {
-        "title": "Milkies",
-        "start": "2026-05-19T20:00:00-04:00",
+        "title": "Final Friday in The Attic @ Mr. Goodbar",
+        "start": "2026-06-26T21:00:00-04:00",
         "extendedProps": {
             "category": "karaoke",
             "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://www.instagram.com/sirwilliamidol\">https://www.instagram.com/sirwilliamidol</a>",
-            "location": "Milkie's, 522 Elmwood Ave, Buffalo, NY 14222, USA"
+            "description": "The Attic, upstairs, every Final Friday",
+            "location": "Mr. Goodbar, 1110 Elmwood Ave, Buffalo, NY 14222, USA"
         },
-        "end": "2026-05-20T01:00:00-04:00"
-    },
-    {
-        "title": "Milkies",
-        "start": "2026-05-26T20:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://www.instagram.com/sirwilliamidol\">https://www.instagram.com/sirwilliamidol</a>",
-            "location": "Milkie's, 522 Elmwood Ave, Buffalo, NY 14222, USA"
-        },
-        "end": "2026-05-27T01:00:00-04:00"
-    },
-    {
-        "title": "Milkies",
-        "start": "2026-06-02T20:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://www.instagram.com/sirwilliamidol\">https://www.instagram.com/sirwilliamidol</a>",
-            "location": "Milkie's, 522 Elmwood Ave, Buffalo, NY 14222, USA"
-        },
-        "end": "2026-06-03T01:00:00-04:00"
-    },
-    {
-        "title": "Milkies",
-        "start": "2026-06-09T20:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://www.instagram.com/sirwilliamidol\">https://www.instagram.com/sirwilliamidol</a>",
-            "location": "Milkie's, 522 Elmwood Ave, Buffalo, NY 14222, USA"
-        },
-        "end": "2026-06-10T01:00:00-04:00"
-    },
-    {
-        "title": "Milkies",
-        "start": "2026-06-16T20:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://www.instagram.com/sirwilliamidol\">https://www.instagram.com/sirwilliamidol</a>",
-            "location": "Milkie's, 522 Elmwood Ave, Buffalo, NY 14222, USA"
-        },
-        "end": "2026-06-17T01:00:00-04:00"
-    },
-    {
-        "title": "Milkies",
-        "start": "2026-06-23T20:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://www.instagram.com/sirwilliamidol\">https://www.instagram.com/sirwilliamidol</a>",
-            "location": "Milkie's, 522 Elmwood Ave, Buffalo, NY 14222, USA"
-        },
-        "end": "2026-06-24T01:00:00-04:00"
-    },
-    {
-        "title": "Milkies",
-        "start": "2026-06-30T20:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://www.instagram.com/sirwilliamidol\">https://www.instagram.com/sirwilliamidol</a>",
-            "location": "Milkie's, 522 Elmwood Ave, Buffalo, NY 14222, USA"
-        },
-        "end": "2026-07-01T01:00:00-04:00"
-    },
-    {
-        "title": "Milkies",
-        "start": "2026-07-07T20:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://www.instagram.com/sirwilliamidol\">https://www.instagram.com/sirwilliamidol</a>",
-            "location": "Milkie's, 522 Elmwood Ave, Buffalo, NY 14222, USA"
-        },
-        "end": "2026-07-08T01:00:00-04:00"
-    },
-    {
-        "title": "Themed Karaoke @ OSB Ciderworks",
-        "start": "2026-05-14T20:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "<u><a href=\"https://www.facebook.com/JukeboxFoxEntertainment\">https://www.facebook.com/JukeboxFoxEntertainment</a></u><br>Every third Thursday of the month. Check link for theme",
-            "location": "OSB Buffalo/OSB Ciderworks, 517 Main St, Buffalo, NY 14203, USA"
-        },
-        "end": "2026-05-15T00:00:00-04:00"
-    },
-    {
-        "title": "Themed Karaoke @ OSB Ciderworks",
-        "start": "2026-06-11T20:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "<u><a href=\"https://www.facebook.com/JukeboxFoxEntertainment\">https://www.facebook.com/JukeboxFoxEntertainment</a></u><br>Every third Thursday of the month. Check link for theme",
-            "location": "OSB Buffalo/OSB Ciderworks, 517 Main St, Buffalo, NY 14203, USA"
-        },
-        "end": "2026-06-12T00:00:00-04:00"
-    },
-    {
-        "title": "Themed Karaoke @ OSB Ciderworks",
-        "start": "2026-07-09T20:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "description": "<u><a href=\"https://www.facebook.com/JukeboxFoxEntertainment\">https://www.facebook.com/JukeboxFoxEntertainment</a></u><br>Every third Thursday of the month. Check link for theme",
-            "location": "OSB Buffalo/OSB Ciderworks, 517 Main St, Buffalo, NY 14203, USA"
-        },
-        "end": "2026-07-10T00:00:00-04:00"
-    },
-    {
-        "title": "Tudor Lounge",
-        "start": "2026-04-17T23:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Tudor Lounge, 335 Franklin St, Buffalo, NY 14202, USA"
-        },
-        "end": "2026-04-18T02:00:00-04:00"
-    },
-    {
-        "title": "Tudor Lounge",
-        "start": "2026-04-24T23:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Tudor Lounge, 335 Franklin St, Buffalo, NY 14202, USA"
-        },
-        "end": "2026-04-25T02:00:00-04:00"
-    },
-    {
-        "title": "Tudor Lounge",
-        "start": "2026-05-01T23:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Tudor Lounge, 335 Franklin St, Buffalo, NY 14202, USA"
-        },
-        "end": "2026-05-02T02:00:00-04:00"
-    },
-    {
-        "title": "Tudor Lounge",
-        "start": "2026-05-08T23:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Tudor Lounge, 335 Franklin St, Buffalo, NY 14202, USA"
-        },
-        "end": "2026-05-09T02:00:00-04:00"
-    },
-    {
-        "title": "Tudor Lounge",
-        "start": "2026-05-15T23:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Tudor Lounge, 335 Franklin St, Buffalo, NY 14202, USA"
-        },
-        "end": "2026-05-16T02:00:00-04:00"
-    },
-    {
-        "title": "Tudor Lounge",
-        "start": "2026-05-22T23:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Tudor Lounge, 335 Franklin St, Buffalo, NY 14202, USA"
-        },
-        "end": "2026-05-23T02:00:00-04:00"
-    },
-    {
-        "title": "Tudor Lounge",
-        "start": "2026-05-29T23:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Tudor Lounge, 335 Franklin St, Buffalo, NY 14202, USA"
-        },
-        "end": "2026-05-30T02:00:00-04:00"
-    },
-    {
-        "title": "Tudor Lounge",
-        "start": "2026-06-05T23:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Tudor Lounge, 335 Franklin St, Buffalo, NY 14202, USA"
-        },
-        "end": "2026-06-06T02:00:00-04:00"
-    },
-    {
-        "title": "Tudor Lounge",
-        "start": "2026-06-12T23:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Tudor Lounge, 335 Franklin St, Buffalo, NY 14202, USA"
-        },
-        "end": "2026-06-13T02:00:00-04:00"
-    },
-    {
-        "title": "Tudor Lounge",
-        "start": "2026-06-19T23:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Tudor Lounge, 335 Franklin St, Buffalo, NY 14202, USA"
-        },
-        "end": "2026-06-20T02:00:00-04:00"
-    },
-    {
-        "title": "Tudor Lounge",
-        "start": "2026-06-26T23:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Tudor Lounge, 335 Franklin St, Buffalo, NY 14202, USA"
-        },
-        "end": "2026-06-27T02:00:00-04:00"
-    },
-    {
-        "title": "Tudor Lounge",
-        "start": "2026-07-03T23:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Tudor Lounge, 335 Franklin St, Buffalo, NY 14202, USA"
-        },
-        "end": "2026-07-04T02:00:00-04:00"
-    },
-    {
-        "title": "Tudor Lounge",
-        "start": "2026-07-10T23:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Tudor Lounge, 335 Franklin St, Buffalo, NY 14202, USA"
-        },
-        "end": "2026-07-11T02:00:00-04:00"
-    },
-    {
-        "title": "Jukebox Fox @ Thirsty Buffalo",
-        "start": "2026-04-17T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Thirsty Buffalo, 555 Elmwood Ave, Buffalo, NY 14222, USA"
-        },
-        "end": "2026-04-18T02:00:00-04:00"
-    },
-    {
-        "title": "Jukebox Fox @ Thirsty Buffalo",
-        "start": "2026-04-24T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Thirsty Buffalo, 555 Elmwood Ave, Buffalo, NY 14222, USA"
-        },
-        "end": "2026-04-25T02:00:00-04:00"
-    },
-    {
-        "title": "Jukebox Fox @ Thirsty Buffalo",
-        "start": "2026-05-01T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Thirsty Buffalo, 555 Elmwood Ave, Buffalo, NY 14222, USA"
-        },
-        "end": "2026-05-02T02:00:00-04:00"
-    },
-    {
-        "title": "Jukebox Fox @ Thirsty Buffalo",
-        "start": "2026-05-08T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Thirsty Buffalo, 555 Elmwood Ave, Buffalo, NY 14222, USA"
-        },
-        "end": "2026-05-09T02:00:00-04:00"
-    },
-    {
-        "title": "Jukebox Fox @ Thirsty Buffalo",
-        "start": "2026-05-15T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Thirsty Buffalo, 555 Elmwood Ave, Buffalo, NY 14222, USA"
-        },
-        "end": "2026-05-16T02:00:00-04:00"
-    },
-    {
-        "title": "Jukebox Fox @ Thirsty Buffalo",
-        "start": "2026-05-22T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Thirsty Buffalo, 555 Elmwood Ave, Buffalo, NY 14222, USA"
-        },
-        "end": "2026-05-23T02:00:00-04:00"
-    },
-    {
-        "title": "Jukebox Fox @ Thirsty Buffalo",
-        "start": "2026-05-29T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Thirsty Buffalo, 555 Elmwood Ave, Buffalo, NY 14222, USA"
-        },
-        "end": "2026-05-30T02:00:00-04:00"
-    },
-    {
-        "title": "Jukebox Fox @ Thirsty Buffalo",
-        "start": "2026-06-05T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Thirsty Buffalo, 555 Elmwood Ave, Buffalo, NY 14222, USA"
-        },
-        "end": "2026-06-06T02:00:00-04:00"
-    },
-    {
-        "title": "Jukebox Fox @ Thirsty Buffalo",
-        "start": "2026-06-12T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Thirsty Buffalo, 555 Elmwood Ave, Buffalo, NY 14222, USA"
-        },
-        "end": "2026-06-13T02:00:00-04:00"
-    },
-    {
-        "title": "Jukebox Fox @ Thirsty Buffalo",
-        "start": "2026-06-19T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Thirsty Buffalo, 555 Elmwood Ave, Buffalo, NY 14222, USA"
-        },
-        "end": "2026-06-20T02:00:00-04:00"
-    },
-    {
-        "title": "Jukebox Fox @ Thirsty Buffalo",
-        "start": "2026-06-26T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Thirsty Buffalo, 555 Elmwood Ave, Buffalo, NY 14222, USA"
-        },
-        "end": "2026-06-27T02:00:00-04:00"
-    },
-    {
-        "title": "Jukebox Fox @ Thirsty Buffalo",
-        "start": "2026-07-03T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Thirsty Buffalo, 555 Elmwood Ave, Buffalo, NY 14222, USA"
-        },
-        "end": "2026-07-04T02:00:00-04:00"
-    },
-    {
-        "title": "Jukebox Fox @ Thirsty Buffalo",
-        "start": "2026-07-10T22:00:00-04:00",
-        "extendedProps": {
-            "category": "karaoke",
-            "icon": "\ud83c\udfa4",
-            "location": "Thirsty Buffalo, 555 Elmwood Ave, Buffalo, NY 14222, USA"
-        },
-        "end": "2026-07-11T02:00:00-04:00"
+        "end": "2026-06-27T01:00:00-04:00"
     },
     {
         "title": "Dobson @ Neighbors Pub",
@@ -1473,134 +481,550 @@
         "end": "2026-07-11T01:00:00-04:00"
     },
     {
-        "title": "Jackrabbit Karaoke",
-        "start": "2026-04-16T21:00:00-04:00",
+        "title": "Jukebox Fox @ D.A. Taste",
+        "start": "2026-04-20T18:00:00-04:00",
         "extendedProps": {
             "category": "karaoke",
             "icon": "\ud83c\udfa4",
-            "location": "Jack Rabbit, 1010 Elmwood Ave, Buffalo, NY 14222, USA"
+            "description": "Replaces Misuta Chow's Sunday Funday karaoke after they closed",
+            "location": "D.A.Taste, 864 Seneca St, Buffalo, NY 14210, USA"
         },
-        "end": "2026-04-17T01:00:00-04:00"
+        "end": "2026-04-20T23:00:00-04:00"
     },
     {
-        "title": "Jackrabbit Karaoke",
-        "start": "2026-04-23T21:00:00-04:00",
+        "title": "Jukebox Fox @ D.A. Taste",
+        "start": "2026-04-27T18:00:00-04:00",
         "extendedProps": {
             "category": "karaoke",
             "icon": "\ud83c\udfa4",
-            "location": "Jack Rabbit, 1010 Elmwood Ave, Buffalo, NY 14222, USA"
+            "description": "Replaces Misuta Chow's Sunday Funday karaoke after they closed",
+            "location": "D.A.Taste, 864 Seneca St, Buffalo, NY 14210, USA"
         },
-        "end": "2026-04-24T01:00:00-04:00"
+        "end": "2026-04-27T23:00:00-04:00"
     },
     {
-        "title": "Jackrabbit Karaoke",
-        "start": "2026-04-30T21:00:00-04:00",
+        "title": "Jukebox Fox @ D.A. Taste",
+        "start": "2026-05-04T18:00:00-04:00",
         "extendedProps": {
             "category": "karaoke",
             "icon": "\ud83c\udfa4",
-            "location": "Jack Rabbit, 1010 Elmwood Ave, Buffalo, NY 14222, USA"
+            "description": "Replaces Misuta Chow's Sunday Funday karaoke after they closed",
+            "location": "D.A.Taste, 864 Seneca St, Buffalo, NY 14210, USA"
         },
-        "end": "2026-05-01T01:00:00-04:00"
+        "end": "2026-05-04T23:00:00-04:00"
     },
     {
-        "title": "Jackrabbit Karaoke",
-        "start": "2026-05-07T21:00:00-04:00",
+        "title": "Jukebox Fox @ D.A. Taste",
+        "start": "2026-05-11T18:00:00-04:00",
         "extendedProps": {
             "category": "karaoke",
             "icon": "\ud83c\udfa4",
-            "location": "Jack Rabbit, 1010 Elmwood Ave, Buffalo, NY 14222, USA"
+            "description": "Replaces Misuta Chow's Sunday Funday karaoke after they closed",
+            "location": "D.A.Taste, 864 Seneca St, Buffalo, NY 14210, USA"
         },
-        "end": "2026-05-08T01:00:00-04:00"
+        "end": "2026-05-11T23:00:00-04:00"
     },
     {
-        "title": "Jackrabbit Karaoke",
-        "start": "2026-05-14T21:00:00-04:00",
+        "title": "Jukebox Fox @ D.A. Taste",
+        "start": "2026-05-18T18:00:00-04:00",
         "extendedProps": {
             "category": "karaoke",
             "icon": "\ud83c\udfa4",
-            "location": "Jack Rabbit, 1010 Elmwood Ave, Buffalo, NY 14222, USA"
+            "description": "Replaces Misuta Chow's Sunday Funday karaoke after they closed",
+            "location": "D.A.Taste, 864 Seneca St, Buffalo, NY 14210, USA"
         },
-        "end": "2026-05-15T01:00:00-04:00"
+        "end": "2026-05-18T23:00:00-04:00"
     },
     {
-        "title": "Jackrabbit Karaoke",
-        "start": "2026-05-21T21:00:00-04:00",
+        "title": "Jukebox Fox @ D.A. Taste",
+        "start": "2026-05-25T18:00:00-04:00",
         "extendedProps": {
             "category": "karaoke",
             "icon": "\ud83c\udfa4",
-            "location": "Jack Rabbit, 1010 Elmwood Ave, Buffalo, NY 14222, USA"
+            "description": "Replaces Misuta Chow's Sunday Funday karaoke after they closed",
+            "location": "D.A.Taste, 864 Seneca St, Buffalo, NY 14210, USA"
         },
-        "end": "2026-05-22T01:00:00-04:00"
+        "end": "2026-05-25T23:00:00-04:00"
     },
     {
-        "title": "Jackrabbit Karaoke",
-        "start": "2026-05-28T21:00:00-04:00",
+        "title": "Jukebox Fox @ D.A. Taste",
+        "start": "2026-06-01T18:00:00-04:00",
         "extendedProps": {
             "category": "karaoke",
             "icon": "\ud83c\udfa4",
-            "location": "Jack Rabbit, 1010 Elmwood Ave, Buffalo, NY 14222, USA"
+            "description": "Replaces Misuta Chow's Sunday Funday karaoke after they closed",
+            "location": "D.A.Taste, 864 Seneca St, Buffalo, NY 14210, USA"
         },
-        "end": "2026-05-29T01:00:00-04:00"
+        "end": "2026-06-01T23:00:00-04:00"
     },
     {
-        "title": "Jackrabbit Karaoke",
-        "start": "2026-06-04T21:00:00-04:00",
+        "title": "Jukebox Fox @ D.A. Taste",
+        "start": "2026-06-08T18:00:00-04:00",
         "extendedProps": {
             "category": "karaoke",
             "icon": "\ud83c\udfa4",
-            "location": "Jack Rabbit, 1010 Elmwood Ave, Buffalo, NY 14222, USA"
+            "description": "Replaces Misuta Chow's Sunday Funday karaoke after they closed",
+            "location": "D.A.Taste, 864 Seneca St, Buffalo, NY 14210, USA"
         },
-        "end": "2026-06-05T01:00:00-04:00"
+        "end": "2026-06-08T23:00:00-04:00"
     },
     {
-        "title": "Jackrabbit Karaoke",
-        "start": "2026-06-11T21:00:00-04:00",
+        "title": "Jukebox Fox @ D.A. Taste",
+        "start": "2026-06-15T18:00:00-04:00",
         "extendedProps": {
             "category": "karaoke",
             "icon": "\ud83c\udfa4",
-            "location": "Jack Rabbit, 1010 Elmwood Ave, Buffalo, NY 14222, USA"
+            "description": "Replaces Misuta Chow's Sunday Funday karaoke after they closed",
+            "location": "D.A.Taste, 864 Seneca St, Buffalo, NY 14210, USA"
         },
-        "end": "2026-06-12T01:00:00-04:00"
+        "end": "2026-06-15T23:00:00-04:00"
     },
     {
-        "title": "Jackrabbit Karaoke",
-        "start": "2026-06-18T21:00:00-04:00",
+        "title": "Jukebox Fox @ D.A. Taste",
+        "start": "2026-06-22T18:00:00-04:00",
         "extendedProps": {
             "category": "karaoke",
             "icon": "\ud83c\udfa4",
-            "location": "Jack Rabbit, 1010 Elmwood Ave, Buffalo, NY 14222, USA"
+            "description": "Replaces Misuta Chow's Sunday Funday karaoke after they closed",
+            "location": "D.A.Taste, 864 Seneca St, Buffalo, NY 14210, USA"
         },
-        "end": "2026-06-19T01:00:00-04:00"
+        "end": "2026-06-22T23:00:00-04:00"
     },
     {
-        "title": "Jackrabbit Karaoke",
-        "start": "2026-06-25T21:00:00-04:00",
+        "title": "Jukebox Fox @ D.A. Taste",
+        "start": "2026-06-29T18:00:00-04:00",
         "extendedProps": {
             "category": "karaoke",
             "icon": "\ud83c\udfa4",
-            "location": "Jack Rabbit, 1010 Elmwood Ave, Buffalo, NY 14222, USA"
+            "description": "Replaces Misuta Chow's Sunday Funday karaoke after they closed",
+            "location": "D.A.Taste, 864 Seneca St, Buffalo, NY 14210, USA"
         },
-        "end": "2026-06-26T01:00:00-04:00"
+        "end": "2026-06-29T23:00:00-04:00"
     },
     {
-        "title": "Jackrabbit Karaoke",
-        "start": "2026-07-02T21:00:00-04:00",
+        "title": "Jukebox Fox @ D.A. Taste",
+        "start": "2026-07-06T18:00:00-04:00",
         "extendedProps": {
             "category": "karaoke",
             "icon": "\ud83c\udfa4",
-            "location": "Jack Rabbit, 1010 Elmwood Ave, Buffalo, NY 14222, USA"
+            "description": "Replaces Misuta Chow's Sunday Funday karaoke after they closed",
+            "location": "D.A.Taste, 864 Seneca St, Buffalo, NY 14210, USA"
         },
-        "end": "2026-07-03T01:00:00-04:00"
+        "end": "2026-07-06T23:00:00-04:00"
     },
     {
-        "title": "Jackrabbit Karaoke",
-        "start": "2026-07-09T21:00:00-04:00",
+        "title": "Jukebox Fox @ D.A. Taste",
+        "start": "2026-07-13T18:00:00-04:00",
         "extendedProps": {
             "category": "karaoke",
             "icon": "\ud83c\udfa4",
-            "location": "Jack Rabbit, 1010 Elmwood Ave, Buffalo, NY 14222, USA"
+            "description": "Replaces Misuta Chow's Sunday Funday karaoke after they closed",
+            "location": "D.A.Taste, 864 Seneca St, Buffalo, NY 14210, USA"
         },
-        "end": "2026-07-10T01:00:00-04:00"
+        "end": "2026-07-13T23:00:00-04:00"
+    },
+    {
+        "title": "KJ Sarge @ Casey's Black Rock",
+        "start": "2026-04-18T21:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "Resurrecting the Vortex of Love, moving from Hot Mamma's Canteen to Main street Black Rock, between Grant and Wegmans on Amherst. This makes it official, there is Karaoke EVERY NIGHT OF THE WEEK in BUFFALO!",
+            "location": "Casey's Black Rock, 484 Amherst St, Buffalo, NY 14207, USA"
+        },
+        "end": "2026-04-19T02:00:00-04:00"
+    },
+    {
+        "title": "KJ Sarge @ Casey's Black Rock",
+        "start": "2026-04-25T21:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "Resurrecting the Vortex of Love, moving from Hot Mamma's Canteen to Main street Black Rock, between Grant and Wegmans on Amherst. This makes it official, there is Karaoke EVERY NIGHT OF THE WEEK in BUFFALO!",
+            "location": "Casey's Black Rock, 484 Amherst St, Buffalo, NY 14207, USA"
+        },
+        "end": "2026-04-26T02:00:00-04:00"
+    },
+    {
+        "title": "KJ Sarge @ Casey's Black Rock",
+        "start": "2026-05-02T21:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "Resurrecting the Vortex of Love, moving from Hot Mamma's Canteen to Main street Black Rock, between Grant and Wegmans on Amherst. This makes it official, there is Karaoke EVERY NIGHT OF THE WEEK in BUFFALO!",
+            "location": "Casey's Black Rock, 484 Amherst St, Buffalo, NY 14207, USA"
+        },
+        "end": "2026-05-03T02:00:00-04:00"
+    },
+    {
+        "title": "KJ Sarge @ Casey's Black Rock",
+        "start": "2026-05-09T21:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "Resurrecting the Vortex of Love, moving from Hot Mamma's Canteen to Main street Black Rock, between Grant and Wegmans on Amherst. This makes it official, there is Karaoke EVERY NIGHT OF THE WEEK in BUFFALO!",
+            "location": "Casey's Black Rock, 484 Amherst St, Buffalo, NY 14207, USA"
+        },
+        "end": "2026-05-10T02:00:00-04:00"
+    },
+    {
+        "title": "KJ Sarge @ Casey's Black Rock",
+        "start": "2026-05-16T21:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "Resurrecting the Vortex of Love, moving from Hot Mamma's Canteen to Main street Black Rock, between Grant and Wegmans on Amherst. This makes it official, there is Karaoke EVERY NIGHT OF THE WEEK in BUFFALO!",
+            "location": "Casey's Black Rock, 484 Amherst St, Buffalo, NY 14207, USA"
+        },
+        "end": "2026-05-17T02:00:00-04:00"
+    },
+    {
+        "title": "KJ Sarge @ Casey's Black Rock",
+        "start": "2026-05-23T21:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "Resurrecting the Vortex of Love, moving from Hot Mamma's Canteen to Main street Black Rock, between Grant and Wegmans on Amherst. This makes it official, there is Karaoke EVERY NIGHT OF THE WEEK in BUFFALO!",
+            "location": "Casey's Black Rock, 484 Amherst St, Buffalo, NY 14207, USA"
+        },
+        "end": "2026-05-24T02:00:00-04:00"
+    },
+    {
+        "title": "KJ Sarge @ Casey's Black Rock",
+        "start": "2026-05-30T21:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "Resurrecting the Vortex of Love, moving from Hot Mamma's Canteen to Main street Black Rock, between Grant and Wegmans on Amherst. This makes it official, there is Karaoke EVERY NIGHT OF THE WEEK in BUFFALO!",
+            "location": "Casey's Black Rock, 484 Amherst St, Buffalo, NY 14207, USA"
+        },
+        "end": "2026-05-31T02:00:00-04:00"
+    },
+    {
+        "title": "KJ Sarge @ Casey's Black Rock",
+        "start": "2026-06-06T21:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "Resurrecting the Vortex of Love, moving from Hot Mamma's Canteen to Main street Black Rock, between Grant and Wegmans on Amherst. This makes it official, there is Karaoke EVERY NIGHT OF THE WEEK in BUFFALO!",
+            "location": "Casey's Black Rock, 484 Amherst St, Buffalo, NY 14207, USA"
+        },
+        "end": "2026-06-07T02:00:00-04:00"
+    },
+    {
+        "title": "KJ Sarge @ Casey's Black Rock",
+        "start": "2026-06-13T21:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "Resurrecting the Vortex of Love, moving from Hot Mamma's Canteen to Main street Black Rock, between Grant and Wegmans on Amherst. This makes it official, there is Karaoke EVERY NIGHT OF THE WEEK in BUFFALO!",
+            "location": "Casey's Black Rock, 484 Amherst St, Buffalo, NY 14207, USA"
+        },
+        "end": "2026-06-14T02:00:00-04:00"
+    },
+    {
+        "title": "KJ Sarge @ Casey's Black Rock",
+        "start": "2026-06-20T21:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "Resurrecting the Vortex of Love, moving from Hot Mamma's Canteen to Main street Black Rock, between Grant and Wegmans on Amherst. This makes it official, there is Karaoke EVERY NIGHT OF THE WEEK in BUFFALO!",
+            "location": "Casey's Black Rock, 484 Amherst St, Buffalo, NY 14207, USA"
+        },
+        "end": "2026-06-21T02:00:00-04:00"
+    },
+    {
+        "title": "KJ Sarge @ Casey's Black Rock",
+        "start": "2026-06-27T21:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "Resurrecting the Vortex of Love, moving from Hot Mamma's Canteen to Main street Black Rock, between Grant and Wegmans on Amherst. This makes it official, there is Karaoke EVERY NIGHT OF THE WEEK in BUFFALO!",
+            "location": "Casey's Black Rock, 484 Amherst St, Buffalo, NY 14207, USA"
+        },
+        "end": "2026-06-28T02:00:00-04:00"
+    },
+    {
+        "title": "KJ Sarge @ Casey's Black Rock",
+        "start": "2026-07-04T21:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "Resurrecting the Vortex of Love, moving from Hot Mamma's Canteen to Main street Black Rock, between Grant and Wegmans on Amherst. This makes it official, there is Karaoke EVERY NIGHT OF THE WEEK in BUFFALO!",
+            "location": "Casey's Black Rock, 484 Amherst St, Buffalo, NY 14207, USA"
+        },
+        "end": "2026-07-05T02:00:00-04:00"
+    },
+    {
+        "title": "KJ Sarge @ Casey's Black Rock",
+        "start": "2026-07-11T21:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "Resurrecting the Vortex of Love, moving from Hot Mamma's Canteen to Main street Black Rock, between Grant and Wegmans on Amherst. This makes it official, there is Karaoke EVERY NIGHT OF THE WEEK in BUFFALO!",
+            "location": "Casey's Black Rock, 484 Amherst St, Buffalo, NY 14207, USA"
+        },
+        "end": "2026-07-12T02:00:00-04:00"
+    },
+    {
+        "title": "Tudor Lounge",
+        "start": "2026-04-17T23:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Tudor Lounge, 335 Franklin St, Buffalo, NY 14202, USA"
+        },
+        "end": "2026-04-18T02:00:00-04:00"
+    },
+    {
+        "title": "Tudor Lounge",
+        "start": "2026-04-24T23:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Tudor Lounge, 335 Franklin St, Buffalo, NY 14202, USA"
+        },
+        "end": "2026-04-25T02:00:00-04:00"
+    },
+    {
+        "title": "Tudor Lounge",
+        "start": "2026-05-01T23:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Tudor Lounge, 335 Franklin St, Buffalo, NY 14202, USA"
+        },
+        "end": "2026-05-02T02:00:00-04:00"
+    },
+    {
+        "title": "Tudor Lounge",
+        "start": "2026-05-08T23:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Tudor Lounge, 335 Franklin St, Buffalo, NY 14202, USA"
+        },
+        "end": "2026-05-09T02:00:00-04:00"
+    },
+    {
+        "title": "Tudor Lounge",
+        "start": "2026-05-15T23:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Tudor Lounge, 335 Franklin St, Buffalo, NY 14202, USA"
+        },
+        "end": "2026-05-16T02:00:00-04:00"
+    },
+    {
+        "title": "Tudor Lounge",
+        "start": "2026-05-22T23:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Tudor Lounge, 335 Franklin St, Buffalo, NY 14202, USA"
+        },
+        "end": "2026-05-23T02:00:00-04:00"
+    },
+    {
+        "title": "Tudor Lounge",
+        "start": "2026-05-29T23:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Tudor Lounge, 335 Franklin St, Buffalo, NY 14202, USA"
+        },
+        "end": "2026-05-30T02:00:00-04:00"
+    },
+    {
+        "title": "Tudor Lounge",
+        "start": "2026-06-05T23:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Tudor Lounge, 335 Franklin St, Buffalo, NY 14202, USA"
+        },
+        "end": "2026-06-06T02:00:00-04:00"
+    },
+    {
+        "title": "Tudor Lounge",
+        "start": "2026-06-12T23:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Tudor Lounge, 335 Franklin St, Buffalo, NY 14202, USA"
+        },
+        "end": "2026-06-13T02:00:00-04:00"
+    },
+    {
+        "title": "Tudor Lounge",
+        "start": "2026-06-19T23:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Tudor Lounge, 335 Franklin St, Buffalo, NY 14202, USA"
+        },
+        "end": "2026-06-20T02:00:00-04:00"
+    },
+    {
+        "title": "Tudor Lounge",
+        "start": "2026-06-26T23:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Tudor Lounge, 335 Franklin St, Buffalo, NY 14202, USA"
+        },
+        "end": "2026-06-27T02:00:00-04:00"
+    },
+    {
+        "title": "Tudor Lounge",
+        "start": "2026-07-03T23:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Tudor Lounge, 335 Franklin St, Buffalo, NY 14202, USA"
+        },
+        "end": "2026-07-04T02:00:00-04:00"
+    },
+    {
+        "title": "Tudor Lounge",
+        "start": "2026-07-10T23:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Tudor Lounge, 335 Franklin St, Buffalo, NY 14202, USA"
+        },
+        "end": "2026-07-11T02:00:00-04:00"
+    },
+    {
+        "title": "Essex Street Pub",
+        "start": "2026-04-21T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Essex St. Pub, 530 Rhode Island St, Buffalo, NY 14213, USA"
+        },
+        "end": "2026-04-22T03:00:00-04:00"
+    },
+    {
+        "title": "Essex Street Pub",
+        "start": "2026-04-28T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Essex St. Pub, 530 Rhode Island St, Buffalo, NY 14213, USA"
+        },
+        "end": "2026-04-29T03:00:00-04:00"
+    },
+    {
+        "title": "Essex Street Pub",
+        "start": "2026-05-05T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Essex St. Pub, 530 Rhode Island St, Buffalo, NY 14213, USA"
+        },
+        "end": "2026-05-06T03:00:00-04:00"
+    },
+    {
+        "title": "Essex Street Pub",
+        "start": "2026-05-12T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Essex St. Pub, 530 Rhode Island St, Buffalo, NY 14213, USA"
+        },
+        "end": "2026-05-13T03:00:00-04:00"
+    },
+    {
+        "title": "Essex Street Pub",
+        "start": "2026-05-19T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Essex St. Pub, 530 Rhode Island St, Buffalo, NY 14213, USA"
+        },
+        "end": "2026-05-20T03:00:00-04:00"
+    },
+    {
+        "title": "Essex Street Pub",
+        "start": "2026-05-26T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Essex St. Pub, 530 Rhode Island St, Buffalo, NY 14213, USA"
+        },
+        "end": "2026-05-27T03:00:00-04:00"
+    },
+    {
+        "title": "Essex Street Pub",
+        "start": "2026-06-02T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Essex St. Pub, 530 Rhode Island St, Buffalo, NY 14213, USA"
+        },
+        "end": "2026-06-03T03:00:00-04:00"
+    },
+    {
+        "title": "Essex Street Pub",
+        "start": "2026-06-09T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Essex St. Pub, 530 Rhode Island St, Buffalo, NY 14213, USA"
+        },
+        "end": "2026-06-10T03:00:00-04:00"
+    },
+    {
+        "title": "Essex Street Pub",
+        "start": "2026-06-16T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Essex St. Pub, 530 Rhode Island St, Buffalo, NY 14213, USA"
+        },
+        "end": "2026-06-17T03:00:00-04:00"
+    },
+    {
+        "title": "Essex Street Pub",
+        "start": "2026-06-23T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Essex St. Pub, 530 Rhode Island St, Buffalo, NY 14213, USA"
+        },
+        "end": "2026-06-24T03:00:00-04:00"
+    },
+    {
+        "title": "Essex Street Pub",
+        "start": "2026-06-30T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Essex St. Pub, 530 Rhode Island St, Buffalo, NY 14213, USA"
+        },
+        "end": "2026-07-01T03:00:00-04:00"
+    },
+    {
+        "title": "Essex Street Pub",
+        "start": "2026-07-07T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Essex St. Pub, 530 Rhode Island St, Buffalo, NY 14213, USA"
+        },
+        "end": "2026-07-08T03:00:00-04:00"
+    },
+    {
+        "title": "Essex Street Pub",
+        "start": "2026-07-14T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Essex St. Pub, 530 Rhode Island St, Buffalo, NY 14213, USA"
+        },
+        "end": "2026-07-15T03:00:00-04:00"
     },
     {
         "title": "DJ TommyTom @ OSB Karaoke",
@@ -1746,180 +1170,470 @@
         "end": "2026-07-10T00:00:00-04:00"
     },
     {
-        "title": "Dobson @ Allen Street Hardware",
-        "start": "2026-04-20T22:00:00-04:00",
+        "title": "Themed Karaoke @ OSB Ciderworks",
+        "start": "2026-05-14T20:00:00-04:00",
         "extendedProps": {
             "category": "karaoke",
             "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://www.therealdjdannyd.com\">https://www.therealdjdannyd.com</a>",
-            "location": "Allen St Hardware Cafe, 245 Allen St, Buffalo, NY 14201, USA"
+            "description": "<u><a href=\"https://www.facebook.com/JukeboxFoxEntertainment\">https://www.facebook.com/JukeboxFoxEntertainment</a></u><br>Every third Thursday of the month. Check link for theme",
+            "location": "OSB Buffalo/OSB Ciderworks, 517 Main St, Buffalo, NY 14203, USA"
         },
-        "end": "2026-04-21T02:00:00-04:00"
+        "end": "2026-05-15T00:00:00-04:00"
     },
     {
-        "title": "Dobson @ Allen Street Hardware",
-        "start": "2026-04-27T22:00:00-04:00",
+        "title": "Themed Karaoke @ OSB Ciderworks",
+        "start": "2026-06-11T20:00:00-04:00",
         "extendedProps": {
             "category": "karaoke",
             "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://www.therealdjdannyd.com\">https://www.therealdjdannyd.com</a>",
-            "location": "Allen St Hardware Cafe, 245 Allen St, Buffalo, NY 14201, USA"
+            "description": "<u><a href=\"https://www.facebook.com/JukeboxFoxEntertainment\">https://www.facebook.com/JukeboxFoxEntertainment</a></u><br>Every third Thursday of the month. Check link for theme",
+            "location": "OSB Buffalo/OSB Ciderworks, 517 Main St, Buffalo, NY 14203, USA"
         },
-        "end": "2026-04-28T02:00:00-04:00"
+        "end": "2026-06-12T00:00:00-04:00"
     },
     {
-        "title": "Dobson @ Allen Street Hardware",
-        "start": "2026-05-04T22:00:00-04:00",
+        "title": "Themed Karaoke @ OSB Ciderworks",
+        "start": "2026-07-09T20:00:00-04:00",
         "extendedProps": {
             "category": "karaoke",
             "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://www.therealdjdannyd.com\">https://www.therealdjdannyd.com</a>",
-            "location": "Allen St Hardware Cafe, 245 Allen St, Buffalo, NY 14201, USA"
+            "description": "<u><a href=\"https://www.facebook.com/JukeboxFoxEntertainment\">https://www.facebook.com/JukeboxFoxEntertainment</a></u><br>Every third Thursday of the month. Check link for theme",
+            "location": "OSB Buffalo/OSB Ciderworks, 517 Main St, Buffalo, NY 14203, USA"
         },
-        "end": "2026-05-05T02:00:00-04:00"
+        "end": "2026-07-10T00:00:00-04:00"
     },
     {
-        "title": "Dobson @ Allen Street Hardware",
-        "start": "2026-05-11T22:00:00-04:00",
+        "title": "Jukebox Fox @ Thirsty Buffalo",
+        "start": "2026-04-17T22:00:00-04:00",
         "extendedProps": {
             "category": "karaoke",
             "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://www.therealdjdannyd.com\">https://www.therealdjdannyd.com</a>",
-            "location": "Allen St Hardware Cafe, 245 Allen St, Buffalo, NY 14201, USA"
+            "location": "Thirsty Buffalo, 555 Elmwood Ave, Buffalo, NY 14222, USA"
         },
-        "end": "2026-05-12T02:00:00-04:00"
+        "end": "2026-04-18T02:00:00-04:00"
     },
     {
-        "title": "Dobson @ Allen Street Hardware",
-        "start": "2026-05-18T22:00:00-04:00",
+        "title": "Jukebox Fox @ Thirsty Buffalo",
+        "start": "2026-04-24T22:00:00-04:00",
         "extendedProps": {
             "category": "karaoke",
             "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://www.therealdjdannyd.com\">https://www.therealdjdannyd.com</a>",
-            "location": "Allen St Hardware Cafe, 245 Allen St, Buffalo, NY 14201, USA"
+            "location": "Thirsty Buffalo, 555 Elmwood Ave, Buffalo, NY 14222, USA"
         },
-        "end": "2026-05-19T02:00:00-04:00"
+        "end": "2026-04-25T02:00:00-04:00"
     },
     {
-        "title": "Dobson @ Allen Street Hardware",
-        "start": "2026-05-25T22:00:00-04:00",
+        "title": "Jukebox Fox @ Thirsty Buffalo",
+        "start": "2026-05-01T22:00:00-04:00",
         "extendedProps": {
             "category": "karaoke",
             "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://www.therealdjdannyd.com\">https://www.therealdjdannyd.com</a>",
-            "location": "Allen St Hardware Cafe, 245 Allen St, Buffalo, NY 14201, USA"
+            "location": "Thirsty Buffalo, 555 Elmwood Ave, Buffalo, NY 14222, USA"
         },
-        "end": "2026-05-26T02:00:00-04:00"
+        "end": "2026-05-02T02:00:00-04:00"
     },
     {
-        "title": "Dobson @ Allen Street Hardware",
-        "start": "2026-06-01T22:00:00-04:00",
+        "title": "Jukebox Fox @ Thirsty Buffalo",
+        "start": "2026-05-08T22:00:00-04:00",
         "extendedProps": {
             "category": "karaoke",
             "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://www.therealdjdannyd.com\">https://www.therealdjdannyd.com</a>",
-            "location": "Allen St Hardware Cafe, 245 Allen St, Buffalo, NY 14201, USA"
+            "location": "Thirsty Buffalo, 555 Elmwood Ave, Buffalo, NY 14222, USA"
         },
-        "end": "2026-06-02T02:00:00-04:00"
+        "end": "2026-05-09T02:00:00-04:00"
     },
     {
-        "title": "Dobson @ Allen Street Hardware",
-        "start": "2026-06-08T22:00:00-04:00",
+        "title": "Jukebox Fox @ Thirsty Buffalo",
+        "start": "2026-05-15T22:00:00-04:00",
         "extendedProps": {
             "category": "karaoke",
             "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://www.therealdjdannyd.com\">https://www.therealdjdannyd.com</a>",
-            "location": "Allen St Hardware Cafe, 245 Allen St, Buffalo, NY 14201, USA"
+            "location": "Thirsty Buffalo, 555 Elmwood Ave, Buffalo, NY 14222, USA"
         },
-        "end": "2026-06-09T02:00:00-04:00"
+        "end": "2026-05-16T02:00:00-04:00"
     },
     {
-        "title": "Dobson @ Allen Street Hardware",
-        "start": "2026-06-15T22:00:00-04:00",
+        "title": "Jukebox Fox @ Thirsty Buffalo",
+        "start": "2026-05-22T22:00:00-04:00",
         "extendedProps": {
             "category": "karaoke",
             "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://www.therealdjdannyd.com\">https://www.therealdjdannyd.com</a>",
-            "location": "Allen St Hardware Cafe, 245 Allen St, Buffalo, NY 14201, USA"
+            "location": "Thirsty Buffalo, 555 Elmwood Ave, Buffalo, NY 14222, USA"
         },
-        "end": "2026-06-16T02:00:00-04:00"
+        "end": "2026-05-23T02:00:00-04:00"
     },
     {
-        "title": "Dobson @ Allen Street Hardware",
-        "start": "2026-06-22T22:00:00-04:00",
+        "title": "Jukebox Fox @ Thirsty Buffalo",
+        "start": "2026-05-29T22:00:00-04:00",
         "extendedProps": {
             "category": "karaoke",
             "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://www.therealdjdannyd.com\">https://www.therealdjdannyd.com</a>",
-            "location": "Allen St Hardware Cafe, 245 Allen St, Buffalo, NY 14201, USA"
+            "location": "Thirsty Buffalo, 555 Elmwood Ave, Buffalo, NY 14222, USA"
         },
-        "end": "2026-06-23T02:00:00-04:00"
+        "end": "2026-05-30T02:00:00-04:00"
     },
     {
-        "title": "Dobson @ Allen Street Hardware",
-        "start": "2026-06-29T22:00:00-04:00",
+        "title": "Jukebox Fox @ Thirsty Buffalo",
+        "start": "2026-06-05T22:00:00-04:00",
         "extendedProps": {
             "category": "karaoke",
             "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://www.therealdjdannyd.com\">https://www.therealdjdannyd.com</a>",
-            "location": "Allen St Hardware Cafe, 245 Allen St, Buffalo, NY 14201, USA"
+            "location": "Thirsty Buffalo, 555 Elmwood Ave, Buffalo, NY 14222, USA"
         },
-        "end": "2026-06-30T02:00:00-04:00"
+        "end": "2026-06-06T02:00:00-04:00"
     },
     {
-        "title": "Dobson @ Allen Street Hardware",
-        "start": "2026-07-06T22:00:00-04:00",
+        "title": "Jukebox Fox @ Thirsty Buffalo",
+        "start": "2026-06-12T22:00:00-04:00",
         "extendedProps": {
             "category": "karaoke",
             "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://www.therealdjdannyd.com\">https://www.therealdjdannyd.com</a>",
-            "location": "Allen St Hardware Cafe, 245 Allen St, Buffalo, NY 14201, USA"
+            "location": "Thirsty Buffalo, 555 Elmwood Ave, Buffalo, NY 14222, USA"
         },
-        "end": "2026-07-07T02:00:00-04:00"
+        "end": "2026-06-13T02:00:00-04:00"
     },
     {
-        "title": "Final Friday in The Attic @ Mr. Goodbar",
-        "start": "2026-04-24T21:00:00-04:00",
+        "title": "Jukebox Fox @ Thirsty Buffalo",
+        "start": "2026-06-19T22:00:00-04:00",
         "extendedProps": {
             "category": "karaoke",
             "icon": "\ud83c\udfa4",
-            "description": "The Attic, upstairs, every Final Friday",
-            "location": "Mr. Goodbar, 1110 Elmwood Ave, Buffalo, NY 14222, USA"
+            "location": "Thirsty Buffalo, 555 Elmwood Ave, Buffalo, NY 14222, USA"
         },
-        "end": "2026-04-25T01:00:00-04:00"
+        "end": "2026-06-20T02:00:00-04:00"
     },
     {
-        "title": "Final Friday in The Attic @ Mr. Goodbar",
-        "start": "2026-05-29T21:00:00-04:00",
+        "title": "Jukebox Fox @ Thirsty Buffalo",
+        "start": "2026-06-26T22:00:00-04:00",
         "extendedProps": {
             "category": "karaoke",
             "icon": "\ud83c\udfa4",
-            "description": "The Attic, upstairs, every Final Friday",
-            "location": "Mr. Goodbar, 1110 Elmwood Ave, Buffalo, NY 14222, USA"
+            "location": "Thirsty Buffalo, 555 Elmwood Ave, Buffalo, NY 14222, USA"
         },
-        "end": "2026-05-30T01:00:00-04:00"
+        "end": "2026-06-27T02:00:00-04:00"
     },
     {
-        "title": "Final Friday in The Attic @ Mr. Goodbar",
-        "start": "2026-06-26T21:00:00-04:00",
+        "title": "Jukebox Fox @ Thirsty Buffalo",
+        "start": "2026-07-03T22:00:00-04:00",
         "extendedProps": {
             "category": "karaoke",
             "icon": "\ud83c\udfa4",
-            "description": "The Attic, upstairs, every Final Friday",
-            "location": "Mr. Goodbar, 1110 Elmwood Ave, Buffalo, NY 14222, USA"
+            "location": "Thirsty Buffalo, 555 Elmwood Ave, Buffalo, NY 14222, USA"
         },
-        "end": "2026-06-27T01:00:00-04:00"
+        "end": "2026-07-04T02:00:00-04:00"
     },
     {
-        "title": "DJ TommyTom @ 26",
-        "start": "2026-04-15T21:00:00-04:00",
+        "title": "Jukebox Fox @ Thirsty Buffalo",
+        "start": "2026-07-10T22:00:00-04:00",
         "extendedProps": {
             "category": "karaoke",
             "icon": "\ud83c\udfa4",
-            "description": "<a href=\"https://www.therealdjdannyd.com\">https://www.therealdjdannyd.com</a>\n\nTaking over for Mourning Cartoons",
-            "location": "26, 26 Allen St, Buffalo, NY 14202"
+            "location": "Thirsty Buffalo, 555 Elmwood Ave, Buffalo, NY 14222, USA"
         },
-        "end": "2026-04-16T01:00:00-04:00"
+        "end": "2026-07-11T02:00:00-04:00"
+    },
+    {
+        "title": "Sober One Sing",
+        "start": "2026-05-13T18:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Third Space Cafe and Entertainment, 777 Main St, Buffalo, NY 14203, USA"
+        },
+        "end": "2026-05-13T21:00:00-04:00"
+    },
+    {
+        "title": "Sober One Sing",
+        "start": "2026-06-10T18:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Third Space Cafe and Entertainment, 777 Main St, Buffalo, NY 14203, USA"
+        },
+        "end": "2026-06-10T21:00:00-04:00"
+    },
+    {
+        "title": "Sober One Sing",
+        "start": "2026-07-08T18:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Third Space Cafe and Entertainment, 777 Main St, Buffalo, NY 14203, USA"
+        },
+        "end": "2026-07-08T21:00:00-04:00"
+    },
+    {
+        "title": "Jackrabbit Karaoke",
+        "start": "2026-04-16T21:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Jack Rabbit, 1010 Elmwood Ave, Buffalo, NY 14222, USA"
+        },
+        "end": "2026-04-17T01:00:00-04:00"
+    },
+    {
+        "title": "Jackrabbit Karaoke",
+        "start": "2026-04-23T21:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Jack Rabbit, 1010 Elmwood Ave, Buffalo, NY 14222, USA"
+        },
+        "end": "2026-04-24T01:00:00-04:00"
+    },
+    {
+        "title": "Jackrabbit Karaoke",
+        "start": "2026-04-30T21:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Jack Rabbit, 1010 Elmwood Ave, Buffalo, NY 14222, USA"
+        },
+        "end": "2026-05-01T01:00:00-04:00"
+    },
+    {
+        "title": "Jackrabbit Karaoke",
+        "start": "2026-05-07T21:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Jack Rabbit, 1010 Elmwood Ave, Buffalo, NY 14222, USA"
+        },
+        "end": "2026-05-08T01:00:00-04:00"
+    },
+    {
+        "title": "Jackrabbit Karaoke",
+        "start": "2026-05-14T21:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Jack Rabbit, 1010 Elmwood Ave, Buffalo, NY 14222, USA"
+        },
+        "end": "2026-05-15T01:00:00-04:00"
+    },
+    {
+        "title": "Jackrabbit Karaoke",
+        "start": "2026-05-21T21:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Jack Rabbit, 1010 Elmwood Ave, Buffalo, NY 14222, USA"
+        },
+        "end": "2026-05-22T01:00:00-04:00"
+    },
+    {
+        "title": "Jackrabbit Karaoke",
+        "start": "2026-05-28T21:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Jack Rabbit, 1010 Elmwood Ave, Buffalo, NY 14222, USA"
+        },
+        "end": "2026-05-29T01:00:00-04:00"
+    },
+    {
+        "title": "Jackrabbit Karaoke",
+        "start": "2026-06-04T21:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Jack Rabbit, 1010 Elmwood Ave, Buffalo, NY 14222, USA"
+        },
+        "end": "2026-06-05T01:00:00-04:00"
+    },
+    {
+        "title": "Jackrabbit Karaoke",
+        "start": "2026-06-11T21:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Jack Rabbit, 1010 Elmwood Ave, Buffalo, NY 14222, USA"
+        },
+        "end": "2026-06-12T01:00:00-04:00"
+    },
+    {
+        "title": "Jackrabbit Karaoke",
+        "start": "2026-06-18T21:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Jack Rabbit, 1010 Elmwood Ave, Buffalo, NY 14222, USA"
+        },
+        "end": "2026-06-19T01:00:00-04:00"
+    },
+    {
+        "title": "Jackrabbit Karaoke",
+        "start": "2026-06-25T21:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Jack Rabbit, 1010 Elmwood Ave, Buffalo, NY 14222, USA"
+        },
+        "end": "2026-06-26T01:00:00-04:00"
+    },
+    {
+        "title": "Jackrabbit Karaoke",
+        "start": "2026-07-02T21:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Jack Rabbit, 1010 Elmwood Ave, Buffalo, NY 14222, USA"
+        },
+        "end": "2026-07-03T01:00:00-04:00"
+    },
+    {
+        "title": "Jackrabbit Karaoke",
+        "start": "2026-07-09T21:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "location": "Jack Rabbit, 1010 Elmwood Ave, Buffalo, NY 14222, USA"
+        },
+        "end": "2026-07-10T01:00:00-04:00"
+    },
+    {
+        "title": "Live Band Karaoke",
+        "start": "2026-04-17T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://recroombuffalo.com/livebandkaraoke/\">https://recroombuffalo.com/livebandkaraoke/</a><br><br>Requires purchase of a ticket, see site for details",
+            "location": "Rec Room, 79 W Chippewa St, Buffalo, NY 14202, USA"
+        },
+        "end": "2026-04-18T02:00:00-04:00"
+    },
+    {
+        "title": "Live Band Karaoke",
+        "start": "2026-04-24T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://recroombuffalo.com/livebandkaraoke/\">https://recroombuffalo.com/livebandkaraoke/</a><br><br>Requires purchase of a ticket, see site for details",
+            "location": "Rec Room, 79 W Chippewa St, Buffalo, NY 14202, USA"
+        },
+        "end": "2026-04-25T02:00:00-04:00"
+    },
+    {
+        "title": "Live Band Karaoke",
+        "start": "2026-05-01T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://recroombuffalo.com/livebandkaraoke/\">https://recroombuffalo.com/livebandkaraoke/</a><br><br>Requires purchase of a ticket, see site for details",
+            "location": "Rec Room, 79 W Chippewa St, Buffalo, NY 14202, USA"
+        },
+        "end": "2026-05-02T02:00:00-04:00"
+    },
+    {
+        "title": "Live Band Karaoke",
+        "start": "2026-05-08T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://recroombuffalo.com/livebandkaraoke/\">https://recroombuffalo.com/livebandkaraoke/</a><br><br>Requires purchase of a ticket, see site for details",
+            "location": "Rec Room, 79 W Chippewa St, Buffalo, NY 14202, USA"
+        },
+        "end": "2026-05-09T02:00:00-04:00"
+    },
+    {
+        "title": "Live Band Karaoke",
+        "start": "2026-05-15T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://recroombuffalo.com/livebandkaraoke/\">https://recroombuffalo.com/livebandkaraoke/</a><br><br>Requires purchase of a ticket, see site for details",
+            "location": "Rec Room, 79 W Chippewa St, Buffalo, NY 14202, USA"
+        },
+        "end": "2026-05-16T02:00:00-04:00"
+    },
+    {
+        "title": "Live Band Karaoke",
+        "start": "2026-05-22T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://recroombuffalo.com/livebandkaraoke/\">https://recroombuffalo.com/livebandkaraoke/</a><br><br>Requires purchase of a ticket, see site for details",
+            "location": "Rec Room, 79 W Chippewa St, Buffalo, NY 14202, USA"
+        },
+        "end": "2026-05-23T02:00:00-04:00"
+    },
+    {
+        "title": "Live Band Karaoke",
+        "start": "2026-05-29T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://recroombuffalo.com/livebandkaraoke/\">https://recroombuffalo.com/livebandkaraoke/</a><br><br>Requires purchase of a ticket, see site for details",
+            "location": "Rec Room, 79 W Chippewa St, Buffalo, NY 14202, USA"
+        },
+        "end": "2026-05-30T02:00:00-04:00"
+    },
+    {
+        "title": "Live Band Karaoke",
+        "start": "2026-06-05T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://recroombuffalo.com/livebandkaraoke/\">https://recroombuffalo.com/livebandkaraoke/</a><br><br>Requires purchase of a ticket, see site for details",
+            "location": "Rec Room, 79 W Chippewa St, Buffalo, NY 14202, USA"
+        },
+        "end": "2026-06-06T02:00:00-04:00"
+    },
+    {
+        "title": "Live Band Karaoke",
+        "start": "2026-06-12T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://recroombuffalo.com/livebandkaraoke/\">https://recroombuffalo.com/livebandkaraoke/</a><br><br>Requires purchase of a ticket, see site for details",
+            "location": "Rec Room, 79 W Chippewa St, Buffalo, NY 14202, USA"
+        },
+        "end": "2026-06-13T02:00:00-04:00"
+    },
+    {
+        "title": "Live Band Karaoke",
+        "start": "2026-06-19T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://recroombuffalo.com/livebandkaraoke/\">https://recroombuffalo.com/livebandkaraoke/</a><br><br>Requires purchase of a ticket, see site for details",
+            "location": "Rec Room, 79 W Chippewa St, Buffalo, NY 14202, USA"
+        },
+        "end": "2026-06-20T02:00:00-04:00"
+    },
+    {
+        "title": "Live Band Karaoke",
+        "start": "2026-06-26T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://recroombuffalo.com/livebandkaraoke/\">https://recroombuffalo.com/livebandkaraoke/</a><br><br>Requires purchase of a ticket, see site for details",
+            "location": "Rec Room, 79 W Chippewa St, Buffalo, NY 14202, USA"
+        },
+        "end": "2026-06-27T02:00:00-04:00"
+    },
+    {
+        "title": "Live Band Karaoke",
+        "start": "2026-07-03T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://recroombuffalo.com/livebandkaraoke/\">https://recroombuffalo.com/livebandkaraoke/</a><br><br>Requires purchase of a ticket, see site for details",
+            "location": "Rec Room, 79 W Chippewa St, Buffalo, NY 14202, USA"
+        },
+        "end": "2026-07-04T02:00:00-04:00"
+    },
+    {
+        "title": "Live Band Karaoke",
+        "start": "2026-07-10T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://recroombuffalo.com/livebandkaraoke/\">https://recroombuffalo.com/livebandkaraoke/</a><br><br>Requires purchase of a ticket, see site for details",
+            "location": "Rec Room, 79 W Chippewa St, Buffalo, NY 14202, USA"
+        },
+        "end": "2026-07-11T02:00:00-04:00"
     },
     {
         "title": "DJ TommyTom @ 26",
@@ -2197,15 +1911,290 @@
         "end": "2026-07-13T01:00:00-04:00"
     },
     {
-        "title": "Rustbelt Comedy Showcase at Nietzsche\u2019s",
-        "start": "2026-04-14T21:00:00-04:00",
+        "title": "Milkies",
+        "start": "2026-04-21T20:00:00-04:00",
         "extendedProps": {
-            "category": "comedy",
-            "icon": "\ud83e\udd23",
-            "description": "Tuesday\u2019s are a perfect day to laugh, and you can get all you need with the Rustbelt Comedy Showcase at Nietzsche\u2019s - every single Tuesday from 9-10pm. It features a rotating cast of the best comics in Western NY - and costs nothing to watch! Hosted by <a href=\"https://www.instagram.com/bflocomedy/\" target=\"_blank\"><u>Buffalo Comedy</u></a>! <br><br>Comedy @ 9pm<br>No Cover",
-            "location": "Nietzsche's, 248 Allen St, Buffalo, NY 14201, USA"
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://www.instagram.com/sirwilliamidol\">https://www.instagram.com/sirwilliamidol</a>",
+            "location": "Milkie's, 522 Elmwood Ave, Buffalo, NY 14222, USA"
         },
-        "end": "2026-04-14T22:00:00-04:00"
+        "end": "2026-04-22T01:00:00-04:00"
+    },
+    {
+        "title": "Milkies",
+        "start": "2026-04-28T20:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://www.instagram.com/sirwilliamidol\">https://www.instagram.com/sirwilliamidol</a>",
+            "location": "Milkie's, 522 Elmwood Ave, Buffalo, NY 14222, USA"
+        },
+        "end": "2026-04-29T01:00:00-04:00"
+    },
+    {
+        "title": "Milkies",
+        "start": "2026-05-05T20:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://www.instagram.com/sirwilliamidol\">https://www.instagram.com/sirwilliamidol</a>",
+            "location": "Milkie's, 522 Elmwood Ave, Buffalo, NY 14222, USA"
+        },
+        "end": "2026-05-06T01:00:00-04:00"
+    },
+    {
+        "title": "Milkies",
+        "start": "2026-05-12T20:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://www.instagram.com/sirwilliamidol\">https://www.instagram.com/sirwilliamidol</a>",
+            "location": "Milkie's, 522 Elmwood Ave, Buffalo, NY 14222, USA"
+        },
+        "end": "2026-05-13T01:00:00-04:00"
+    },
+    {
+        "title": "Milkies",
+        "start": "2026-05-19T20:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://www.instagram.com/sirwilliamidol\">https://www.instagram.com/sirwilliamidol</a>",
+            "location": "Milkie's, 522 Elmwood Ave, Buffalo, NY 14222, USA"
+        },
+        "end": "2026-05-20T01:00:00-04:00"
+    },
+    {
+        "title": "Milkies",
+        "start": "2026-05-26T20:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://www.instagram.com/sirwilliamidol\">https://www.instagram.com/sirwilliamidol</a>",
+            "location": "Milkie's, 522 Elmwood Ave, Buffalo, NY 14222, USA"
+        },
+        "end": "2026-05-27T01:00:00-04:00"
+    },
+    {
+        "title": "Milkies",
+        "start": "2026-06-02T20:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://www.instagram.com/sirwilliamidol\">https://www.instagram.com/sirwilliamidol</a>",
+            "location": "Milkie's, 522 Elmwood Ave, Buffalo, NY 14222, USA"
+        },
+        "end": "2026-06-03T01:00:00-04:00"
+    },
+    {
+        "title": "Milkies",
+        "start": "2026-06-09T20:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://www.instagram.com/sirwilliamidol\">https://www.instagram.com/sirwilliamidol</a>",
+            "location": "Milkie's, 522 Elmwood Ave, Buffalo, NY 14222, USA"
+        },
+        "end": "2026-06-10T01:00:00-04:00"
+    },
+    {
+        "title": "Milkies",
+        "start": "2026-06-16T20:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://www.instagram.com/sirwilliamidol\">https://www.instagram.com/sirwilliamidol</a>",
+            "location": "Milkie's, 522 Elmwood Ave, Buffalo, NY 14222, USA"
+        },
+        "end": "2026-06-17T01:00:00-04:00"
+    },
+    {
+        "title": "Milkies",
+        "start": "2026-06-23T20:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://www.instagram.com/sirwilliamidol\">https://www.instagram.com/sirwilliamidol</a>",
+            "location": "Milkie's, 522 Elmwood Ave, Buffalo, NY 14222, USA"
+        },
+        "end": "2026-06-24T01:00:00-04:00"
+    },
+    {
+        "title": "Milkies",
+        "start": "2026-06-30T20:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://www.instagram.com/sirwilliamidol\">https://www.instagram.com/sirwilliamidol</a>",
+            "location": "Milkie's, 522 Elmwood Ave, Buffalo, NY 14222, USA"
+        },
+        "end": "2026-07-01T01:00:00-04:00"
+    },
+    {
+        "title": "Milkies",
+        "start": "2026-07-07T20:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://www.instagram.com/sirwilliamidol\">https://www.instagram.com/sirwilliamidol</a>",
+            "location": "Milkie's, 522 Elmwood Ave, Buffalo, NY 14222, USA"
+        },
+        "end": "2026-07-08T01:00:00-04:00"
+    },
+    {
+        "title": "Milkies",
+        "start": "2026-07-14T20:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://www.instagram.com/sirwilliamidol\">https://www.instagram.com/sirwilliamidol</a>",
+            "location": "Milkie's, 522 Elmwood Ave, Buffalo, NY 14222, USA"
+        },
+        "end": "2026-07-15T01:00:00-04:00"
+    },
+    {
+        "title": "Dobson @ Allen Street Hardware",
+        "start": "2026-04-20T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://www.therealdjdannyd.com\">https://www.therealdjdannyd.com</a>",
+            "location": "Allen St Hardware Cafe, 245 Allen St, Buffalo, NY 14201, USA"
+        },
+        "end": "2026-04-21T02:00:00-04:00"
+    },
+    {
+        "title": "Dobson @ Allen Street Hardware",
+        "start": "2026-04-27T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://www.therealdjdannyd.com\">https://www.therealdjdannyd.com</a>",
+            "location": "Allen St Hardware Cafe, 245 Allen St, Buffalo, NY 14201, USA"
+        },
+        "end": "2026-04-28T02:00:00-04:00"
+    },
+    {
+        "title": "Dobson @ Allen Street Hardware",
+        "start": "2026-05-04T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://www.therealdjdannyd.com\">https://www.therealdjdannyd.com</a>",
+            "location": "Allen St Hardware Cafe, 245 Allen St, Buffalo, NY 14201, USA"
+        },
+        "end": "2026-05-05T02:00:00-04:00"
+    },
+    {
+        "title": "Dobson @ Allen Street Hardware",
+        "start": "2026-05-11T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://www.therealdjdannyd.com\">https://www.therealdjdannyd.com</a>",
+            "location": "Allen St Hardware Cafe, 245 Allen St, Buffalo, NY 14201, USA"
+        },
+        "end": "2026-05-12T02:00:00-04:00"
+    },
+    {
+        "title": "Dobson @ Allen Street Hardware",
+        "start": "2026-05-18T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://www.therealdjdannyd.com\">https://www.therealdjdannyd.com</a>",
+            "location": "Allen St Hardware Cafe, 245 Allen St, Buffalo, NY 14201, USA"
+        },
+        "end": "2026-05-19T02:00:00-04:00"
+    },
+    {
+        "title": "Dobson @ Allen Street Hardware",
+        "start": "2026-05-25T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://www.therealdjdannyd.com\">https://www.therealdjdannyd.com</a>",
+            "location": "Allen St Hardware Cafe, 245 Allen St, Buffalo, NY 14201, USA"
+        },
+        "end": "2026-05-26T02:00:00-04:00"
+    },
+    {
+        "title": "Dobson @ Allen Street Hardware",
+        "start": "2026-06-01T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://www.therealdjdannyd.com\">https://www.therealdjdannyd.com</a>",
+            "location": "Allen St Hardware Cafe, 245 Allen St, Buffalo, NY 14201, USA"
+        },
+        "end": "2026-06-02T02:00:00-04:00"
+    },
+    {
+        "title": "Dobson @ Allen Street Hardware",
+        "start": "2026-06-08T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://www.therealdjdannyd.com\">https://www.therealdjdannyd.com</a>",
+            "location": "Allen St Hardware Cafe, 245 Allen St, Buffalo, NY 14201, USA"
+        },
+        "end": "2026-06-09T02:00:00-04:00"
+    },
+    {
+        "title": "Dobson @ Allen Street Hardware",
+        "start": "2026-06-15T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://www.therealdjdannyd.com\">https://www.therealdjdannyd.com</a>",
+            "location": "Allen St Hardware Cafe, 245 Allen St, Buffalo, NY 14201, USA"
+        },
+        "end": "2026-06-16T02:00:00-04:00"
+    },
+    {
+        "title": "Dobson @ Allen Street Hardware",
+        "start": "2026-06-22T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://www.therealdjdannyd.com\">https://www.therealdjdannyd.com</a>",
+            "location": "Allen St Hardware Cafe, 245 Allen St, Buffalo, NY 14201, USA"
+        },
+        "end": "2026-06-23T02:00:00-04:00"
+    },
+    {
+        "title": "Dobson @ Allen Street Hardware",
+        "start": "2026-06-29T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://www.therealdjdannyd.com\">https://www.therealdjdannyd.com</a>",
+            "location": "Allen St Hardware Cafe, 245 Allen St, Buffalo, NY 14201, USA"
+        },
+        "end": "2026-06-30T02:00:00-04:00"
+    },
+    {
+        "title": "Dobson @ Allen Street Hardware",
+        "start": "2026-07-06T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://www.therealdjdannyd.com\">https://www.therealdjdannyd.com</a>",
+            "location": "Allen St Hardware Cafe, 245 Allen St, Buffalo, NY 14201, USA"
+        },
+        "end": "2026-07-07T02:00:00-04:00"
+    },
+    {
+        "title": "Dobson @ Allen Street Hardware",
+        "start": "2026-07-13T22:00:00-04:00",
+        "extendedProps": {
+            "category": "karaoke",
+            "icon": "\ud83c\udfa4",
+            "description": "<a href=\"https://www.therealdjdannyd.com\">https://www.therealdjdannyd.com</a>",
+            "location": "Allen St Hardware Cafe, 245 Allen St, Buffalo, NY 14201, USA"
+        },
+        "end": "2026-07-14T02:00:00-04:00"
     },
     {
         "title": "Rustbelt Comedy Showcase at Nietzsche\u2019s",
@@ -2338,6 +2327,17 @@
             "location": "Nietzsche's, 248 Allen St, Buffalo, NY 14201, USA"
         },
         "end": "2026-07-07T22:00:00-04:00"
+    },
+    {
+        "title": "Rustbelt Comedy Showcase at Nietzsche\u2019s",
+        "start": "2026-07-14T21:00:00-04:00",
+        "extendedProps": {
+            "category": "comedy",
+            "icon": "\ud83e\udd23",
+            "description": "Tuesday\u2019s are a perfect day to laugh, and you can get all you need with the Rustbelt Comedy Showcase at Nietzsche\u2019s - every single Tuesday from 9-10pm. It features a rotating cast of the best comics in Western NY - and costs nothing to watch! Hosted by <a href=\"https://www.instagram.com/bflocomedy/\" target=\"_blank\"><u>Buffalo Comedy</u></a>! <br><br>Comedy @ 9pm<br>No Cover",
+            "location": "Nietzsche's, 248 Allen St, Buffalo, NY 14201, USA"
+        },
+        "end": "2026-07-14T22:00:00-04:00"
     },
     {
         "title": "First Friday Comedy Corner",

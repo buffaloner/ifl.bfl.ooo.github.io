@@ -13,8 +13,7 @@
       "properties": {
         "name": "Road Less Traveled Productions",
         "url": "https://www.google.com/maps/place/Road+Less+Traveled+Productions/data=!4m2!3m1!1s0x89d3124563368aa7:0xf5a77bb9f298625e",
-        "Address": "456 Main St, Buffalo, NY 14202, USA",
-        "category": "stage_craft"
+        "Address": "456 Main St, Buffalo, NY 14202, USA"
       }
     },
     {
@@ -29,22 +28,7 @@
       "properties": {
         "name": "Buffalo Improv House",
         "url": "https://www.google.com/maps/place/Buffalo+Improv+House/data=!4m2!3m1!1s0x8a072a5704a2a217:0xeeaa24ff99aad46e",
-        "Address": "255 Great Arrow Ave Suite 207, Buffalo, NY 14207, USA",
-        "category": "stage_craft"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.88283969,
-          42.91381749
-        ]
-      },
-      "properties": {
-        "name": "The Lorax",
-        "url": ""
+        "Address": "255 Great Arrow Ave Suite 207, Buffalo, NY 14207, USA"
       }
     }
   ]

@@ -1500,8 +1500,15 @@
 <div id="front-page-map" style="height: 600px; width: 100%; border-radius: 8px; z-index: 1; border: 1px solid var(--md-default-fg-color--lightest); margin-bottom: 40px;"></div>
 
 <h2 id="upcoming-events">UPCOMING EVENTS</h2>
-<div id="calendar-filters" style="margin-bottom: 15px; display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-    </div>
+<div id="calendar-filters" 
+     x-data="{ categories: [] }" 
+     x-init="fetch('/data/events.json').then(res => res.json()).then(data => { const cats = {}; data.forEach(e => { if(e.extendedProps && e.extendedProps.category) Object.assign(cats, {[e.extendedProps.category]: e.extendedProps.icon || ''}); }); categories = Object.entries(cats).map(([k,v]) => ({id: k, icon: v})); })" 
+     style="margin-bottom: 15px; display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <button class="md-button filter-btn" :class="$store.filters.category === 'all' ? 'md-button--primary' : ''" @click="$store.filters.setCategory('all')">All Events</button>
+    <template x-for="cat in categories" :key="cat.id">
+        <button class="md-button filter-btn" :class="$store.filters.category === cat.id ? 'md-button--primary' : ''" @click="$store.filters.setCategory(cat.id)" x-text="cat.icon + ' ' + cat.id.replace(/_/g, ' ').toUpperCase()"></button>
+    </template>
+</div>
 
 <div id="front-page-calendar" style="max-width: 1000px; margin: 0 auto; background-color: var(--md-default-bg-color); padding: 15px; border-radius: 8px; border: 1px solid var(--md-default-fg-color--lightest);"></div>
 
@@ -1666,7 +1673,7 @@
     
       
       
-      <script id="__config" type="application/json">{"annotate": null, "base": ".", "features": ["navigation.footer", "content.footnote.tooltips", "navigation.indexes"], "search": "assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+      <script id="__config" type="application/json">{"annotate": null, "base": ".", "features": ["navigation.instant", "navigation.footer", "content.footnote.tooltips", "navigation.indexes"], "search": "assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
     
     
   
@@ -1679,6 +1686,12 @@
         <script src="https://unpkg.com/@popperjs/core@2"></script>
       
         <script src="https://unpkg.com/tippy.js@6"></script>
+      
+        <script src="javascripts/state.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+      
+        <script src="https://unpkg.com/@turf/turf@6/turf.min.js"></script>
       
         <script src="javascripts/map.js"></script>
       
