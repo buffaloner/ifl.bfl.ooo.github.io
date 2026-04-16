@@ -119,23 +119,28 @@ function initMaps() {
                                 popupContent += '<h3 style="margin: 0 0 10px 0; font-size: 1.2em; border-bottom: 1px solid var(--md-default-fg-color--lightest); padding-bottom: 4px;">' + feature.properties.name + '</h3>';
                                 
                                 var ignoreKeys = ['name', 'url', 'internal_link'];
+                                var inlinePin = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16" style="vertical-align: text-bottom;"><path fill="currentColor" d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>';
+                                var inlineBook = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16" style="vertical-align: text-bottom;"><path fill="currentColor" d="M18 2H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zM9 4h2v5l-1-.75L9 9V4zm9 16H6V4h1v9l3-2.25L13 13V4h5v16z"/></svg>';
+
+                                // Loop over extra properties (address, vibe, etc)
                                 for (var key in feature.properties) {
                                     if (ignoreKeys.indexOf(key) === -1) {
-                                        var val = feature.properties[key];
-                                        var isLink = val.startsWith('http://') || val.startsWith('https://') || val.startsWith('/');
-                                        // Inline SVGs using 'currentColor' to inherit MkDocs link hover states
-                                        var inlinePin = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16" style="vertical-align: text-bottom;"><path fill="currentColor" d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>';
-                                        var inlineBook = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16" style="vertical-align: text-bottom;"><path fill="currentColor" d="M18 2H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zM9 4h2v5l-1-.75L9 9V4zm9 16H6V4h1v9l3-2.25L13 13V4h5v16z"/></svg>';
+                                        // Cast to String to prevent .startsWith() TypeErrors on pure numbers (like zip codes)
+                                        var val = String(feature.properties[key]); 
+                                        
+                                        if (val.trim() === '') continue; // Skip empty CSV cells
 
+                                        var isLink = val.startsWith('http://') || val.startsWith('https://') || val.startsWith('/');
+                                        
                                         if (isLink) {
-                                            // Fix: Using double quotes for HTML attributes to prevent URLs with apostrophes from breaking the DOM
                                             popupContent += '<div style="margin-bottom: 8px;"><b>' + key + ':</b> <br><a href="' + val + '" target="_blank" rel="noopener noreferrer">View Link ' + inlinePin + '</a></div>';
                                         } else {
                                             popupContent += '<p style="margin: 0 0 8px 0; font-size: 0.9em; line-height: 1.4;"><b>' + key + ':</b> ' + val + '</p>';
                                         }
                                     }
                                 }
-                                // Popup content for destination on the map
+                                
+                                // Bottom links
                                 popupContent += '<div style="margin-top: 12px; font-size: 0.9em; display: flex; flex-direction: column; gap: 6px; border-top: 1px solid var(--md-default-fg-color--lightest); padding-top: 8px;">';
                                 if (feature.properties.internal_link) {
                                     popupContent += '<a href="' + feature.properties.internal_link + '" style="font-weight: bold;">' + inlineBook + ' Read our Buffalo Profile</a>';
@@ -158,20 +163,7 @@ function initMaps() {
                 .then(function(boundaryData) {
                     var boundaryLayer = L.geoJSON(boundaryData);
                     
-                    var layers = boundaryLayer.getLayers();
-                    var polygonLayer = null;
-                    
-                    for (var i = 0; i < layers.length; i++) {
-                        if (typeof layers[i].getLatLngs === 'function') {
-                            polygonLayer = layers[i];
-                            break; 
-                        }
-                    }
-
-                    if (!polygonLayer) throw new Error("Could not find a valid Polygon in the GeoJSON to use as a mask.");
-
-                    var bounds = polygonLayer.getBounds();
-                    
+                    var bounds = boundaryLayer.getBounds();
                     targetBounds = bounds; 
                     map.fitBounds(bounds);
                     
@@ -180,44 +172,102 @@ function initMaps() {
                     var ne = bounds.getNorthEast();
                     var latSpan = ne.lat - sw.lat;
                     var lngSpan = ne.lng - sw.lng;
-                    
-                    // Enforce a minimum absolute latitude padding (~2km) so popups clear on tiny neighborhoods
                     var topPadding = Math.max(latSpan * 0.3, 0.02);
-                    
                     var popupSafeBounds = L.latLngBounds(
                         L.latLng(sw.lat - (latSpan * 0.1), sw.lng - (lngSpan * 0.1)),
                         L.latLng(ne.lat + topPadding, ne.lng + (lngSpan * 0.1))
                     );
                     
                     map.setMaxBounds(popupSafeBounds);
-                    map.setMinZoom(map.getBoundsZoom(bounds));map.setMinZoom(map.getBoundsZoom(bounds));
-                    
-                    var worldLatLngs = [
-                        L.latLng(90, 180), L.latLng(90, -180),
-                        L.latLng(-90, -180), L.latLng(-90, 180)
-                    ];
-                    
-                    var rawLatLngs = polygonLayer.getLatLngs();
+                    map.setMinZoom(map.getBoundsZoom(bounds));
 
-                    var holeLatLngs = rawLatLngs;
-                    while (Array.isArray(holeLatLngs) && Array.isArray(holeLatLngs[0])) {
-                        holeLatLngs = holeLatLngs[0];
+                    // --- BRANCHING LOGIC FOR MASTER MAP VS NEIGHBORHOOD MASKS ---
+                    if (boundaryName === 'locales/city-proper-boundary') {
+                        
+                        if (datasetName === 'none') {
+                            // 1. OVERVIEW TAB: Restore the interactive chloropleth (colored neighborhoods)
+                            var neighborhoodPalette = [
+                                "#e41a1c", "#377eb8", "#4daf4a", "#984ea3", "#ff7f00",
+                                "#e6ab02", "#a65628", "#f781bf", "#1b9e77", "#d95f02",
+                                "#7570b3", "#e7298a", "#66a61e", "#e6a100", "#a6761d"
+                            ];
+                            function getColorFromName(name) {
+                                var hash = 0;
+                                for (var i = 0; i < name.length; i++) {
+                                    hash = name.charCodeAt(i) + ((hash << 5) - hash);
+                                }
+                                return neighborhoodPalette[Math.abs(hash) % neighborhoodPalette.length];
+                            }
+
+                            L.geoJSON(boundaryData, {
+                                style: function (feature) {
+                                    var rawName = feature.properties.nbhdname || "Unknown";
+                                    return {
+                                        color: "#ffffff", weight: 1.5,
+                                        fillColor: getColorFromName(rawName), fillOpacity: 0.45
+                                    };
+                                },
+                                onEachFeature: function (feature, layer) {
+                                    var rawName = feature.properties.nbhdname;
+                                    if (rawName) {
+                                        var snakeId = rawName.replace(/[^a-zA-Z0-9]/g, '_').replace(/_+/g, '_').replace(/^_|_$/g, '').toLowerCase();
+                                        layer.on('mouseover', function () {
+                                            this.setStyle({ fillOpacity: 0.75, weight: 2.5 });
+                                            layer.bringToFront();
+                                        });
+                                        layer.on('mouseout', function () {
+                                            this.setStyle({ fillOpacity: 0.45, weight: 1.5 });
+                                        });
+                                        layer.on('click', function () {
+                                            window.location.href = '/neighborhoods/' + snakeId + '/';
+                                        });
+                                        layer.bindTooltip(rawName, { sticky: true, direction: 'top', className: 'custom-map-tooltip' });
+                                    }
+                                }
+                            }).addTo(map);
+
+                        } else {
+                            // 2. CATEGORY TABS: Draw clean borders and load pins. 
+                            // We SKIP the inverted mask because Leaflet cannot reliably invert an SVG path with 35 touching holes!
+                            L.geoJSON(boundaryData, {
+                                filter: function(feature) { return feature.geometry.type === 'Polygon' || feature.geometry.type === 'MultiPolygon'; },
+                                style: { color: 'var(--md-primary-fg-color)', weight: 1.5, fillOpacity: 0.05 }
+                            }).addTo(map);
+                            
+                            loadMapPoints(datasetName, boundaryData);
+                        }
+
+                    } else {
+                        // 3. INDIVIDUAL NEIGHBORHOODS: Apply the dark inverted mask overlay
+                        var layers = boundaryLayer.getLayers();
+                        var hasPolygons = layers.some(function(l) { return typeof l.getLatLngs === 'function'; });
+                        if (!hasPolygons) throw new Error("No Polygon found for mask.");
+
+                        var worldLatLngs = [ L.latLng(90, 180), L.latLng(90, -180), L.latLng(-90, -180), L.latLng(-90, 180) ];
+                        var maskShapes = [worldLatLngs];
+                        
+                        layers.forEach(function(layer) {
+                            if (typeof layer.getLatLngs === 'function') {
+                                function extractHoles(coords) {
+                                    if (Array.isArray(coords) && coords.length > 0 && (coords[0] instanceof L.LatLng || (typeof coords[0] === 'object' && 'lat' in coords[0]))) {
+                                        maskShapes.push(coords);
+                                    } else if (Array.isArray(coords)) {
+                                        coords.forEach(extractHoles);
+                                    }
+                                }
+                                extractHoles(layer.getLatLngs());
+                            }
+                        });
+
+                        L.polygon(maskShapes, { color: 'none', fillColor: 'var(--md-default-bg-color)', fillOpacity: 0.85 }).addTo(map);
+                        
+                        L.geoJSON(boundaryData, {
+                            filter: function(feature) { return feature.geometry.type === 'Polygon' || feature.geometry.type === 'MultiPolygon'; },
+                            style: { color: 'var(--md-primary-fg-color)', weight: 3, fillOpacity: 0 }
+                        }).addTo(map);
+
+                        loadMapPoints(datasetName, boundaryData);
                     }
-
-                    L.polygon([worldLatLngs, holeLatLngs], {
-                        color: 'none', 
-                        fillColor: 'var(--md-default-bg-color)', 
-                        fillOpacity: 0.85 
-                    }).addTo(map);
-                    
-                    L.geoJSON(boundaryData, {
-                        filter: function(feature) {
-                            return feature.geometry.type === 'Polygon' || feature.geometry.type === 'MultiPolygon';
-                        },
-                        style: { color: 'var(--md-primary-fg-color)', weight: 3, fillOpacity: 0 }
-                    }).addTo(map);
-
-                    loadMapPoints(datasetName, boundaryData);
                 })
                 .catch(function(error) {
                     console.error('Error loading boundary, falling back to standard view:', error);
@@ -232,114 +282,5 @@ function initMaps() {
             map.setView(targetCenter, targetZoom);
             loadMapPoints(datasetName, null);
         }
-    }); 
-
-    // =========================================================================
-    // PART 2: THE FRONT PAGE MASTER MAP (Clickable colorized routing overlay)
-    // =========================================================================
-    var frontPageMapElement = document.getElementById('front-page-map');
-    
-    if (frontPageMapElement) {
-        var frontMap = L.map('front-page-map', {
-            scrollWheelZoom: false // Prevents accidental page scrolling zoom
-        }).setView([42.8864, -78.8784], 12);
-        activeMaps.push(frontMap);
-        frontMap.attributionControl.setPrefix(false);
-        
-        // CARTO Positron Basemap for the front page
-        L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-            maxZoom: 20,
-            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-            subdomains: 'abcd'
-        }).addTo(frontMap);
-
-        // A beautiful, distinct color palette for the neighborhoods
-        var neighborhoodPalette = [
-            "#e41a1c", "#377eb8", "#4daf4a", "#984ea3", "#ff7f00",
-            "#e6ab02", "#a65628", "#f781bf", "#1b9e77", "#d95f02",
-            "#7570b3", "#e7298a", "#66a61e", "#e6a100", "#a6761d"
-        ];
-
-        // Simple hashing function to predictably pick a color based on the name
-        function getColorFromName(name) {
-            var hash = 0;
-            for (var i = 0; i < name.length; i++) {
-                hash = name.charCodeAt(i) + ((hash << 5) - hash);
-            }
-            return neighborhoodPalette[Math.abs(hash) % neighborhoodPalette.length];
-        }
-
-        // Fetch the master neighborhood file
-        fetch('/data/locales/city-proper-boundary.geojson')
-            .then(function(response) { return response.json(); })
-            .then(function(data) {
-                var cityLayer = L.geoJSON(data, {
-                    style: function (feature) {
-                        var rawName = feature.properties.nbhdname || "Unknown";
-                        var assignedColor = getColorFromName(rawName);
-                        
-                        return {
-                            color: "#ffffff", // Clean white border between neighborhoods
-                            weight: 1.5,
-                            fillColor: assignedColor, 
-                            fillOpacity: 0.45
-                        };
-                    },
-                    onEachFeature: function (feature, layer) {
-                        var rawName = feature.properties.nbhdname;
-                        
-                        if (rawName) {
-                            // Translate the city's name to your snake_case MkDocs URL structure
-                            var snakeId = rawName.replace(/[^a-zA-Z0-9]/g, '_')
-                                                 .replace(/_+/g, '_')
-                                                 .replace(/^_|_$/g, '')
-                                                 .toLowerCase();
-
-                            // Hover highlighting
-                            layer.on('mouseover', function () {
-                                this.setStyle({ fillOpacity: 0.75, weight: 2.5 });
-                                layer.bringToFront(); // Pops the border over adjacent neighborhoods
-                            });
-                            layer.on('mouseout', function () {
-                                this.setStyle({ fillOpacity: 0.45, weight: 1.5 });
-                            });
-
-                            // Route the user on click
-                            layer.on('click', function () {
-                                window.location.href = '/neighborhoods/' + snakeId + '/';
-                            });
-
-                            // Add the neighborhood name tooltip
-                            layer.bindTooltip(rawName, { 
-                                sticky: true, 
-                                direction: 'top',
-                                className: 'custom-map-tooltip'
-                            });
-                        }
-                    }
-                });
-                
-                cityLayer.addTo(frontMap);
-                
-                // UI Refinement: Asymmetric bounding to prevent top-edge popup clipping
-                var cityBounds = cityLayer.getBounds();
-                var cSw = cityBounds.getSouthWest();
-                var cNe = cityBounds.getNorthEast();
-                var cLatSpan = cNe.lat - cSw.lat;
-                var cLngSpan = cNe.lng - cSw.lng;
-                
-                // Enforce a minimum absolute latitude padding (~2km)
-                var cityTopPadding = Math.max(cLatSpan * 0.3, 0.02);
-                
-                var cityPopupSafeBounds = L.latLngBounds(
-                    L.latLng(cSw.lat - (cLatSpan * 0.1), cSw.lng - (cLngSpan * 0.1)),
-                    L.latLng(cNe.lat + cityTopPadding, cNe.lng + (cLngSpan * 0.1))
-                );
-                
-                frontMap.setMaxBounds(cityPopupSafeBounds);
-                frontMap.setMinZoom(frontMap.getBoundsZoom(cityBounds));
-            })
-            .catch(function(error) { console.error('Error loading master city geojson:', error); });
-    }
-
+    });
 }

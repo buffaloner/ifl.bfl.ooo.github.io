@@ -13,7 +13,7 @@
       "properties": {
         "name": "Breezy Burrito Bar",
         "url": "https://www.google.com/maps/place/Breezy+Burrito+Bar/data=!4m2!3m1!1s0x89d31367a8a9b503:0x61924c022e62c620",
-        "Address": "1000 Elmwood Ave, Buffalo, NY"
+        "Address": "1000 Elmwood Ave, Buffalo, NY 14222, USA"
       }
     },
     {
@@ -27,7 +27,8 @@
       },
       "properties": {
         "name": "Hombre y Lobo | Tacos + Tequila",
-        "url": "https://www.google.com/maps/place/Hombre+y+Lobo+%7C+Tacos+%2B+Tequila/data=!4m2!3m1!1s0x89d313b89b7c21a1:0x5d33c69a3ab214f8"
+        "url": "https://www.google.com/maps/place/Hombre+y+Lobo+%7C+Tacos+%2B+Tequila/data=!4m2!3m1!1s0x89d313b89b7c21a1:0x5d33c69a3ab214f8",
+        "Address": "149 Swan St Suite 1, Buffalo, NY 14203, USA"
       }
     },
     {
@@ -41,7 +42,8 @@
       },
       "properties": {
         "name": "D.A.Taste",
-        "url": "https://www.google.com/maps/place/D.A.Taste/data=!4m2!3m1!1s0x89d31371094cdf53:0xad809dfc5f0b55de"
+        "url": "https://www.google.com/maps/place/D.A.Taste/data=!4m2!3m1!1s0x89d31371094cdf53:0xad809dfc5f0b55de",
+        "Address": "864 Seneca St, Buffalo, NY 14210, USA"
       }
     },
     {
@@ -55,7 +57,8 @@
       },
       "properties": {
         "name": "Taqueria El Dorado",
-        "url": "https://www.google.com/maps/place/Taqueria+El+Dorado/data=!4m2!3m1!1s0x89d3136f23a964c5:0xdd848abc42f79fa7"
+        "url": "https://www.google.com/maps/place/Taqueria+El+Dorado/data=!4m2!3m1!1s0x89d3136f23a964c5:0xdd848abc42f79fa7",
+        "Address": "478 Elmwood Ave, Buffalo, NY 14222, USA"
       }
     },
     {
@@ -69,7 +72,8 @@
       },
       "properties": {
         "name": "La Fiesta Mexican Cantina",
-        "url": "https://www.google.com/maps/place/La+Fiesta+Mexican+Cantina/data=!4m2!3m1!1s0x89d3136cfaf7a21b:0x41e5b27c3b7c987b"
+        "url": "https://www.google.com/maps/place/La+Fiesta+Mexican+Cantina/data=!4m2!3m1!1s0x89d3136cfaf7a21b:0x41e5b27c3b7c987b",
+        "Address": "73 Allen St, Buffalo, NY 14202, USA"
       }
     },
     {
@@ -83,7 +87,8 @@
       },
       "properties": {
         "name": "Aguacates Mexican Bar & Grill",
-        "url": "https://www.google.com/maps/place/Aguacates+Mexican+Bar+%26+Grill/data=!4m2!3m1!1s0x89d312e6a251d041:0xdddfc3f09e9ba671"
+        "url": "https://www.google.com/maps/place/Aguacates+Mexican+Bar+%26+Grill/data=!4m2!3m1!1s0x89d312e6a251d041:0xdddfc3f09e9ba671",
+        "Address": "765 Elmwood Ave, Buffalo, NY 14222, USA"
       }
     }
   ]

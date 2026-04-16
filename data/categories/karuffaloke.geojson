@@ -81,21 +81,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.8752317,
-          42.8993159
-        ]
-      },
-      "properties": {
-        "name": "Frizzy's Bar & Grill",
-        "url": "https://www.google.com/maps/place/Frizzy's+Bar+%26+Grill/data=!4m2!3m1!1s0x89d31256e02d33ff:0x82cd4696edf05031",
-        "Address": "140 Allen St, Buffalo, NY 14201, USA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -78.8764274,
           42.8904797
         ]
