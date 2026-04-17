@@ -149,7 +149,13 @@ function initMaps() {
                                     popupContent += '<a href="' + feature.properties.url + '" target="_blank" rel="noopener noreferrer">' + inlinePin + ' View on Google Maps</a>';
                                 }
                                 popupContent += '</div></div>';
-                                layer.bindPopup(popupContent);
+                                
+                                // Inject mobile-friendly popup constraints
+                                layer.bindPopup(popupContent, {
+                                    maxWidth: 280, // Prevent it from blowing out small phone screens
+                                    minWidth: 200, // Matches our inline CSS for safety
+                                    autoPanPadding: [15, 15] // Enforces a 15px clearance from the viewport edge
+                                });
                             }
                         }
                     }).addTo(map);
@@ -167,15 +173,19 @@ function initMaps() {
                     targetBounds = bounds; 
                     map.fitBounds(bounds);
                     
-                    // UI Refinement: Asymmetric bounding to prevent top-edge popup clipping
+                    // UI Refinement: Asymmetric bounding to prevent popup clipping
                     var sw = bounds.getSouthWest();
                     var ne = bounds.getNorthEast();
                     var latSpan = ne.lat - sw.lat;
                     var lngSpan = ne.lng - sw.lng;
                     var topPadding = Math.max(latSpan * 0.3, 0.02);
+                    
+                    // Enforce a minimum absolute longitude padding so popups clear East/West edges on mobile screens
+                    var sidePadding = Math.max(lngSpan * 0.1, 0.02); 
+                    
                     var popupSafeBounds = L.latLngBounds(
-                        L.latLng(sw.lat - (latSpan * 0.1), sw.lng - (lngSpan * 0.1)),
-                        L.latLng(ne.lat + topPadding, ne.lng + (lngSpan * 0.1))
+                        L.latLng(sw.lat - (latSpan * 0.1), sw.lng - sidePadding),
+                        L.latLng(ne.lat + topPadding, ne.lng + sidePadding)
                     );
                     
                     map.setMaxBounds(popupSafeBounds);
