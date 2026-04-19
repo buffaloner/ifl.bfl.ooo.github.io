@@ -1170,6 +1170,21 @@
         "url": "https://www.google.com/maps/place/Rue+Franklin/data=!4m2!3m1!1s0x89d312503e755423:0x3ab6fdaa14eb649",
         "Address": "341 Franklin St, Buffalo, NY 14202, USA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8928186,
+          42.9562822
+        ]
+      },
+      "properties": {
+        "name": "Peppers",
+        "url": "https://maps.app.goo.gl/HXoo2Wt55ak8VpVm6",
+        "Address": "76 Skillen St, Buffalo, NY 14207, USA"
+      }
     }
   ]
 }

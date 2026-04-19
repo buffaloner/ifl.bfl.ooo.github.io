@@ -28,7 +28,41 @@ function initCalendar() {
                 right: 'dayGridMonth,listWeek'
             },
             navLinks: true, // Allows clicking day/week names to navigate views
-            events: '/data/events.json',
+            eventSources: [
+                {
+                    url: '/data/events.json',
+                    format: 'json'
+                },
+                {
+                    events: async function(fetchInfo, successCallback, failureCallback) {
+                        try {
+                            const response = await fetch('https://api.weather.gov/gridpoints/BUF/78,43/forecast');
+                            if (!response.ok) throw new Error("Weather API failed");
+                            
+                            const data = await response.json();
+                            
+                            const weatherEvents = data.properties.periods
+                                .filter(period => period.isDaytime)
+                                .map(period => ({
+                                    title: `🌡️ ${period.temperature}°F - ${period.shortForecast}`,
+                                    start: period.startTime.split('T')[0],
+                                    allDay: true,
+                                    display: 'background',
+                                    backgroundColor: 'var(--md-default-bg-color)',
+                                    extendedProps: {
+                                        category: 'weather',
+                                        icon: '⛅'
+                                    }
+                                }));
+                            
+                            successCallback(weatherEvents);
+                        } catch (error) {
+                            console.error("Could not fetch live weather:", error);
+                            successCallback([]); 
+                        }
+                    }
+                }
+            ],
             eventContent: function(arg) {
                 var icon = arg.event.extendedProps.icon || '📍';
                 var el = document.createElement('div');
@@ -81,7 +115,15 @@ function initCalendar() {
                 if (activeCalendar) {
                     activeCalendar.batchRendering(function() {
                         activeCalendar.getEvents().forEach(function(evt) {
-                            if (currentCategory === 'all' || evt.extendedProps.category === currentCategory) {
+                            var isOutdoorCalendar = ['community_gardens', 'patio_season', 'bike_me', 'all'].includes(currentCategory);
+                            
+                            if (evt.extendedProps.category === 'weather') {
+                                if (isOutdoorCalendar) {
+                                    evt.setProp('display', 'background');
+                                } else {
+                                    evt.setProp('display', 'none');
+                                }
+                            } else if (currentCategory === 'all' || evt.extendedProps.category === currentCategory) {
                                 evt.setProp('display', 'auto');
                             } else {
                                 evt.setProp('display', 'none');
