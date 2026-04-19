@@ -64,13 +64,17 @@ function initCalendar() {
                 }
             ],
             eventContent: function(arg) {
-                var icon = arg.event.extendedProps.icon || '📍';
+                var iconStr = arg.event.extendedProps.icon || '📅';
+                var catId = arg.event.extendedProps.category || 'general';
+                var sourceElement = document.getElementById(catId + '_icon');
+                var finalIcon = sourceElement ? sourceElement.innerHTML : iconStr;
+
                 var el = document.createElement('div');
                 el.className = 'fc-event-title';
                 el.style.padding = '2px';
                 el.style.whiteSpace = 'normal';
                 el.style.cursor = 'pointer';
-                el.innerHTML = icon + ' <b>' + arg.event.title + '</b>';
+                el.innerHTML = finalIcon + ' <b style="vertical-align: super;">' + arg.event.title + '</b>';
                 return { domNodes: [el] };
             },
             eventDidMount: function(info) {
@@ -115,7 +119,8 @@ function initCalendar() {
                 if (activeCalendar) {
                     activeCalendar.batchRendering(function() {
                         activeCalendar.getEvents().forEach(function(evt) {
-                            var isOutdoorCalendar = ['community_gardens', 'patio_season', 'bike_me', 'all'].includes(currentCategory);
+                            var outdoorList = window.OUTDOOR_CATEGORIES || ['all'];
+                            var isOutdoorCalendar = outdoorList.includes(currentCategory);
                             
                             if (evt.extendedProps.category === 'weather') {
                                 if (isOutdoorCalendar) {
