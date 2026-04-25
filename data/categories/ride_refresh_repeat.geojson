@@ -96,21 +96,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.8917412,
-          42.898599
-        ]
-      },
-      "properties": {
-        "name": "Community Beer Works",
-        "url": "https://www.google.com/maps/place/Community+Beer+Works/data=!4m2!3m1!1s0x89d31369ba60f629:0x2a9afd9af325cfc8",
-        "Address": "520 Seventh St, Buffalo, NY 14201, USA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -78.8746874,
           42.8818578
         ]
@@ -1049,6 +1034,36 @@
         "name": "Buffalo Brewing Company & Buffalo Deep Dish",
         "url": "https://www.google.com/maps/place/Buffalo+Brewing+Company+%26+Buffalo+Deep+Dish/data=!4m2!3m1!1s0x89d31215caaf791b:0x4a326e6c4f6bec89",
         "Address": "314 Myrtle Ave, Buffalo, NY 14204, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8820754,
+          42.899597
+        ]
+      },
+      "properties": {
+        "name": "F.A.T.",
+        "url": "https://maps.app.goo.gl/J2vywCa1CuQdqPSM7",
+        "Address": "253 Allen St, Buffalo, NY 14201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8795165,
+          42.9121298
+        ]
+      },
+      "properties": {
+        "name": "Thirsty Buffalo",
+        "url": "https://maps.app.goo.gl/r5iypwFdy35prgFi6",
+        "Address": "555 Elmwood Ave, Buffalo, NY 14222"
       }
     }
   ]

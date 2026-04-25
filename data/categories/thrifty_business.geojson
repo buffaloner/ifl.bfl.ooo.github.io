@@ -270,6 +270,126 @@
         "url": "https://www.google.com/maps/place/Niagara+Street+Vintage+Collective/data=!4m2!3m1!1s0x89d313d6f100a047:0x802f1075dfbde418",
         "Address": "1250 Niagara St, Buffalo, NY 14213, USA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8556674,
+          42.9479068
+        ]
+      },
+      "properties": {
+        "name": "October House Vintage & Consignment",
+        "url": "https://maps.app.goo.gl/BUKVZ3JAHVDRQxfLA",
+        "Address": "1416 Hertel Ave, Buffalo, NY 14216"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8583104,
+          42.9485696
+        ]
+      },
+      "properties": {
+        "name": "Buffalo Antiques",
+        "url": "https://maps.app.goo.gl/2sUiF1d45t9gTCSL9",
+        "Address": "1539 Hertel Ave, Buffalo, NY 14216"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8657901,
+          42.9479809
+        ]
+      },
+      "properties": {
+        "name": "Hertel Home Consignment",
+        "url": "https://maps.app.goo.gl/wrfY1kEopUDEyqbG6",
+        "Address": "1146 Hertel Ave, Buffalo, NY 14216, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.862295,
+          42.9480824
+        ]
+      },
+      "properties": {
+        "name": "Her Story",
+        "url": "https://maps.app.goo.gl/Rojce3LjUwycNchM6",
+        "Address": "1438 Hertel Ave, Buffalo, NY 14216"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.916533,
+          42.9013544
+        ]
+      },
+      "properties": {
+        "name": "The Serendipity Shoppe of Buffalo",
+        "url": "https://maps.app.goo.gl/LcrdhvueYTjs2hPz8",
+        "Address": "1 Symphony Cir, Buffalo, NY 14201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8793507,
+          42.9185376
+        ]
+      },
+      "properties": {
+        "name": "Scoop Shop",
+        "url": "https://maps.app.goo.gl/3PP9TgdGsFbo7v3w5",
+        "Address": "648 Auburn Ave, Buffalo, NY 14222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9350947,
+          42.9409047
+        ]
+      },
+      "properties": {
+        "name": "Amar Second Hand Store",
+        "url": "https://maps.app.goo.gl/NJb4af9U5dzTqmxX7",
+        "Address": "429 Tonawanda St, Buffalo, NY 14207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8419149,
+          42.939178
+        ]
+      },
+      "properties": {
+        "name": "Main Street thrift store",
+        "url": "https://maps.app.goo.gl/5MF7H6DmTCaoYshF8",
+        "Address": "2637 Main St, Buffalo, NY 14214"
+      }
     }
   ]
 }

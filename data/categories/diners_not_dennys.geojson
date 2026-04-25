@@ -66,21 +66,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.855175,
-          42.947854
-        ]
-      },
-      "properties": {
-        "name": "1430 Hertel Ave",
-        "url": "https://www.google.com/maps/place/1430+Hertel+Ave/data=!4m2!3m1!1s0x89d36d4f4aa991e9:0xddd9bf6409d0c2a",
-        "Address": "1430 Hertel Ave, Buffalo, NY 14216, USA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -78.878722,
           42.8967153
         ]
