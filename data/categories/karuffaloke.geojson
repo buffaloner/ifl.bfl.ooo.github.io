@@ -22,22 +22,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.8537524,
-          42.9118242
-        ]
-      },
-      "properties": {
-        "name": "Mike's Lounge (Fuzion Kitchen)",
-        "url": "https://www.google.com/maps/place/Mike's+Lounge+(Fuzion+Kitchen)/data=!4m2!3m1!1s0x89d31291958c7a09:0x4221ff750a6e0f99",
-        "Address": "1343 Jefferson Ave, Buffalo, NY 14208, USA",
-        "Schedule": "Wednesdays 9pm-1am"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -78.8451433,
           42.8749159
         ]
@@ -239,6 +223,38 @@
         "url": "https://maps.app.goo.gl/r5iypwFdy35prgFi6",
         "Address": "555 Elmwood Ave, Buffalo, NY 14222",
         "Schedule": "Fridays 10pm-2am"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8766596,
+          42.8917853
+        ]
+      },
+      "properties": {
+        "name": "Underground Niteclub",
+        "url": "https://maps.app.goo.gl/Ru9hKzxLUoLkffo66",
+        "Address": "274 Delaware Ave #2, Buffalo, NY 14202",
+        "Schedule": "Thursdays 10pm-2am"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8796215,
+          42.9010255
+        ]
+      },
+      "properties": {
+        "name": "Equal Parts",
+        "url": "https://maps.app.goo.gl/dJesQMr3Whj9rKfR6",
+        "Address": "149 Elmwood Ave, Buffalo, NY 14201",
+        "Schedule": "Thursdays 9pm-12am"
       }
     }
   ]

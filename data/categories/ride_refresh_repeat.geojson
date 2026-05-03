@@ -1065,6 +1065,21 @@
         "url": "https://maps.app.goo.gl/r5iypwFdy35prgFi6",
         "Address": "555 Elmwood Ave, Buffalo, NY 14222"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8928186,
+          42.9562822
+        ]
+      },
+      "properties": {
+        "name": "Peppers",
+        "url": "https://maps.app.goo.gl/HXoo2Wt55ak8VpVm6",
+        "Address": "76 Skillen St, Buffalo, NY 14207, USA"
+      }
     }
   ]
 }
