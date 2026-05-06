@@ -1,4 +1,6 @@
 let activeCalendar = null;
+let allEventsCache = null;
+let weatherCache = null;
 
 // MkDocs Material SPA lifecycle hook
 if (typeof document$ !== "undefined") {
@@ -20,8 +22,22 @@ function initCalendar() {
     }
     
     if (calendarEl) {
-        var calendar = new FullCalendar.Calendar(calendarEl, {
-            initialView: 'listWeek', // Shows events of current day/week by default
+        var calendarObserver = new IntersectionObserver(function(entries) {
+            entries.forEach(function(entry) {
+                if (entry.isIntersecting && !activeCalendar) {
+                    renderCalendarInstance(calendarEl);
+                }
+            });
+        });
+        calendarObserver.observe(calendarEl);
+    }
+}
+
+function renderCalendarInstance(calendarEl) {
+    var calendar = new FullCalendar.Calendar(calendarEl, {
+        initialView: 'listWeek', // Shows events of current day/week by default
+            eventDisplay: 'block', // Forces all events to render as solid blocks, removing the confusing transparent dots
+            dayMaxEvents: 3, // Limits clutter in Month view by collapsing overflowing events into a "+ more" link
             headerToolbar: {
                 left: 'prev,next today',
                 center: 'title',
@@ -30,32 +46,54 @@ function initCalendar() {
             navLinks: true, // Allows clicking day/week names to navigate views
             eventSources: [
                 {
-                    url: '/data/events.json',
-                    format: 'json'
+                    events: async function(fetchInfo, successCallback, failureCallback) {
+                        try {
+                            if (!allEventsCache) {
+                                const res = await fetch('/data/events.json');
+                                allEventsCache = await res.json();
+                            }
+                            var currentCategory = typeof Alpine !== 'undefined' ? Alpine.store('filters').category : 'all';
+                            var filtered = allEventsCache.filter(evt => {
+                                var cat = evt.category || (evt.extendedProps && evt.extendedProps.category);
+                                return currentCategory === 'all' || cat === currentCategory;
+                            });
+                            successCallback(filtered);
+                        } catch(e) {
+                            console.error("Could not fetch events:", e);
+                            successCallback([]);
+                        }
+                    }
                 },
                 {
                     events: async function(fetchInfo, successCallback, failureCallback) {
                         try {
-                            const response = await fetch('https://api.weather.gov/gridpoints/BUF/78,43/forecast');
-                            if (!response.ok) throw new Error("Weather API failed");
-                            
-                            const data = await response.json();
-                            
-                            const weatherEvents = data.properties.periods
-                                .filter(period => period.isDaytime)
-                                .map(period => ({
-                                    title: `🌡️ ${period.temperature}°F - ${period.shortForecast}`,
-                                    start: period.startTime.split('T')[0],
-                                    allDay: true,
-                                    display: 'background',
-                                    backgroundColor: 'var(--md-default-bg-color)',
-                                    extendedProps: {
-                                        category: 'weather',
-                                        icon: '⛅'
-                                    }
-                                }));
-                            
-                            successCallback(weatherEvents);
+                            var currentCategory = typeof Alpine !== 'undefined' ? Alpine.store('filters').category : 'all';
+                            var outdoorList = window.OUTDOOR_CATEGORIES || ['all'];
+                            if (!outdoorList.includes(currentCategory)) {
+                                successCallback([]);
+                                return;
+                            }
+
+                            if (!weatherCache) {
+                                const response = await fetch('https://api.weather.gov/gridpoints/BUF/78,43/forecast');
+                                if (!response.ok) throw new Error("Weather API failed");
+                                
+                                const data = await response.json();
+                                weatherCache = data.properties.periods
+                                    .filter(period => period.isDaytime)
+                                    .map(period => ({
+                                        title: `🌡️ ${period.temperature}°F - ${period.shortForecast}`,
+                                        start: period.startTime.split('T')[0],
+                                        allDay: true,
+                                        display: 'background',
+                                        backgroundColor: 'var(--md-default-bg-color)',
+                                        extendedProps: {
+                                            category: 'weather',
+                                            icon: '⛅'
+                                        }
+                                    }));
+                            }
+                            successCallback(weatherCache);
                         } catch (error) {
                             console.error("Could not fetch live weather:", error);
                             successCallback([]); 
@@ -103,7 +141,13 @@ function initCalendar() {
                     allowHTML: true,
                     placement: 'top',
                     interactive: true,
-                    theme: 'material'
+                    theme: 'material',
+                    onShow(instance) {
+                        // Close all other tippy instances to prevent visual clutter
+                        document.querySelectorAll('[data-tippy-root]').forEach(el => {
+                            if (el._tippy) el._tippy.hide();
+                        });
+                    }
                 });
             }
         });
@@ -114,29 +158,13 @@ function initCalendar() {
         // Task 3: Bind FullCalendar to the Alpine.js Reactive Store
         if (typeof Alpine !== 'undefined') {
             Alpine.effect(() => {
+                // Read the category to track the Alpine dependency
                 var currentCategory = Alpine.store('filters').category;
                 
+                // Instruct the calendar to refetch from our cached, filtered sources
                 if (activeCalendar) {
-                    activeCalendar.batchRendering(function() {
-                        activeCalendar.getEvents().forEach(function(evt) {
-                            var outdoorList = window.OUTDOOR_CATEGORIES || ['all'];
-                            var isOutdoorCalendar = outdoorList.includes(currentCategory);
-                            
-                            if (evt.extendedProps.category === 'weather') {
-                                if (isOutdoorCalendar) {
-                                    evt.setProp('display', 'background');
-                                } else {
-                                    evt.setProp('display', 'none');
-                                }
-                            } else if (currentCategory === 'all' || evt.extendedProps.category === currentCategory) {
-                                evt.setProp('display', 'auto');
-                            } else {
-                                evt.setProp('display', 'none');
-                            }
-                        });
-                    });
+                    activeCalendar.refetchEvents();
                 }
             });
         }
     }
-}

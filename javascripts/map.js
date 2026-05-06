@@ -21,8 +21,22 @@ function initMaps() {
     // =========================================================================
     var mapElements = document.querySelectorAll('.buffalo-map');
     
+    var mapObserver = new IntersectionObserver(function(entries, observer) {
+        entries.forEach(function(entry) {
+            if (entry.isIntersecting) {
+                var mapElement = entry.target;
+                if (!mapElement.classList.contains('leaflet-container')) {
+                    initializeSingleMap(mapElement);
+                }
+            }
+        });
+    });
+
     mapElements.forEach(function(mapElement) {
-        
+        mapObserver.observe(mapElement);
+    });
+
+    function initializeSingleMap(mapElement) {
         var datasetName = mapElement.getAttribute('data-geojson');
         var boundaryName = mapElement.getAttribute('data-boundary');
 
@@ -292,5 +306,5 @@ function initMaps() {
             map.setView(targetCenter, targetZoom);
             loadMapPoints(datasetName, null);
         }
-    });
+    }
 }

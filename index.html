@@ -370,10 +370,10 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#upcoming-events" class="md-nav__link">
+  <a href="#choose-your-own-adventure" class="md-nav__link">
     <span class="md-ellipsis">
       
-        UPCOMING EVENTS
+        Choose Your Own Adventure!
       
     </span>
   </a>
@@ -2495,10 +2495,10 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#upcoming-events" class="md-nav__link">
+  <a href="#choose-your-own-adventure" class="md-nav__link">
     <span class="md-ellipsis">
       
-        UPCOMING EVENTS
+        Choose Your Own Adventure!
       
     </span>
   </a>
@@ -2535,7 +2535,32 @@
 <!-- TODO: Sponsor site charge for sponsor blocks on the top for more money -->
 <!-- TODO: otherwise, sponsors go into sponsor blocks elsewhere - will need a google analytics driver eventually -->
 <!-- TODO:  -->
-<p>A highly opinionated curated collection of places to go and things to do in Buffalo's City Proper</p>
+<div x-data x-effect="
+    document.body.classList.toggle('mode-location', $store.app.searchMode === 'location');
+    document.body.classList.toggle('mode-events', $store.app.searchMode === 'events');
+    document.body.classList.toggle('mode-null', $store.app.searchMode === null);
+"></div>
+
+<style>
+    /* Hide elements cleanly using pure CSS to avoid breaking Python-Markdown compiler */
+    body.mode-null .tabbed-set, body.mode-null .location-section, body.mode-null .events-section, body.mode-null #front-page-calendar, body.mode-null #calendar-filters, body.mode-null .back-btn { display: none !important; }
+    body.mode-events .tabbed-set, body.mode-events .location-section { display: none !important; }
+    body.mode-location .events-section, body.mode-location #front-page-calendar, body.mode-location #calendar-filters { display: none !important; }
+</style>
+<div style="text-align: center; margin: 60px 0; padding: 40px; background-color: var(--md-default-bg-color); border: 1px solid var(--md-default-fg-color--lightest); border-radius: 8px;" x-data="x-data" x-show="$store.app.searchMode === null">
+<h2 id="choose-your-own-adventure">Choose Your Own Adventure!</h2>
+<p style="margin-bottom: 30px;"></p>
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+<p><a class="md-button md-button--primary" href="#" style="font-size: 1.2rem; padding: 10px 20px;" x-on:click.prevent="$store.app.searchMode = 'location'"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m15 19-6-2.11V5l6 2.11M20.5 3h-.16L15 5.1 9 3 3.36 4.9c-.21.07-.36.25-.36.48V20.5a.5.5 0 0 0 .5.5c.05 0 .11 0 .16-.03L9 18.9l6 2.1 5.64-1.9c.21-.1.36-.25.36-.48V3.5a.5.5 0 0 0-.5-.5"/></svg></span> WHERE</a>
+<a class="md-button md-button--primary" href="#" style="font-size: 1.2rem; padding: 10px 20px;" x-on:click.prevent="$store.app.searchMode = 'events'"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 19H5V8h14m-3-7v2H8V1H6v2H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2h-1V1m-1 11h-5v5h5z"/></svg></span> WHEN</a></p>
+</div>
+</div>
+<div class="back-btn" x-data x-show="$store.app.searchMode !== null" style="margin-bottom: 20px;">
+    <button class="md-button" @click="$store.app.searchMode = null">🔙 Back to Choice</button>
+</div>
+
+<p class="location-section">A highly opinionated curated collection of places to go and things to do in Buffalo's City Proper</p>
+
 <div class="tabbed-set tabbed-alternate" data-tabs="1:27"><input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio" /><input id="__tabbed_1_2" name="__tabbed_1" type="radio" /><input id="__tabbed_1_3" name="__tabbed_1" type="radio" /><input id="__tabbed_1_4" name="__tabbed_1" type="radio" /><input id="__tabbed_1_5" name="__tabbed_1" type="radio" /><input id="__tabbed_1_6" name="__tabbed_1" type="radio" /><input id="__tabbed_1_7" name="__tabbed_1" type="radio" /><input id="__tabbed_1_8" name="__tabbed_1" type="radio" /><input id="__tabbed_1_9" name="__tabbed_1" type="radio" /><input id="__tabbed_1_10" name="__tabbed_1" type="radio" /><input id="__tabbed_1_11" name="__tabbed_1" type="radio" /><input id="__tabbed_1_12" name="__tabbed_1" type="radio" /><input id="__tabbed_1_13" name="__tabbed_1" type="radio" /><input id="__tabbed_1_14" name="__tabbed_1" type="radio" /><input id="__tabbed_1_15" name="__tabbed_1" type="radio" /><input id="__tabbed_1_16" name="__tabbed_1" type="radio" /><input id="__tabbed_1_17" name="__tabbed_1" type="radio" /><input id="__tabbed_1_18" name="__tabbed_1" type="radio" /><input id="__tabbed_1_19" name="__tabbed_1" type="radio" /><input id="__tabbed_1_20" name="__tabbed_1" type="radio" /><input id="__tabbed_1_21" name="__tabbed_1" type="radio" /><input id="__tabbed_1_22" name="__tabbed_1" type="radio" /><input id="__tabbed_1_23" name="__tabbed_1" type="radio" /><input id="__tabbed_1_24" name="__tabbed_1" type="radio" /><input id="__tabbed_1_25" name="__tabbed_1" type="radio" /><input id="__tabbed_1_26" name="__tabbed_1" type="radio" /><input id="__tabbed_1_27" name="__tabbed_1" type="radio" /><div class="tabbed-labels"><label for="__tabbed_1_1">🗺️ Overview</label><label for="__tabbed_1_2"><img alt="☕" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/2615.svg" title=":coffee:" /> Coffice Space</label><label for="__tabbed_1_3"><img alt="🎤" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f3a4.svg" title=":microphone:" /> karUFFALOke</label><label for="__tabbed_1_4"><img alt="🚲" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f6b2.svg" title=":bicycle:" /> Bike Me</label><label for="__tabbed_1_5"><img alt="🥓" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f953.svg" title=":bacon:" /> Unctuous Brunch</label><label for="__tabbed_1_6"><img alt="🧁" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f9c1.svg" title=":cupcake:" /> Sweet Treats</label><label for="__tabbed_1_7"><img alt="🚲" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f6b2.svg" title=":bicycle:" /> Ride Refresh Repeat</label><label for="__tabbed_1_8"><img alt="🌮" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f32e.svg" title=":taco:" /> Best Mex</label><label for="__tabbed_1_9"><img alt="🍖" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f356.svg" title=":meat_on_bone:" /> BFLO BBQ</label><label for="__tabbed_1_10"><img alt="🏪" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f3ea.svg" title=":convenience_store:" /> Bodacious Bodegas</label><label for="__tabbed_1_11"><img alt="📚" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f4da.svg" title=":books:" /> Book It</label><label for="__tabbed_1_12"><img alt="🪦" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1faa6.svg" title=":headstone:" /> Grave Matters</label><label for="__tabbed_1_13"><img alt="😆" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f606.svg" title=":laughing:" /> gUFFAwLO</label><label for="__tabbed_1_14"><img alt="🥬" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f96c.svg" title=":leafy_green:" /> Community Gardens</label><label for="__tabbed_1_15"><img alt="🍸" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f378.svg" title=":cocktail:" /> Cozy Cocktails</label><label for="__tabbed_1_16"><img alt="🤿" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f93f.svg" title=":diving_mask:" /> Dank Dives</label><label for="__tabbed_1_17"><img alt="🫦" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1fae6.svg" title=":biting_lip:" /> Date Night</label><label for="__tabbed_1_18"><img alt="🍽" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f37d.svg" title=":fork_knife_plate:" /> Diners not Denny's</label><label for="__tabbed_1_19"><img alt="🍎" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f34e.svg" title=":apple:" /> Healthy Options</label><label for="__tabbed_1_20"><img alt="🪽" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1fabd.svg" title=":wing:" /> Wingin' It</label><label for="__tabbed_1_21"><img alt="🛍" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f6cd.svg" title=":shopping_bags:" /> Thrifty Business</label><label for="__tabbed_1_22"><img alt="🎭" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f3ad.svg" title=":performing_arts:" /> Stage Craft</label><label for="__tabbed_1_23"><img alt="🎱" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f3b1.svg" title=":8ball:" /> Rack Em Up!</label><label for="__tabbed_1_24"><img alt="⛱" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/26f1.svg" title=":beach_umbrella:" /> Patio Season</label><label for="__tabbed_1_25"><img alt="🍜" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f35c.svg" title=":ramen:" /> Noods</label><label for="__tabbed_1_26"><img alt="🍴" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f374.svg" title=":fork_and_knife:" /> Not Just Wings</label><label for="__tabbed_1_27"><img alt="🤫" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f92b.svg" title=":shushing_face:" /> Secret's Out!</label></div>
 <div class="tabbed-content">
 <div class="tabbed-block">
@@ -2755,7 +2780,8 @@ style="height: 600px; width: 100%;"></div></p>
 </div>
 </div>
 </div>
-<h2 id="upcoming-events">UPCOMING EVENTS</h2>
+<h2 class="events-section">UPCOMING EVENTS</h2>
+
 <script>
   window.OUTDOOR_CATEGORIES = ["all", "cycling", "PorchFEST"];
 </script>
