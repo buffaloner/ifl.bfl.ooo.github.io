@@ -62,6 +62,16 @@ function initMaps() {
         });
         activeMaps.push(map);
         map.attributionControl.setPrefix(false);
+
+        // Slide the phone browser down so the map is fully visible when tapped
+        map.on('popupopen', function(e) {
+            if (window.innerWidth <= 768) {
+                var mapRect = map.getContainer().getBoundingClientRect();
+                var absoluteTop = mapRect.top + window.scrollY;
+                window.scrollTo({ top: absoluteTop - 60, behavior: 'smooth' });
+            }
+        });
+
         // Track state and bounds for the ResizeObserver
         var targetBounds = null;
         var targetCenter = null;
@@ -69,9 +79,12 @@ function initMaps() {
         var wasHidden = mapElement.clientWidth === 0 || mapElement.clientHeight === 0;
 
         const observer = new ResizeObserver(() => {
-            map.invalidateSize();
-            
             var isHidden = mapElement.clientWidth === 0 || mapElement.clientHeight === 0;
+            
+            // CRITICAL FIX: Never ask Leaflet to measure a hidden container!
+            if (!isHidden) {
+                map.invalidateSize();
+            }
             
             // If the tab JUST became visible, recalculate the zoom and bounds!
             if (wasHidden && !isHidden) {
@@ -166,9 +179,10 @@ function initMaps() {
                                 
                                 // Inject mobile-friendly popup constraints
                                 layer.bindPopup(popupContent, {
-                                    maxWidth: 280, // Prevent it from blowing out small phone screens
-                                    minWidth: 200, // Matches our inline CSS for safety
-                                    autoPanPadding: [15, 15] // Enforces a 15px clearance from the viewport edge
+                                    maxWidth: window.innerWidth <= 768 ? 240 : 280,
+                                    minWidth: 180,
+                                    autoPan: true, // Turn native panning back on
+                                    autoPanPadding: [30, 30] // Demand a 30px safety buffer from all screen edges
                                 });
                             }
                         }
@@ -194,8 +208,9 @@ function initMaps() {
                     var lngSpan = ne.lng - sw.lng;
                     var topPadding = Math.max(latSpan * 0.3, 0.02);
                     
-                    // Enforce a minimum absolute longitude padding so popups clear East/West edges on mobile screens
-                    var sidePadding = Math.max(lngSpan * 0.1, 0.02); 
+                    // CRITICAL HORIZONTAL FIX: Give mobile screens massive horizontal "slack" (0.15 degrees = ~10 miles)
+                    // This allows Leaflet's autoPan to slide the popup fully onto the screen without hitting the wall!
+                    var sidePadding = window.innerWidth <= 768 ? 0.15 : Math.max(lngSpan * 0.1, 0.02); 
                     
                     var popupSafeBounds = L.latLngBounds(
                         L.latLng(sw.lat - (latSpan * 0.1), sw.lng - sidePadding),

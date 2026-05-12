@@ -40,7 +40,8 @@ a.nt-card-link {
 .nt-card-image {
     width: 100%;
     height: 200px;
-    background-size: cover;
+    background-size: contain; /* Fits the whole SVG inside the frame without cropping */
+    background-repeat: no-repeat; /* Prevents tiling if the SVG is smaller than the card */
     background-position: center;
 }
 
@@ -54,7 +55,7 @@ a.nt-card-link {
 }
 
 .nt-card-title {
-    font-family: 'MyBuffaloFont', sans-serif; /* Your custom font! */
+    font-family: 'Newsense', sans-serif; /* Your custom font! */
     font-size: 1.4rem;
     font-weight: bold;
     margin-top: 0;
@@ -74,23 +75,66 @@ a.nt-card-link {
 
 .nt-cards.image-bg .nt-card {
     position: relative;
-    min-height: 300px;
-    border: none;
+    aspect-ratio: 1 / 1; 
+    min-height: auto;
+    display: block; /* Removing flex so absolute positioning is undisputed */
+    padding: 0; 
 }
 
-.nt-cards.image-bg .nt-card-image {
+/* Target BOTH div backgrounds AND img tags to cover all possible DOM structures */
+.nt-cards.image-bg .nt-card-image,
+.nt-cards.image-bg .nt-card-image img {
+    position: absolute !important; 
+    
+    /* THE IRONCLAD BOUNDING BOX */
+    top: 2rem !important; 
+    bottom: 5rem !important; /* Leaves exactly 5rem at the bottom for your text block */
+    left: 2rem !important; 
+    right: 2rem !important;
+    
+    /* Force MkDocs to respect our bounding box instead of intrinsic SVG dimensions */
+    width: auto !important; 
+    height: auto !important;
+    margin: 0 !important; 
+    padding: 0 !important;
+    z-index: 0;
+    
+    /* For standard background-image divs */
+    background-size: contain !important; 
+    background-position: center top !important; 
+    background-repeat: no-repeat !important;
+    
+    /* For inline <img> tags */
+    object-fit: contain !important;
+    object-position: center top !important;
+    
+    transition: filter 0.3s ease;
+}
+
+.nt-cards.image-bg .nt-card-content {
     position: absolute;
-    top: 0; left: 0; right: 0; bottom: 0;
-    height: 100%;
-    z-index: 1;
+    bottom: 0; left: 0; right: 0;
+    padding: 1.5rem; 
+    z-index: 2;
+}
+
+/* MkDocs Material Dark Mode Override */
+/* Uses :has() to check if the Python script injected our hidden .no-invert-flag into the content */
+[data-md-color-scheme="slate"] .nt-card:not(:has(.no-invert-flag)) .nt-card-image,
+[data-md-color-scheme="slate"] .nt-card:not(:has(.no-invert-flag)) .nt-card-image img {
+    /* Inverts black/white while keeping original hues roughly intact */
+    filter: invert(1) hue-rotate(180deg) !important;
 }
 
 /* Adds a dark gradient overlay so white text is always readable */
-.nt-cards.image-bg .nt-card-image::after {
+/* Moved to .nt-card so CSS filters applied to the image don't invert the shadow gradient */
+.nt-cards.image-bg .nt-card::after {
     content: '';
     position: absolute;
     top: 0; left: 0; right: 0; bottom: 0;
     background: linear-gradient(to bottom, rgba(0,0,0,0) 20%, rgba(0,0,0,0.85) 100%);
+    pointer-events: none; /* Allows clicks to safely pass through to the card link */
+    z-index: 1;
 }
 
 .nt-cards.image-bg .nt-card-content {

@@ -6,6 +6,13 @@
     font-style: normal;
     font-display: block;
 }
+.font-emilio {
+    font-family: 'Emilio';
+    src: url('fonts/emilio.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: block;
+}
 @font-face {
     font-family: 'HighSchool';
     src: url('fonts/highschool.woff2') format('woff2');
@@ -20,4 +27,44 @@
     font-weight: 400;
     font-style: normal;
     font-display: block;
+}
+
+/* 1. Define the font and tell the browser where to download it */
+@font-face {
+    font-family: 'PixelCowboy';
+    src: url('fonts/pixel-cowboy.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap; /* 'swap' is generally better for UX so text isn't invisible while loading */
+}
+
+/* 2. Create the utility class to apply the font to specific elements */
+.font-pixel-cowboy {
+    font-family: 'PixelCowboy', sans-serif !important; /* Fallback font added just in case */
+}
+
+@font-face {
+    font-family: 'Newsense';
+    src: url('fonts/newsense.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap; /* 'swap' is generally better for UX so text isn't invisible while loading */
+}
+
+/* 2. Create the utility class to apply the font to specific elements */
+.font-newsense {
+    font-family: 'Newsense', sans-serif !important; /* Fallback font added just in case */
+}
+
+@font-face {
+    font-family: 'DrKabel';
+    src: url('fonts/drkabel.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap; /* 'swap' is generally better for UX so text isn't invisible while loading */
+}
+
+/* 2. Create the utility class to apply the font to specific elements */
+.font-drkabel {
+    font-family: 'DrKabel', sans-serif !important; /* Fallback font added just in case */
 }
