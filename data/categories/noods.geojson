@@ -1,0 +1,320 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8986272,
+          42.9232074
+        ]
+      },
+      "properties": {
+        "name": "William's Kitchen",
+        "url": "https://www.google.com/maps/place/William's+Kitchen/data=!4m2!3m1!1s0x89d3131d3e60ece3:0x7016ec5e42f06af3",
+        "Address": "1432 Niagara St, Buffalo, NY 14213, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8986273,
+          42.9231985
+        ]
+      },
+      "properties": {
+        "name": "Phyu Thein",
+        "url": "https://www.google.com/maps/place/Phyu+Thein/data=!4m2!3m1!1s0x89d3136cfd17f68f:0x45b63790516c27c9",
+        "Address": "1432 Niagara St, Buffalo, NY 14213, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8773873,
+          42.9249637
+        ]
+      },
+      "properties": {
+        "name": "Poke Thai Kitchen",
+        "url": "https://www.google.com/maps/place/Poke+Thai+Kitchen/data=!4m2!3m1!1s0x89d313fc8cf38905:0xc08d4ac04c7c50e1",
+        "Address": "1020 Elmwood Ave, Buffalo, NY 14222, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8535373,
+          42.9478896
+        ]
+      },
+      "properties": {
+        "name": "Taste of Siam",
+        "url": "https://www.google.com/maps/place/Taste+of+Siam/data=!4m2!3m1!1s0x89d312e6ce857ecb:0x55290b496208b044",
+        "Address": "1472 Hertel Ave, Buffalo, NY 14216, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8790367,
+          42.9725182
+        ]
+      },
+      "properties": {
+        "name": "Chin Hills Restaurant",
+        "url": "https://www.google.com/maps/place/Chin+Hills+Restaurant/data=!4m2!3m1!1s0x89d36d0370f792c7:0x9a643c1416b74a2",
+        "Address": "2756 Elmwood Ave, Kenmore, NY 14217, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.868851,
+          42.9432035
+        ]
+      },
+      "properties": {
+        "name": "JBC Rice Noodles & Ramen",
+        "url": "https://www.google.com/maps/place/JBC+Rice+Noodles+%26+Ramen/data=!4m2!3m1!1s0x89d36d0057556233:0xc9b5f259c638cdf4",
+        "Address": "2166 Delaware Ave, Buffalo, NY 14216, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8773826,
+          42.9249603
+        ]
+      },
+      "properties": {
+        "name": "Rin Citi",
+        "url": "https://www.google.com/maps/place/Rin+Citi/data=!4m2!3m1!1s0x89d313005765efcb:0x9676d218500eb424",
+        "Address": "1020 Elmwood Ave, Buffalo, NY 14222, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8069335,
+          42.8534939
+        ]
+      },
+      "properties": {
+        "name": "D.A. Eatz",
+        "url": "https://www.google.com/maps/place/D.A.+Eatz/data=!4m2!3m1!1s0x89d30f29be83fe2b:0xc26a01aa6cca6808",
+        "Address": "2178 Seneca St, Buffalo, NY 14210, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8887061,
+          42.9388772
+        ]
+      },
+      "properties": {
+        "name": "Nine & Night Thai Cuisine",
+        "url": "https://www.google.com/maps/place/Nine+%26+Night+Thai+Cuisine/data=!4m2!3m1!1s0x89d3138773eb599d:0xa0b55c25159051d4",
+        "Address": "414 Amherst St, Buffalo, NY 14207, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.854766,
+          42.9475115
+        ]
+      },
+      "properties": {
+        "name": "Taisho Hertel",
+        "url": "https://www.google.com/maps/place/Taisho+Hertel/data=!4m2!3m1!1s0x89d36d1360a0eda1:0x135321a838f2531e",
+        "Address": "1435 Hertel Ave, Buffalo, NY 14216, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.877186,
+          42.9176139
+        ]
+      },
+      "properties": {
+        "name": "Wasabi Japanese Restaurant",
+        "url": "https://www.google.com/maps/place/Wasabi+Japanese+Restaurant/data=!4m2!3m1!1s0x89d312e6a9be1727:0xc8a1322b1d3be14b",
+        "Address": "752 Elmwood Ave, Buffalo, NY 14222, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8774082,
+          42.91051
+        ]
+      },
+      "properties": {
+        "name": "Taste of Asia",
+        "url": "https://www.google.com/maps/place/Taste+of+Asia/data=!4m2!3m1!1s0x89d31350e2e301ad:0x71d76d08fa16fcc0",
+        "Address": "494 Elmwood Ave, Buffalo, NY 14222, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8766782,
+          42.9011459
+        ]
+      },
+      "properties": {
+        "name": "Teton Kitchen Elmwood: Asian, Tapas, Bar & Sushi",
+        "url": "https://www.google.com/maps/place/Teton+Kitchen+Elmwood+.+Asian+Tapas+,+Bar+%26+Sushi/data=!4m2!3m1!1s0x89d3136652b543e9:0xf8c30e3a960ad591",
+        "Address": "153 Elmwood Ave, Buffalo, NY 14201, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.889798,
+          42.9154504
+        ]
+      },
+      "properties": {
+        "name": "Ph\u1edf Dollar",
+        "url": "https://www.google.com/maps/place/Ph%E1%BB%9F+Dollar/data=!4m2!3m1!1s0x89d3131b65ba7cd9:0x285c1dbd1a7ae7b2",
+        "Address": "322 W Ferry St, Buffalo, NY 14213, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8517862,
+          42.958385
+        ]
+      },
+      "properties": {
+        "name": "Yummy Thai",
+        "url": "https://www.google.com/maps/place/Yummy+Thai/data=!4m2!3m1!1s0x89d36d6828160463:0xa57cc39ab1a6bb23",
+        "Address": "914 Kenmore Ave, Buffalo, NY 14216, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7384184,
+          42.9636496
+        ]
+      },
+      "properties": {
+        "name": "Sun Cuisines",
+        "url": "https://www.google.com/maps/place/Sun+Cuisines/data=!4m2!3m1!1s0x89d3133667aa9db7:0x880fb269462bb802",
+        "Address": "1989 Niagara St, Buffalo, NY 14207, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.879135,
+          42.89938
+        ]
+      },
+      "properties": {
+        "name": "Bamboo Ridge",
+        "url": "https://www.google.com/maps/place/Bamboo+Ridge/data=!4m2!3m1!1s0x89d31300769b4e1d:0x44c1c6b04f28be9c",
+        "Address": "244 Allen St, Buffalo, NY 14201, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7851992,
+          42.9638402
+        ]
+      },
+      "properties": {
+        "name": "Rin Thai Bistro",
+        "url": "https://www.google.com/maps/place/Rin+Thai+Bistro/data=!4m2!3m1!1s0x89d3734c3bcc2507:0x8912dbc45d33a9e8",
+        "Address": "4446 Main St, Snyder, NY 14226, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.876854,
+          42.9172777
+        ]
+      },
+      "properties": {
+        "name": "SATO",
+        "url": "https://www.google.com/maps/place/SATO/data=!4m2!3m1!1s0x89d312e41ef1d343:0xa7dbae5db6f3c655",
+        "Address": "3268 Main St, Buffalo, NY 14214, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8769268,
+          42.8819402
+        ]
+      },
+      "properties": {
+        "name": "K:Dara Noodle Bar",
+        "url": "https://www.google.com/maps/place/K:Dara+Noodle+Bar/data=!4m2!3m1!1s0x89d31349c4976423:0xc7aa80aea1915c11",
+        "Address": "110 Pearl St, Buffalo, NY 14202, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8243074,
+          42.9528537
+        ]
+      },
+      "properties": {
+        "name": "SATO Ramen",
+        "url": "https://www.google.com/maps/place/SATO+Ramen/data=!4m2!3m1!1s0x89d372bcfeb1259d:0x9884ff3b26a6fd06",
+        "Address": "3268 Main St, Buffalo, NY 14214, USA"
+      }
+    }
+  ]
+}

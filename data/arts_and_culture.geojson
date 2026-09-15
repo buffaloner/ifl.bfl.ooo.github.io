@@ -1,0 +1,217 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9022142,
+          42.9363159
+        ]
+      },
+      "properties": {
+        "name": "Black Rock Arts",
+        "url": "https://www.google.com/maps/place/43+Hamilton+St/data=!4m2!3m1!1s0x89d313371999f665:0x978d8d63ffc3822c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8543019,
+          42.9136418
+        ]
+      },
+      "properties": {
+        "name": "1412 Jefferson Ave",
+        "url": "https://www.google.com/maps/place/1412+Jefferson+Ave/data=!4m2!3m1!1s0x89d312916ef40621:0x293a253a17f36516",
+        "Fun Fact": "1967 black owned bookstore. Community garden now, pay your respects",
+        "internal_link": "/profiles/67/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8798949,
+          42.900101
+        ]
+      },
+      "properties": {
+        "name": "PAUSA art house",
+        "url": "https://www.google.com/maps/place/PAUSA+art+house/data=!4m2!3m1!1s0x89d312544353181d:0xa5833074d4bfa5fd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.883479,
+          42.9017139
+        ]
+      },
+      "properties": {
+        "name": "Kleinhans Music Hall",
+        "url": "https://www.google.com/maps/place/Kleinhans+Music+Hall/data=!4m2!3m1!1s0x89d312556ad4ef4d:0x80371f56c4411107"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9053429,
+          42.950305
+        ]
+      },
+      "properties": {
+        "name": "Prairie",
+        "url": "https://www.google.com/maps/place/Prairie/data=!4m2!3m1!1s0x89d313fcfa255769:0xf18778225f656e6f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8679533,
+          42.9481418
+        ]
+      },
+      "properties": {
+        "name": "Centro Culturale Italiano Di Buffalo",
+        "url": "https://www.google.com/maps/place/Centro+Culturale+Italiano+Di+Buffalo/data=!4m2!3m1!1s0x89d36d4f9c3abdbd:0x93f387960c22d156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8776628,
+          42.8818249
+        ]
+      },
+      "properties": {
+        "name": "Buffalo Harbor Museum",
+        "url": "https://www.google.com/maps/place/Buffalo+Harbor+Museum/data=!4m2!3m1!1s0x89d3123678de1a17:0x68894aaae67078cf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8833566,
+          42.9350759
+        ]
+      },
+      "properties": {
+        "name": "Whitworth Ferguson Planetarium",
+        "url": "https://www.google.com/maps/place/Whitworth+Ferguson+Planetarium/data=!4m2!3m1!1s0x89d312d62c75ef49:0x7aa64ce3345c54b1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.830249,
+          42.8896451
+        ]
+      },
+      "properties": {
+        "name": "Buffalo Central Terminal",
+        "url": "https://www.google.com/maps/place/Buffalo+Central+Terminal/data=!4m2!3m1!1s0x89d30d8592e274c7:0x75483b7f4d37ce90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8554857,
+          42.9475635
+        ]
+      },
+      "properties": {
+        "name": "REVOLUTION GALLERY",
+        "url": "https://www.google.com/maps/place/REVOLUTION+GALLERY/data=!4m2!3m1!1s0x89d36d48ca4c8bfb:0xf9b5dc19d702a1e8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8714039,
+          42.8959612
+        ]
+      },
+      "properties": {
+        "name": "K Art Gallery",
+        "url": "https://www.google.com/maps/place/K+Art+Gallery/data=!4m2!3m1!1s0x89d3136ec20f9887:0x1375a087ba00d35e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8833211,
+          42.9138108
+        ]
+      },
+      "properties": {
+        "name": "The Buffalo Institute for Contemporary Art (BICA)",
+        "url": "https://www.google.com/maps/place/The+Buffalo+Institute+for+Contemporary+Art+(BICA)/data=!4m2!3m1!1s0x89d313ef4f4f373b:0x2f63f089d74b1d83"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8756377,
+          42.9322857
+        ]
+      },
+      "properties": {
+        "name": "Buffalo AKG Art Museum",
+        "url": "https://www.google.com/maps/place/Buffalo+AKG+Art+Museum/data=!4m2!3m1!1s0x89d312d0a69da47b:0xf90da716ec6e9ace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8779394,
+          42.9314154
+        ]
+      },
+      "properties": {
+        "name": "Burchfield Penney Art Center",
+        "url": "https://www.google.com/maps/place/Burchfield+Penney+Art+Center/data=!4m2!3m1!1s0x89d312d7233c2597:0x114b4294ca3cd148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8754164,
+          42.8936798
+        ]
+      },
+      "properties": {
+        "name": "Hallwalls Contemporary Arts Center",
+        "url": "https://www.google.com/maps/place/Hallwalls+Contemporary+Arts+Center/data=!4m2!3m1!1s0x89d31251d3645c7f:0x18a4849caef05029"
+      }
+    }
+  ]
+}

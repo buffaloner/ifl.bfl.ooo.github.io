@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8401239,
+          42.9473954
+        ]
+      },
+      "properties": {
+        "name": "Shickluna Bikes",
+        "url": "Shickluna Bikes",
+        "category": "Bike Me"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8720469,
+          42.8995376
+        ]
+      },
+      "properties": {
+        "name": "Rick Cycle Shop",
+        "url": "Rick Cycle Shop",
+        "category": "Bike Me"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8989003,
+          42.920248
+        ]
+      },
+      "properties": {
+        "name": "Campus WheelWorks",
+        "url": "Campus WheelWorks",
+        "category": "Bike Me"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8617782,
+          42.8878107
+        ]
+      },
+      "properties": {
+        "name": "GObike Community Workshop & Headquarters",
+        "url": "GObike Community Workshop & Headquarters",
+        "category": "Bike Me"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8537247,
+          42.9120378
+        ]
+      },
+      "properties": {
+        "name": "Holistic Cycles & Mobility Bank",
+        "url": "Holistic Cycles",
+        "category": "Bike Me"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.823711,
+          42.846924
+        ]
+      },
+      "properties": {
+        "name": "Ray's Radical Rides",
+        "url": "Ray's Radical Rides",
+        "category": "Bike Me"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8573401,
+          42.9441055
+        ]
+      },
+      "properties": {
+        "name": "GObike Community Workshop @ Colvin",
+        "url": "GObike Community Workshop",
+        "category": "Bike Me"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8149251,
+          42.8597691
+        ]
+      },
+      "properties": {
+        "name": "South Buffalo Wheelhouse",
+        "url": "South Buffalo Wheelhouse",
+        "category": "Bike Me"
+      }
+    }
+  ]
+}

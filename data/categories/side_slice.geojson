@@ -1,0 +1,305 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9326499,
+          42.9043658
+        ]
+      },
+      "properties": {
+        "name": "Just Pizza (Delaware)",
+        "url": "https://maps.app.goo.gl/EmgXXggKCgZ5h5Ug7",
+        "Address": "2350 Delaware Ave, Buffalo, NY 14216, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8801313,
+          42.9050448
+        ]
+      },
+      "properties": {
+        "name": "Just Pizza (Elmwood)",
+        "url": "https://maps.app.goo.gl/Q4rY1zjEo8za9sc7A",
+        "Address": "300 Elmwood Ave, Buffalo, NY 14222, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8088364,
+          42.8913185
+        ]
+      },
+      "properties": {
+        "name": "Carbone's (Lovejoy)",
+        "url": "https://maps.app.goo.gl/Ci1af2CiVYKZFXw68",
+        "Address": "232 Longnecker St, Buffalo, NY 14206, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8889582,
+          42.8668371
+        ]
+      },
+      "properties": {
+        "name": "Carbone's (First Ward)",
+        "url": "https://maps.app.goo.gl/AzfVbW9zXnJhZrb96",
+        "Address": "568 South Park Ave, Buffalo, NY 14204, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8112057,
+          42.849536
+        ]
+      },
+      "properties": {
+        "name": "Buffalo Bites Pizzeria",
+        "url": "https://maps.app.goo.gl/3JzEQL8PgdV5XnD4A",
+        "Address": "2368 Seneca St, Buffalo, NY 14210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9067678,
+          42.9223552
+        ]
+      },
+      "properties": {
+        "name": "Sports City Pizza Pub",
+        "url": "https://maps.app.goo.gl/1U4cpT6FNYR1ZN2N6",
+        "Address": "1407 Niagara St, Buffalo, NY 14213, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9049731,
+          42.9581718
+        ]
+      },
+      "properties": {
+        "name": "Pat's Pizzeria",
+        "url": "https://maps.app.goo.gl/nUgarZZKxTueCufA9",
+        "Address": "544 Ontario St, Buffalo, NY 14207, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8700153,
+          42.9181503
+        ]
+      },
+      "properties": {
+        "name": "Imperial Pizza",
+        "url": "https://maps.app.goo.gl/LijK6HBqqhUVU6tS6",
+        "Address": "1665 Main St, Buffalo, NY 14209, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8214605,
+          42.8576955
+        ]
+      },
+      "properties": {
+        "name": "Wise Guys Pizza",
+        "url": "https://maps.app.goo.gl/NpPy6DWvmcHhFRGQA",
+        "Address": "1965 Seneca St, Buffalo, NY 14210, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8327794,
+          42.8557974
+        ]
+      },
+      "properties": {
+        "name": "Gino and Joes Pizza",
+        "url": "https://maps.app.goo.gl/xdFsss6eMGXkpNSH7",
+        "Address": "141 Abbott Rd, Buffalo, NY 14220, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8238481,
+          42.8400226
+        ]
+      },
+      "properties": {
+        "name": "Mineo's South Pizzeria",
+        "url": "https://maps.app.goo.gl/JYnVdsi4WerVPh6y9",
+        "Address": "2154 South Park Ave, Buffalo, NY 14220, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8935233,
+          42.8939557
+        ]
+      },
+      "properties": {
+        "name": "Ricottas Pizza Niagara",
+        "url": "https://maps.app.goo.gl/QypYPXSStVbZbSqj9",
+        "Address": "349 Niagara St, Buffalo, NY 14201, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8881917,
+          42.9031765
+        ]
+      },
+      "properties": {
+        "name": "BFLO Pizza Bistro",
+        "url": "https://maps.app.goo.gl/cyCiPJtCg7Xd5hCa7",
+        "Address": "388 Porter Ave, Buffalo, NY 14201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8870479,
+          42.9114672
+        ]
+      },
+      "properties": {
+        "name": "Extra Extra Pizza",
+        "url": "https://maps.app.goo.gl/2f6K6wscXrRfRs789",
+        "Address": "549 W Utica St, Buffalo, NY 14213, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8511196,
+          42.9475242
+        ]
+      },
+      "properties": {
+        "name": "Bob & John's",
+        "url": "https://maps.app.goo.gl/ExfhWL8xraGXMoJy5",
+        "Address": "1545 Hertel Ave, Buffalo, NY 14216"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8521203,
+          42.9474737
+        ]
+      },
+      "properties": {
+        "name": "La Pizza Club",
+        "url": "https://maps.app.goo.gl/3HZGs8iWRn2h2uHw5",
+        "Address": "1511 Hertel Ave, Buffalo, NY 14216"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8267616,
+          42.9509805
+        ]
+      },
+      "properties": {
+        "name": "Flex Pizza",
+        "url": "https://maps.app.goo.gl/8eC5bKpJWnYAkj4L9",
+        "Address": "3172 Main St, Buffalo, NY 14214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8574803,
+          42.9532543
+        ]
+      },
+      "properties": {
+        "name": "Pizza & Chicken Delights",
+        "url": "https://maps.app.goo.gl/MA1YgLGcxX5uTQgk7",
+        "Address": "3337 Bailey Ave, Buffalo, NY 14215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8669519,
+          42.9480939
+        ]
+      },
+      "properties": {
+        "name": "Avenue's Restaurant & Catering",
+        "url": "https://maps.app.goo.gl/PkkzjPZZLkzcc3Lw5",
+        "Address": "1116 Hertel Ave, Buffalo, NY 14216"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8912861,
+          42.9375508
+        ]
+      },
+      "properties": {
+        "name": "Joe's New York Style Pizza",
+        "url": "https://maps.app.goo.gl/9tQUM5UkKzT8tdHm6",
+        "Address": "345 Amherst St, Buffalo, NY 14207"
+      }
+    }
+  ]
+}
