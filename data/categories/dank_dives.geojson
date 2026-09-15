@@ -600,6 +600,22 @@
         "url": "https://www.google.com/maps/place/Tudor+Lounge/data=!4m2!3m1!1s0x89d312503c59af59:0x558a9ae33f8aa4f",
         "Address": "335 Franklin St, Buffalo, NY 14202, USA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.890694,
+          42.9200217
+        ]
+      },
+      "properties": {
+        "name": "Indigo Chapel",
+        "url": "",
+        "short_desc": "Formerly The Tabernacle",
+        "Address": "220 Grant St, Buffalo, NY 14213, USA"
+      }
     }
   ]
 }

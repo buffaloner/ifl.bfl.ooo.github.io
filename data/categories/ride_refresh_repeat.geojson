@@ -1080,6 +1080,37 @@
         "url": "https://maps.app.goo.gl/HXoo2Wt55ak8VpVm6",
         "Address": "76 Skillen St, Buffalo, NY 14207, USA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8882612,
+          42.9058558
+        ]
+      },
+      "properties": {
+        "name": "Augies",
+        "url": "https://www.google.com/maps/place/Mister+Sizzle's/data=!4m2!3m1!1s0x89d31342c08b33a7:0xa0522e6005b523a7",
+        "Address": "346 Connecticut St, Buffalo, NY 14213, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.890694,
+          42.9200217
+        ]
+      },
+      "properties": {
+        "name": "Indigo Chapel",
+        "url": "",
+        "short_desc": "Formerly The Tabernacle",
+        "Address": "220 Grant St, Buffalo, NY 14213, USA"
+      }
     }
   ]
 }

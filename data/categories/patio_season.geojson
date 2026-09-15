@@ -210,6 +210,36 @@
         "url": "https://www.google.com/maps/place/Flavors+of+Jean/data=!4m2!3m1!1s0x89d36de1329459bf:0x32d2cdc0390b7a53",
         "Address": "1187 Tonawanda St, Tonawanda Town, NY 14207, USA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8893045,
+          42.9568016
+        ]
+      },
+      "properties": {
+        "name": "Sophia's Breakfast Bar and Grill",
+        "url": "https://www.google.com/maps/place/Sophia's+Breakfast+Bar+and+Grill/data=!4m2!3m1!1s0x89d36cdea86fa7e9:0x693c873d2e94c1c0",
+        "Address": "715 Military Rd, Buffalo, NY 14216, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.878722,
+          42.8967153
+        ]
+      },
+      "properties": {
+        "name": "Betty's",
+        "url": "https://www.google.com/maps/place/Betty's/data=!4m2!3m1!1s0x89d31253dba7e5c7:0x2d9b518c6d8a1704",
+        "Address": "370 Virginia St, Buffalo, NY 14201, USA"
+      }
     }
   ]
 }
