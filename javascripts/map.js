@@ -100,9 +100,9 @@ function initMaps() {
 
         // UPGRADED: CARTO Positron Basemap for individual maps
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            maxZoom: 20,
+            maxZoom: 19, // OSM standard tiles generally support up to zoom level 19
             attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-            subdomains: 'abcd'
+            subdomains: 'abc' // Optional, Leaflet defaults to 'abc'
         }).addTo(map);
 
         function loadMapPoints(dataName, boundaryGeoJson) {
